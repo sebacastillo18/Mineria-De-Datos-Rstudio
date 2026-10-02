@@ -1,0 +1,3016 @@
+﻿id_paciente,edad,comuna,diagnostico_principal,cantidad_consultas,dias_hospitalizacion,fecha_ultima_atencion,costo_atencion
+PAC-79163,73,Valparaíso,Neumonía,9.0,0,2025-07-02,156000.0
+PAC-42325,65,Santiago,Infección Respiratoria Aguda,6.0,10,2026-04-30,$173.000
+PAC-24168,4,Las Condes,Neumonía,15.0,,2026-07-23,205000.0
+PAC-92240,43,Antofagasta,HTA,6.0,5,24/03/2025,755000.0
+PAC-91959,5,santiago,Diabetes Mellitus Tipo 2,6.0,10,,565000.0
+PAC-25860,,Viña del Mar,Hipertensión Arterial,5.0,0,2025-04-03,58000.0
+PAC-26334,68,Antofagasta,Neumonía,,0,2024-11-20,830000.0
+PAC-78146,27,,Infección Respiratoria Aguda,12.0,5,2026-05-22,128000.0
+PAC-23238,28,Maipú,Apendicitis Aguda,10.0,1,2026-02-10,616000.0
+PAC-99353,88,Maipú,Infección Respiratoria Aguda,9.0,1,,
+PAC-76244,92,,Artrosis,14.0,1,2024-10-10,645000.0
+PAC-20458,68,Maipú,Gastritis Crónica,3.0,3,2026-08-05,113000.0
+PAC-47930,59,,Artrosis,1.0,1,2030-01-01,
+PAC-65296,40,Las Condes,Artrosis,4.0,,2026-01-08,787000.0
+PAC-66498,77,Puente Alto,Apendicitis Aguda,14.0,0,2025-05-06,401000.0
+PAC-78327,55,Providencia ,HTA,2.0,0,2024-10-16,259000.0
+PAC-23947,71,Maipú,HTA,11.0,0,2025-10-11,
+PAC-84847,39,Maipú,IRA,3.0,,2027-15-40,166000.0
+PAC-71348,54,Las Condes,Diabetes Mellitus Tipo 2,1.0,1,2025-09-26,316000.0
+PAC-14117,44,La Florida,DM2,4.0,14,2025-05-01,643000.0
+PAC-36130,51,Las Condes,Hipertensión Arterial,170.0,0,2026-05-12,567000.0
+PAC-38683,,Concepción,Artrosis,7.0,2,Sin registro,-150000
+PAC-79615,28,Las Condes,HTA,9.0,3,2025-08-21,675000.0
+PAC-50768,38,Concepción,Infección Respiratoria Aguda,2.0,0,16/03/2025,282000.0
+PAC-56898,12,La Florida,IRA,4.0,10,2024-10-28,603000.0
+PAC-21114,42,Puente Alto,Infección Respiratoria Aguda,13.0,0,2025-02-16,467000.0
+PAC-49321,22,Maipú,Hipertensión Arterial,5.0,0,2026-03-07,57000.0
+PAC-73624,12,Puente Alto,Apendicitis Aguda,15.0,10,2025-05-09,396000.0
+PAC-90173,93,Valparaíso,Apendicitis Aguda,11.0,3,,123000.0
+PAC-99016,82,Las Condes,Gastritis Crónica,8.0,,2025-10-27,290000.0
+PAC-31178,25,Maipú,HTA,5.0,10,2024-10-16,492000.0
+PAC-15817,196,Santiago,Apendicitis Aguda,9.0,1,2027-15-40,671000.0
+PAC-62383,52,Antofagasta,Gastritis Crónica,7.0,0,2026-08-12,542000.0
+PAC-79822,15,Santiago,Gastritis Crónica,13.0,3,2025-05-08,697000.0
+PAC-71069,10,Santiago,Diabetes Mellitus Tipo 2,2.0,5,2027-15-40,636000.0
+PAC-41571,0,Providencia,Neumonía,2.0,2,2025-05-08,445000.0
+PAC-99593,2,Santiago,Artrosis,10.0,0,2025-02-28,567000.0
+PAC-71953,78,Las Condes,Diabetes Mellitus Tipo 2,13.0,5,2024-11-10,0
+PAC-94246,68,Viña del Mar,Artrosis,-3.0,3,23/11/2024,-150000
+PAC-91416,65,La Florida,Gastritis Crónica,8.0,637,2026-05-13,
+PAC-10942,91,Santiago,,8.0,2,2025-11-20,450000.0
+PAC-56025,86,Las Condes,Infección Respiratoria Aguda,,3,2025-11-26,554000.0
+PAC-65933,48,Providencia,HTA,1.0,5,2025-12-24,-150000
+PAC-46559,91,Las Condes,Artrosis,14.0,0,18/09/2026,0
+PAC-89840,70,Concepción,Artrosis,2.0,0,2026-08-25,110000.0
+PAC-91560,66,Providencia ,Infección Respiratoria Aguda,2.0,14,2025-02-28,158000.0
+PAC-66179,28,Concepción,Artrosis,13.0,0,2024-09-29,822000.0
+PAC-46265,37,Valparaíso,Neumonía,7.0,5,2025-07-18,219000.0
+PAC-17716,13,Las Condes,Hipertensión Arterial,6.0,0,2025-08-25,761000.0
+PAC-96706,16,Maipu,Neumonía,15.0,,2026-02-05,57000.0
+PAC-64377,89,Antofagasta,Gastritis Crónica,15.0,1,2026-05-06,-150000
+PAC-83000,88,Antofagasta,Neumonía,2.0,14,18/02/2026,504000.0
+PAC-65461,85,Viña del Mar,Gastritis Crónica,3.0,789,2026-06-02,-150000
+PAC-86099,70,Concepción,Neumonía,14.0,0,2025-06-20,653000.0
+PAC-19071,12,Maipú,Neumonía,3.0,2,2027-15-40,194000.0
+PAC-65302,53,Providencia ,diabetes mellitus 2,12.0,2,2024-11-24,469000.0
+PAC-11658,70,Concepción,HTA,5.0,0,2026-07-12,353000.0
+PAC-34957,-13,,Diabetes Mellitus Tipo 2,5.0,0,,180000.0
+PAC-49240,14,Viña del Mar,Diabetes Mellitus Tipo 2,15.0,0,2026-05-29,330000.0
+PAC-27154,68,Maipú,Neumonía,5.0,3,2025-05-18,716000.0
+PAC-67091,72,Santiago,Infección Respiratoria Aguda,4.0,2,2025-02-01,80000.0
+PAC-97782,62,Concepción,Artrosis,15.0,1,2026-05-21,20000.0
+PAC-93810,11,Viña del Mar,Gastritis Crónica,4.0,0,2026-09-18,758000.0
+PAC-95813,19,Santiago,Infección Respiratoria Aguda,14.0,10,Sin registro,-150000
+PAC-88504,52,Providencia,DM2,12.0,,2026-01-22,148000.0
+PAC-24592,69,Santiago,diabetes mellitus 2,13.0,10,2026-03-06,577000.0
+PAC-65255,4,santiago,Gastritis Crónica,13.0,1,2025-10-20,549000.0
+PAC-53933,21,,Artrosis,4.0,,2025-11-17,
+PAC-29769,29,Maipú,DM2,8.0,2,2024-12-24,544000.0
+PAC-92544,-7,,Infección Respiratoria Aguda,10.0,14,Sin registro,352000.0
+PAC-44741,46,Las Condes,Neumonía,2.0,,2026-01-02,471000.0
+PAC-66057,54,Pte Alto,HTA,8.0,3,08/12/2024,518000.0
+PAC-59692,28,Viña del Mar,Diabetes Mellitus Tipo 2,1.0,,2025-04-04,68000.0
+PAC-93227,18,santiago,Hipertensión Arterial,3.0,2,2025-01-02,139000.0
+PAC-92960,59,Providencia ,Hipertensión Arterial,,1,2030-01-01,396000.0
+PAC-79616,-9,santiago,Artrosis,12.0,5,2026-03-21,304000.0
+PAC-38043,70,Valparaíso,IRA,10.0,5,03/02/2026,758000.0
+PAC-31178,,Antofagasta,Apendicitis Aguda,2.0,0,2026-03-23,551000.0
+PAC-33053,89,Pte Alto,Hipertensión Arterial,3.0,14,2025-02-14,678000.0
+PAC-99687,87,Las Condes,IRA,13.0,3,2026-01-29,420000.0
+PAC-72296,4,Las Condes,diabetes mellitus 2,9.0,0,2025-03-21,92000.0
+PAC-69829,63,Antofagasta,HTA,2.0,3,2025-05-30,155000.0
+PAC-89069,81,La Florida,diabetes mellitus 2,9.0,0,2025-08-14,445000.0
+PAC-89457,89,Concepción,Infección Respiratoria Aguda,15.0,0,2025-11-17,395000.0
+PAC-47450,23,Viña del Mar,Hipertensión Arterial,,1,03/03/2026,476000.0
+PAC-92240,60,santiago,Gastritis Crónica,6.0,3,2026-01-02,502000.0
+PAC-10942,55,Providencia,Infección Respiratoria Aguda,9.0,10,,369000.0
+PAC-23396,19,Providencia ,Artrosis,5.0,0,2026-04-16,237000.0
+PAC-41285,20,Providencia,Neumonía,,14,2026-02-22,503000.0
+PAC-12757,52,santiago,HTA,12.0,,2025-05-08,46000.0
+PAC-66531,79,Las Condes,Gastritis Crónica,7.0,0,2030-01-01,118000.0
+PAC-49363,68,Providencia,Apendicitis Aguda,7.0,0,2025-09-25,691000.0
+PAC-23396,11,Santiago,diabetes mellitus 2,4.0,1,2025-10-18,
+PAC-12560,76,Providencia ,DM2,6.0,0,2025-03-28,240000.0
+PAC-45382,0,Santiago,Gastritis Crónica,15.0,0,2024-10-04,812000.0
+PAC-83000,226,,IRA,9.0,645,2025-10-12,585000.0
+PAC-24168,61,Maipu,Apendicitis Aguda,14.0,2,,405000.0
+PAC-93507,-15,Pte Alto,DM2,8.0,716,2025-08-01,793000.0
+PAC-35995,56,Viña del Mar,Diabetes Mellitus Tipo 2,9.0,0,2024-10-28,0
+PAC-83000,25,Las Condes,HTA,10.0,0,2026-03-22,0
+PAC-89069,,Pte Alto,Hipertensión Arterial,7.0,0,2024-10-06,780000.0
+PAC-65518,30,Concepción,Infección Respiratoria Aguda,,1,2025-12-15,278000.0
+PAC-65933,38,Las Condes,Apendicitis Aguda,12.0,5,2026-03-31,49000.0
+PAC-24029,12,Concepción,Gastritis Crónica,2.0,3,2027-15-40,567000.0
+PAC-17716,21,Providencia,Artrosis,3.0,0,2025-04-21,
+PAC-16006,64,Puente Alto,Hipertensión Arterial,4.0,14,2026-07-27,127000.0
+PAC-57400,38,Las Condes,Neumonía,5.0,10,2026-03-25,457000.0
+PAC-85849,8,Valparaíso,Diabetes Mellitus Tipo 2,5.0,0,2026-05-16,496000.0
+PAC-17592,4,Viña del Mar,IRA,15.0,2,2025-07-31,137000.0
+PAC-73372,86,Valparaíso,Gastritis Crónica,7.0,0,2026-04-27,$208.000
+PAC-99353,81,Providencia,DM2,2.0,0,2025-06-28,110000.0
+PAC-95181,60,Maipu,Gastritis Crónica,15.0,,2025-04-10,331000.0
+PAC-76244,86,Concepción,diabetes mellitus 2,8.0,0,2025-12-03,133000.0
+PAC-44760,6,Antofagasta,Infección Respiratoria Aguda,12.0,10,2024-12-11,$80.000
+PAC-74686,26,Las Condes,Apendicitis Aguda,5.0,1,2025-01-25,553000.0
+PAC-95181,36,Valparaíso,Gastritis Crónica,3.0,0,2027-15-40,128000.0
+PAC-17331,1,Puente Alto,Artrosis,13.0,3,2024-10-24,114000.0
+PAC-22704,88,Valparaíso,Hipertensión Arterial,4.0,0,2026-02-19,0
+PAC-30028,48,Providencia,Hipertensión Arterial,2.0,782,2025-06-12,640000.0
+PAC-29313,28,,,11.0,10,2030-01-01,309000.0
+PAC-15075,71,Valparaíso,Hipertensión Arterial,6.0,3,2025-03-21,426000.0
+PAC-80798,203,Providencia,Artrosis,6.0,14,2025-05-08,128000.0
+PAC-51145,69,Providencia,Diabetes Mellitus Tipo 2,6.0,1,2025-10-20,501000.0
+PAC-35203,49,Valparaíso,Infección Respiratoria Aguda,10.0,0,2026-05-17,387000.0
+PAC-30969,61,Providencia,HTA,4.0,3,2026-06-06,469000.0
+PAC-18418,76,Puente Alto,Neumonía,10.0,5,2024-11-19,350000.0
+PAC-46463,41,Pte Alto,IRA,6.0,2,2026-02-05,210000.0
+PAC-33509,35,Viña del Mar,Artrosis,,0,2025-11-23,347000.0
+PAC-96951,94,Concepción,Apendicitis Aguda,4.0,5,,227000.0
+PAC-39444,,Puente Alto,,13.0,3,2026-06-17,161000.0
+PAC-79615,64,Concepción,Gastritis Crónica,6.0,1,2027-15-40,705000.0
+PAC-65108,72,La Florida,Diabetes Mellitus Tipo 2,2.0,0,2025-12-25,383000.0
+PAC-10851,20,Antofagasta,IRA,14.0,0,2025-11-19,232000.0
+PAC-31299,62,Las Condes,Artrosis,15.0,3,Sin registro,194000.0
+,11,Las Condes,Diabetes Mellitus Tipo 2,4.0,14,2024-11-12,485000.0
+PAC-18161,164,Providencia ,Diabetes Mellitus Tipo 2,6.0,2,2026-09-06,176000.0
+PAC-13534,79,La Florida,Infección Respiratoria Aguda,11.0,2,2026-03-29,93000.0
+PAC-18993,76,Antofagasta,Hipertensión Arterial,-3.0,0,2025-08-10,501000.0
+PAC-10282,37,Maipu,Gastritis Crónica,9.0,,2025-07-26,244000.0
+PAC-44099,83,Valparaíso,DM2,11.0,2,2026-06-03,826000.0
+PAC-45774,58,Concepción,DM2,15.0,,2025-08-22,34000.0
+PAC-70889,-6,Concepción,HTA,5.0,0,,598000.0
+PAC-10726,60,santiago,Gastritis Crónica,-3.0,0,2026-09-02,764000.0
+PAC-40007,43,Concepción,Neumonía,15.0,,2025-04-24,805000.0
+PAC-92149,24,La Florida,,3.0,,2025-09-20,580000.0
+PAC-12552,4,Valparaíso,Hipertensión Arterial,13.0,5,,135000.0
+PAC-49321,67,,Apendicitis Aguda,13.0,0,2027-15-40,765000.0
+PAC-27601,58,Valparaíso,Gastritis Crónica,2.0,0,2025-02-21,57000.0
+PAC-38906,90,Antofagasta,Gastritis Crónica,1.0,0,2024-12-28,463000.0
+PAC-99166,-15,Valparaíso,Hipertensión Arterial,269.0,2,2026-06-04,511000.0
+PAC-79352,5,Viña del Mar,HTA,3.0,2,2026-02-24,507000.0
+PAC-10942,39,Las Condes,Infección Respiratoria Aguda,7.0,3,2030-01-01,820000.0
+PAC-40828,94,Providencia ,IRA,6.0,3,2026-03-01,-150000
+PAC-42177,-10,Providencia,IRA,1.0,0,2025-10-19,407000.0
+PAC-57819,,,Neumonía,8.0,0,2026-03-22,748000.0
+PAC-85674,28,,Infección Respiratoria Aguda,4.0,3,2025-04-19,346000.0
+PAC-79822,38,Valparaíso,Infección Respiratoria Aguda,8.0,5,2026-05-31,$59.000
+PAC-97782,9,Maipú,HTA,13.0,2,2026-02-22,-150000
+PAC-47196,23,Pte Alto,Apendicitis Aguda,3.0,0,2026-07-03,306000.0
+PAC-67654,36,Puente Alto,Apendicitis Aguda,10.0,1,2026-09-06,274000.0
+PAC-24993,10,Concepción,DM2,2.0,10,2024-10-17,549000.0
+PAC-11934,94,La Florida,Infección Respiratoria Aguda,4.0,460,2030-01-01,617000.0
+PAC-52753,5,Valparaíso,Artrosis,10.0,0,2026-04-09,669000.0
+PAC-83975,33,Santiago,Diabetes Mellitus Tipo 2,15.0,0,2026-02-14,476000.0
+PAC-51904,39,La Florida,diabetes mellitus 2,3.0,3,2025-04-01,472000.0
+PAC-96752,2,Concepción,Artrosis,6.0,,2026-05-10,25000.0
+PAC-76307,47,Providencia ,DM2,8.0,,2025-01-28,524000.0
+PAC-12560,201,Viña del Mar,Neumonía,14.0,14,,-150000
+PAC-70515,13,Valparaíso,Gastritis Crónica,12.0,0,2025-02-20,678000.0
+PAC-91070,36,santiago,Neumonía,3.0,0,18/02/2026,808000.0
+PAC-23970,24,Valparaíso,Gastritis Crónica,5.0,0,2026-07-28,261000.0
+,77,,Neumonía,12.0,1,2026-05-29,669000.0
+PAC-24993,15,Antofagasta,Hipertensión Arterial,12.0,3,2025-01-03,481000.0
+PAC-51245,10,Concepción,Hipertensión Arterial,2.0,0,2026-06-13,27000.0
+PAC-84691,-2,,,14.0,0,17/07/2026,486000.0
+PAC-80678,31,Maipú,HTA,7.0,0,06/09/2026,274000.0
+PAC-67125,8,Viña del Mar,Neumonía,,1,,826000.0
+PAC-70952,28,Las Condes,Gastritis Crónica,15.0,470,2025-04-29,57000.0
+PAC-42092,63,Valparaíso,Neumonía,3.0,0,,314000.0
+PAC-21226,52,Maipu,Diabetes Mellitus Tipo 2,,2,2025-02-23,431000.0
+PAC-19287,34,La Florida,Apendicitis Aguda,5.0,0,2030-01-01,282000.0
+PAC-97782,46,Las Condes,Hipertensión Arterial,5.0,14,2026-06-15,197000.0
+PAC-73699,56,La Florida,Gastritis Crónica,13.0,5,2025-08-15,39000.0
+,19,Las Condes,Diabetes Mellitus Tipo 2,-3.0,0,2027-15-40,78000.0
+PAC-41195,67,La Florida,Gastritis Crónica,2.0,1,2024-12-21,511000.0
+PAC-46585,41,Concepción,HTA,4.0,0,2025-01-25,841000.0
+PAC-22280,54,santiago,Diabetes Mellitus Tipo 2,13.0,3,2024-10-12,272000.0
+PAC-63354,,Puente Alto,DM2,12.0,0,2026-03-17,848000.0
+PAC-26544,39,Antofagasta,Hipertensión Arterial,310.0,857,2026-02-24,841000.0
+PAC-56357,93,,Neumonía,7.0,10,2025-03-18,599000.0
+PAC-10772,4,Antofagasta,Hipertensión Arterial,10.0,2,2025-04-20,
+PAC-66155,32,Antofagasta,Gastritis Crónica,10.0,1,2025-07-05,484000.0
+PAC-96951,61,,Artrosis,1.0,3,2025-09-05,213000.0
+PAC-73092,77,Antofagasta,Apendicitis Aguda,6.0,2,Sin registro,410000.0
+PAC-19508,24,Concepción,Infección Respiratoria Aguda,7.0,1,2025-05-06,157000.0
+,162,Las Condes,Apendicitis Aguda,7.0,0,2025-04-20,63000.0
+PAC-27601,,Puente Alto,DM2,5.0,,2026-04-08,55000.0
+PAC-81066,80,Viña del Mar,Infección Respiratoria Aguda,8.0,2,,252000.0
+PAC-83975,61,Santiago,Artrosis,12.0,0,2025-08-25,-150000
+PAC-41195,44,Viña del Mar,Infección Respiratoria Aguda,12.0,2,2026-02-25,505000.0
+PAC-37460,-3,Las Condes,Infección Respiratoria Aguda,2.0,,2025-11-15,291000.0
+PAC-50687,4,La Florida,Hipertensión Arterial,11.0,0,2026-04-08,425000.0
+PAC-31798,-11,La Florida,HTA,3.0,14,06/11/2024,468000.0
+PAC-67905,83,Maipú,Artrosis,10.0,5,2030-01-01,726000.0
+PAC-98259,44,Santiago,Diabetes Mellitus Tipo 2,9.0,,01/10/2024,688000.0
+PAC-65255,17,Concepción,Neumonía,1.0,765,2030-01-01,527000.0
+PAC-51347,10,Antofagasta,Infección Respiratoria Aguda,6.0,2,24/04/2026,
+PAC-53025,84,Providencia ,Artrosis,11.0,10,2025-07-20,124000.0
+PAC-63528,74,La Florida,Artrosis,11.0,5,2025-08-28,
+PAC-71694,87,Maipu,HTA,14.0,0,2026-07-28,777000.0
+PAC-14117,,Las Condes,Infección Respiratoria Aguda,15.0,0,2025-09-05,244000.0
+PAC-85456,78,Antofagasta,Diabetes Mellitus Tipo 2,13.0,1,2024-10-17,343000.0
+PAC-92240,35,Pte Alto,Gastritis Crónica,12.0,2,2030-01-01,
+PAC-44814,-9,Providencia,Gastritis Crónica,10.0,2,2026-01-04,
+PAC-64377,84,Providencia,Gastritis Crónica,11.0,5,2026-02-14,405000.0
+PAC-69638,46,Viña del Mar,,4.0,10,2024-10-17,536000.0
+PAC-34914,93,Las Condes,DM2,3.0,14,2026-09-24,551000.0
+PAC-81426,44,Santiago,Hipertensión Arterial,7.0,2,2030-01-01,258000.0
+PAC-21915,4,,Artrosis,13.0,0,2026-03-12,731000.0
+PAC-95813,18,Maipú,Neumonía,15.0,0,2026-07-05,115000.0
+PAC-18981,28,Maipú,Neumonía,7.0,5,2025-03-27,281000.0
+PAC-58393,20,Concepción,Hipertensión Arterial,13.0,14,2026-06-25,196000.0
+PAC-54118,3,Antofagasta,Hipertensión Arterial,225.0,3,2025-09-20,-150000
+PAC-36365,-6,Pte Alto,Neumonía,4.0,,,641000.0
+PAC-82512,88,Providencia ,Diabetes Mellitus Tipo 2,15.0,0,2025-08-03,395000.0
+PAC-21003,86,Puente Alto,HTA,4.0,0,,42000.0
+PAC-13201,39,Puente Alto,HTA,4.0,5,2024-10-27,528000.0
+PAC-24663,40,Valparaíso,,12.0,0,2026-04-10,587000.0
+PAC-67905,54,Antofagasta,Apendicitis Aguda,1.0,10,2026-05-03,-150000
+PAC-19071,60,Las Condes,DM2,13.0,10,2026-01-01,439000.0
+PAC-46559,44,Concepción,Artrosis,14.0,,2025-01-18,211000.0
+PAC-73788,25,Puente Alto,DM2,15.0,5,2025-10-09,467000.0
+PAC-97410,49,Viña del Mar,DM2,8.0,3,2024-11-29,622000.0
+PAC-30866,6,La Florida,DM2,7.0,,2025-03-28,0
+PAC-70589,80,Las Condes,Neumonía,3.0,3,2026-06-18,381000.0
+PAC-81810,13,Antofagasta,diabetes mellitus 2,10.0,5,2025-06-25,725000.0
+PAC-16826,30,Antofagasta,Neumonía,8.0,1,2025-05-17,0
+PAC-79822,1,Providencia ,Hipertensión Arterial,15.0,0,2025-10-24,
+PAC-35313,81,Concepción,Artrosis,,3,2026-08-27,0
+PAC-16006,29,Antofagasta,Apendicitis Aguda,9.0,2,2026-02-23,485000.0
+PAC-40495,21,La Florida,Diabetes Mellitus Tipo 2,11.0,5,,-150000
+PAC-46585,-3,Viña del Mar,Diabetes Mellitus Tipo 2,2.0,10,Sin registro,132000.0
+PAC-38569,60,Providencia,Apendicitis Aguda,9.0,10,2025-12-28,584000.0
+PAC-69638,196,,Apendicitis Aguda,12.0,3,2025-09-05,603000.0
+PAC-93136,2,Valparaíso,Gastritis Crónica,8.0,1,2025-06-11,67000.0
+PAC-68800,93,santiago,Infección Respiratoria Aguda,8.0,1,2030-01-01,616000.0
+PAC-95990,12,Maipú,Neumonía,3.0,0,2025-04-02,
+PAC-71953,3,Antofagasta,Neumonía,3.0,0,2027-15-40,749000.0
+PAC-16057,78,Providencia,Gastritis Crónica,5.0,0,2030-01-01,326000.0
+PAC-35995,13,Antofagasta,Infección Respiratoria Aguda,7.0,1,2025-05-12,316000.0
+PAC-29769,87,Maipú,Apendicitis Aguda,12.0,10,2025-06-25,398000.0
+PAC-93579,60,Puente Alto,Diabetes Mellitus Tipo 2,11.0,2,2025-08-17,441000.0
+PAC-96752,31,La Florida,Hipertensión Arterial,7.0,5,2030-01-01,$147.000
+PAC-42406,7,La Florida,Apendicitis Aguda,6.0,0,2025-04-09,471000.0
+PAC-47353,55,Concepción,Gastritis Crónica,9.0,3,09/06/2026,440000.0
+PAC-70889,25,Antofagasta,Apendicitis Aguda,,2,2027-15-40,593000.0
+PAC-42493,42,La Florida,HTA,14.0,,2026-01-30,184000.0
+PAC-40021,39,Valparaíso,Gastritis Crónica,1.0,521,2024-11-27,272000.0
+PAC-19287,68,Puente Alto,DM2,14.0,0,2025-07-08,596000.0
+PAC-17685,-8,Antofagasta,Apendicitis Aguda,198.0,3,2025-07-15,322000.0
+PAC-95181,86,,Hipertensión Arterial,5.0,0,2024-12-04,
+PAC-66179,69,Antofagasta,diabetes mellitus 2,1.0,14,2026-09-12,
+PAC-28373,58,,Gastritis Crónica,15.0,,2025-11-10,259000.0
+PAC-57819,42,Las Condes,Apendicitis Aguda,6.0,,2026-09-15,189000.0
+PAC-40007,24,Antofagasta,Infección Respiratoria Aguda,5.0,,2024-12-24,560000.0
+PAC-85880,48,Puente Alto,Diabetes Mellitus Tipo 2,3.0,3,09/10/2025,693000.0
+PAC-42953,30,Las Condes,Neumonía,8.0,10,2026-09-15,723000.0
+PAC-25713,27,Antofagasta,diabetes mellitus 2,240.0,790,29/07/2026,183000.0
+PAC-28131,,Providencia ,diabetes mellitus 2,1.0,,2026-05-21,459000.0
+PAC-14067,18,Valparaíso,DM2,11.0,2,2026-05-31,21000.0
+PAC-37607,20,La Florida,Neumonía,2.0,10,2025-12-15,289000.0
+PAC-95990,39,La Florida,Apendicitis Aguda,6.0,14,2026-08-29,185000.0
+PAC-38043,62,Providencia ,Gastritis Crónica,5.0,0,2025-08-31,707000.0
+PAC-84593,54,Viña del Mar,Diabetes Mellitus Tipo 2,1.0,1,2026-03-08,645000.0
+PAC-93579,39,Puente Alto,Infección Respiratoria Aguda,8.0,14,2025-05-25,417000.0
+PAC-73517,40,Maipú,Infección Respiratoria Aguda,14.0,,Sin registro,275000.0
+PAC-85849,12,Providencia,Apendicitis Aguda,7.0,0,2026-07-17,683000.0
+PAC-47388,38,Maipú,Artrosis,13.0,14,2026-09-07,21000.0
+PAC-29973,65,santiago,Infección Respiratoria Aguda,10.0,0,2026-08-05,325000.0
+PAC-12671,208,Valparaíso,,5.0,3,2030-01-01,721000.0
+PAC-95256,86,Santiago,Neumonía,3.0,14,2025-12-17,-150000
+,45,Providencia ,Diabetes Mellitus Tipo 2,8.0,5,2025-03-25,624000.0
+PAC-65518,62,Maipú,,4.0,2,2026-02-24,346000.0
+PAC-72277,54,Las Condes,IRA,8.0,0,2030-01-01,695000.0
+PAC-38221,,Puente Alto,Diabetes Mellitus Tipo 2,3.0,5,2025-02-03,$276.000
+,55,Concepción,Artrosis,9.0,10,2025-12-31,-150000
+PAC-15075,79,Antofagasta,Artrosis,10.0,1,2025-07-10,417000.0
+PAC-78522,76,Antofagasta,Gastritis Crónica,5.0,0,2025-07-05,709000.0
+PAC-22156,15,Antofagasta,diabetes mellitus 2,5.0,3,2026-07-06,720000.0
+PAC-65255,73,Valparaíso,Gastritis Crónica,8.0,1,2024-12-24,88000.0
+PAC-34957,-12,Providencia,Gastritis Crónica,9.0,0,2025-09-11,174000.0
+PAC-94607,73,Maipú,Infección Respiratoria Aguda,2.0,14,2025-02-05,205000.0
+PAC-19287,,Puente Alto,Artrosis,7.0,0,2024-11-06,700000.0
+PAC-83519,-7,Puente Alto,Hipertensión Arterial,5.0,0,2026-05-20,430000.0
+PAC-19016,47,Las Condes,HTA,12.0,1,2024-11-17,-150000
+PAC-29313,238,Providencia,Gastritis Crónica,10.0,0,2025-03-04,453000.0
+PAC-16826,91,Maipú,Artrosis,5.0,3,2025-03-10,
+PAC-31178,16,Las Condes,Infección Respiratoria Aguda,1.0,0,2026-02-02,370000.0
+PAC-40161,55,Las Condes,Apendicitis Aguda,,0,2026-04-09,431000.0
+PAC-28373,81,Santiago,Hipertensión Arterial,5.0,5,2026-01-04,487000.0
+PAC-87236,30,Valparaíso,Gastritis Crónica,5.0,0,2025-12-23,493000.0
+PAC-76768,18,Maipú,Apendicitis Aguda,7.0,14,2025-12-06,29000.0
+PAC-88193,72,La Florida,Gastritis Crónica,14.0,0,2025-03-28,475000.0
+PAC-13201,94,Valparaíso,Artrosis,1.0,0,18/01/2026,725000.0
+PAC-22833,33,Antofagasta,Gastritis Crónica,6.0,,2026-02-18,0
+PAC-82420,22,Maipú,Apendicitis Aguda,,1,2026-05-22,156000.0
+PAC-34914,65,Maipú,Diabetes Mellitus Tipo 2,316.0,14,,717000.0
+PAC-80008,3,Concepción,Neumonía,8.0,0,2025-12-16,152000.0
+PAC-57576,54,Providencia,diabetes mellitus 2,14.0,484,06/03/2025,649000.0
+PAC-97410,54,Maipu,Neumonía,12.0,0,,156000.0
+PAC-80855,49,Concepción,Hipertensión Arterial,2.0,10,04/02/2026,181000.0
+PAC-83920,14,Providencia,DM2,1.0,2,2025-11-28,$251.000
+PAC-29410,133,Las Condes,Neumonía,6.0,0,2026-03-22,-150000
+PAC-68082,25,Concepción,Diabetes Mellitus Tipo 2,5.0,3,2030-01-01,554000.0
+PAC-58434,39,santiago,Artrosis,8.0,5,21/09/2025,375000.0
+PAC-42953,76,Maipú,Neumonía,14.0,3,20/07/2026,757000.0
+PAC-94696,63,Viña del Mar,Neumonía,3.0,5,2025-07-19,784000.0
+PAC-43386,27,Las Condes,DM2,12.0,2,,433000.0
+PAC-31299,95,Viña del Mar,Diabetes Mellitus Tipo 2,8.0,14,2025-09-18,-150000
+PAC-86099,4,Maipú,Artrosis,10.0,2,2024-11-28,499000.0
+PAC-97806,18,Antofagasta,Apendicitis Aguda,6.0,1,2025-09-26,
+PAC-60328,95,Concepción,Neumonía,13.0,,2025-11-03,452000.0
+PAC-76162,43,Maipu,Apendicitis Aguda,4.0,510,2024-12-12,229000.0
+PAC-95426,240,Maipú,Artrosis,3.0,0,2024-10-21,
+PAC-73372,20,Maipú,Apendicitis Aguda,9.0,0,2025-05-04,530000.0
+,63,,Gastritis Crónica,1.0,0,Sin registro,22000.0
+PAC-16630,89,Providencia,Diabetes Mellitus Tipo 2,7.0,0,,491000.0
+PAC-42018,22,Puente Alto,Apendicitis Aguda,4.0,,Sin registro,
+PAC-70910,22,Maipú,Infección Respiratoria Aguda,9.0,14,2026-01-02,$124.000
+,-4,Las Condes,DM2,5.0,0,2026-06-29,620000.0
+PAC-61049,72,Valparaíso,Apendicitis Aguda,7.0,3,2025-09-14,703000.0
+PAC-30861,14,Providencia,diabetes mellitus 2,1.0,0,2025-04-30,
+PAC-61116,-3,Antofagasta,Neumonía,9.0,14,2027-15-40,569000.0
+PAC-76162,1,Viña del Mar,Apendicitis Aguda,5.0,0,2025-06-08,18000.0
+PAC-55830,80,Providencia ,,-3.0,14,2025-10-12,409000.0
+PAC-40311,32,,IRA,1.0,1,2025-08-21,96000.0
+PAC-60140,66,santiago,Apendicitis Aguda,4.0,5,2026-05-14,699000.0
+PAC-68878,82,Maipú,,12.0,0,2024-12-06,$118.000
+PAC-25118,39,Providencia,IRA,13.0,,2025-09-12,
+PAC-87236,157,santiago,Diabetes Mellitus Tipo 2,,1,2025-06-06,236000.0
+,39,Antofagasta,Gastritis Crónica,11.0,0,2025-01-11,257000.0
+PAC-36062,,Puente Alto,Gastritis Crónica,1.0,3,2026-02-13,528000.0
+,1,Maipu,Apendicitis Aguda,11.0,10,2026-04-30,646000.0
+PAC-53309,15,Concepción,DM2,7.0,3,2025-06-05,304000.0
+PAC-10772,64,Valparaíso,Hipertensión Arterial,6.0,2,2027-15-40,673000.0
+PAC-59689,24,Las Condes,Gastritis Crónica,3.0,3,2026-06-15,294000.0
+PAC-92719,236,Providencia,,9.0,1,,524000.0
+PAC-93307,20,Viña del Mar,Hipertensión Arterial,8.0,2,2026-09-12,764000.0
+PAC-28726,92,Puente Alto,Artrosis,10.0,14,2024-10-15,493000.0
+PAC-57739,88,Maipú,Apendicitis Aguda,12.0,5,2030-01-01,
+PAC-90676,50,Puente Alto,DM2,10.0,1,2026-01-22,411000.0
+PAC-92719,92,Maipu,Infección Respiratoria Aguda,2.0,763,2025-07-31,89000.0
+PAC-89415,20,La Florida,Artrosis,1.0,,,119000.0
+PAC-55870,50,Valparaíso,,15.0,1,2025-04-07,-150000
+PAC-20328,,Antofagasta,Apendicitis Aguda,7.0,0,2027-15-40,471000.0
+PAC-37653,77,Maipu,Infección Respiratoria Aguda,15.0,5,2025-02-25,699000.0
+PAC-76162,34,Viña del Mar,Artrosis,13.0,10,2025-06-04,$214.000
+PAC-11934,29,Maipú,Apendicitis Aguda,,14,2025-02-22,445000.0
+PAC-29973,55,Antofagasta,Hipertensión Arterial,6.0,,2025-11-29,643000.0
+PAC-38760,77,,Apendicitis Aguda,5.0,10,2026-02-21,492000.0
+PAC-65724,41,La Florida,,15.0,689,2030-01-01,431000.0
+PAC-25014,57,Puente Alto,Diabetes Mellitus Tipo 2,12.0,0,2026-07-28,-150000
+PAC-28289,9,Concepción,DM2,4.0,3,,
+PAC-17492,13,,HTA,9.0,1,2025-04-28,171000.0
+PAC-69177,35,Providencia,Infección Respiratoria Aguda,10.0,0,2026-09-27,816000.0
+PAC-67154,,Viña del Mar,Neumonía,9.0,0,2024-12-01,19000.0
+PAC-54313,18,Puente Alto,Artrosis,9.0,0,2026-02-25,616000.0
+PAC-18834,78,Santiago,Gastritis Crónica,14.0,0,2024-11-06,103000.0
+PAC-10772,55,Puente Alto,Hipertensión Arterial,8.0,1,2026-02-27,124000.0
+PAC-49651,,Maipú,Gastritis Crónica,12.0,10,2030-01-01,308000.0
+PAC-25012,1,,diabetes mellitus 2,13.0,,2030-01-01,129000.0
+PAC-84364,-12,santiago,Diabetes Mellitus Tipo 2,1.0,5,2026-07-28,348000.0
+PAC-14067,60,Maipú,Apendicitis Aguda,14.0,14,2025-04-30,94000.0
+PAC-30032,30,Las Condes,IRA,6.0,0,2030-01-01,37000.0
+PAC-36071,17,Maipú,HTA,,0,28/10/2025,184000.0
+PAC-29342,,Santiago,Neumonía,2.0,2,2026-07-04,515000.0
+PAC-71213,11,La Florida,Neumonía,1.0,0,2025-11-28,143000.0
+PAC-31319,28,Las Condes,Hipertensión Arterial,2.0,1,2026-01-26,655000.0
+PAC-69470,63,santiago,,5.0,0,2025-11-30,188000.0
+PAC-10772,-8,Providencia,,472.0,10,,683000.0
+PAC-30730,16,Santiago,Neumonía,13.0,14,2025-05-01,147000.0
+PAC-66498,,Antofagasta,Infección Respiratoria Aguda,2.0,990,Sin registro,-150000
+PAC-31174,12,santiago,Infección Respiratoria Aguda,12.0,14,2026-05-27,388000.0
+PAC-64496,54,santiago,Gastritis Crónica,15.0,14,2026-09-04,-150000
+PAC-20735,-10,Providencia,Artrosis,13.0,2,2025-07-24,324000.0
+PAC-40495,8,,diabetes mellitus 2,4.0,0,2025-07-04,538000.0
+PAC-40735,78,Puente Alto,Infección Respiratoria Aguda,15.0,2,2025-01-10,127000.0
+,56,,IRA,7.0,2,,41000.0
+PAC-37110,66,Maipú,,385.0,0,,643000.0
+PAC-86350,70,santiago,Infección Respiratoria Aguda,4.0,0,2025-07-12,230000.0
+PAC-81810,32,Valparaíso,Hipertensión Arterial,7.0,0,2026-03-05,$53.000
+PAC-47196,2,Concepción,Artrosis,11.0,10,2024-11-11,843000.0
+PAC-79615,4,Providencia,Artrosis,,0,2024-10-12,517000.0
+PAC-76542,7,Providencia ,HTA,11.0,5,2026-08-01,670000.0
+PAC-87656,18,Valparaíso,Artrosis,12.0,0,2025-09-10,724000.0
+PAC-25014,2,Viña del Mar,,12.0,0,2026-05-10,$177.000
+PAC-84085,8,Viña del Mar,Infección Respiratoria Aguda,14.0,0,2025-02-22,322000.0
+PAC-54942,32,La Florida,Infección Respiratoria Aguda,11.0,3,2030-01-01,361000.0
+PAC-78146,17,santiago,Diabetes Mellitus Tipo 2,5.0,3,2024-12-19,719000.0
+PAC-70142,,Valparaíso,Gastritis Crónica,12.0,5,2025-05-30,43000.0
+PAC-89818,32,Concepción,Infección Respiratoria Aguda,5.0,0,2025-10-19,779000.0
+PAC-88697,57,Antofagasta,Infección Respiratoria Aguda,9.0,0,2025-03-13,366000.0
+PAC-94080,85,Viña del Mar,Artrosis,9.0,3,2025-09-03,771000.0
+PAC-53933,24,Las Condes,Apendicitis Aguda,3.0,1,2025-06-07,46000.0
+PAC-52504,52,Las Condes,diabetes mellitus 2,4.0,5,2026-07-25,288000.0
+PAC-59692,72,Maipu,HTA,15.0,0,2025-04-07,482000.0
+PAC-23104,54,Las Condes,Neumonía,4.0,3,2027-15-40,$118.000
+PAC-69638,15,Antofagasta,Neumonía,10.0,10,2026-06-24,358000.0
+PAC-29536,38,,Neumonía,6.0,14,,788000.0
+PAC-82512,55,La Florida,Artrosis,5.0,10,2026-05-31,598000.0
+PAC-81200,16,Providencia ,Apendicitis Aguda,8.0,0,2025-04-05,144000.0
+,16,La Florida,Hipertensión Arterial,1.0,0,2027-15-40,736000.0
+PAC-13365,82,Viña del Mar,Diabetes Mellitus Tipo 2,5.0,0,2027-15-40,207000.0
+PAC-83000,40,Las Condes,IRA,7.0,0,2025-03-20,-150000
+PAC-15276,23,Santiago,Hipertensión Arterial,10.0,0,2025-12-18,437000.0
+PAC-13365,60,Santiago,diabetes mellitus 2,1.0,1,2026-08-04,448000.0
+PAC-87607,51,Viña del Mar,Diabetes Mellitus Tipo 2,1.0,0,2025-09-18,629000.0
+PAC-41571,11,Maipu,Neumonía,6.0,2,2026-02-12,454000.0
+PAC-64377,43,La Florida,Gastritis Crónica,6.0,2,2026-04-13,203000.0
+PAC-62923,57,Puente Alto,DM2,13.0,10,2026-07-10,77000.0
+PAC-44522,41,Santiago,,1.0,658,,494000.0
+PAC-91167,12,Las Condes,Neumonía,6.0,14,2026-01-09,427000.0
+PAC-83385,63,Viña del Mar,,5.0,3,2026-09-18,528000.0
+PAC-15276,,Valparaíso,Hipertensión Arterial,7.0,3,2024-11-08,0
+PAC-89415,30,Viña del Mar,Hipertensión Arterial,6.0,3,2026-07-31,621000.0
+PAC-63883,-4,Santiago,Artrosis,2.0,10,2026-09-23,607000.0
+PAC-87580,0,Santiago,Neumonía,14.0,0,2025-07-30,838000.0
+PAC-29313,44,La Florida,DM2,15.0,0,2025-12-09,807000.0
+PAC-91070,64,La Florida,Apendicitis Aguda,15.0,3,2025-09-28,$172.000
+PAC-19602,93,Providencia,diabetes mellitus 2,12.0,0,2025-10-09,760000.0
+PAC-28301,60,Las Condes,DM2,10.0,5,2025-05-11,138000.0
+PAC-78327,10,Antofagasta,Infección Respiratoria Aguda,8.0,10,2025-09-06,0
+PAC-26828,75,Concepción,IRA,15.0,0,Sin registro,774000.0
+PAC-10074,48,Concepción,Apendicitis Aguda,7.0,5,2024-12-01,486000.0
+PAC-87580,80,Las Condes,Hipertensión Arterial,15.0,3,,696000.0
+PAC-40828,2,La Florida,diabetes mellitus 2,10.0,2,14/05/2025,-150000
+PAC-80284,49,Puente Alto,Artrosis,4.0,,31/12/2024,841000.0
+PAC-43586,1,Las Condes,,7.0,10,2026-05-14,825000.0
+PAC-15229,81,Santiago,Apendicitis Aguda,12.0,0,2026-07-05,401000.0
+PAC-54473,58,Puente Alto,Hipertensión Arterial,-3.0,0,2026-03-10,708000.0
+,70,santiago,Gastritis Crónica,2.0,3,2024-11-04,180000.0
+PAC-98259,1,La Florida,Apendicitis Aguda,14.0,1,Sin registro,207000.0
+PAC-39389,53,Viña del Mar,diabetes mellitus 2,12.0,863,15/06/2026,476000.0
+,78,Valparaíso,Artrosis,5.0,1,,-150000
+PAC-65724,184,Providencia,Hipertensión Arterial,2.0,10,,802000.0
+PAC-78386,73,Las Condes,HTA,14.0,2,,-150000
+PAC-59192,76,,Neumonía,1.0,2,2026-01-14,629000.0
+PAC-61856,58,Maipú,HTA,6.0,5,2025-09-24,604000.0
+PAC-22224,35,Puente Alto,diabetes mellitus 2,4.0,5,2026-01-03,753000.0
+PAC-22676,92,Concepción,Diabetes Mellitus Tipo 2,5.0,,2025-10-22,180000.0
+PAC-30635,35,Valparaíso,Infección Respiratoria Aguda,-3.0,0,2030-01-01,123000.0
+PAC-31178,53,Puente Alto,Hipertensión Arterial,5.0,10,2024-10-26,0
+PAC-87580,48,Concepción,IRA,1.0,0,2025-05-26,675000.0
+PAC-33509,78,Las Condes,Neumonía,13.0,0,2025-01-27,624000.0
+PAC-96163,92,Las Condes,diabetes mellitus 2,8.0,,2025-10-29,0
+PAC-69638,3,La Florida,Hipertensión Arterial,12.0,14,2026-03-04,522000.0
+PAC-51467,71,Las Condes,Diabetes Mellitus Tipo 2,1.0,0,2024-11-24,0
+PAC-72216,199,Providencia,Apendicitis Aguda,13.0,1,2030-01-01,707000.0
+PAC-36158,46,Santiago,Diabetes Mellitus Tipo 2,,1,2025-01-20,207000.0
+PAC-56898,58,Concepción,Gastritis Crónica,3.0,0,2025-11-19,257000.0
+PAC-11504,87,Santiago,Artrosis,10.0,5,2030-01-01,632000.0
+PAC-80545,86,,Neumonía,12.0,1,2025-10-13,150000.0
+PAC-12552,33,La Florida,Diabetes Mellitus Tipo 2,1.0,2,2025-01-06,
+PAC-72493,52,,Infección Respiratoria Aguda,2.0,14,2026-06-10,386000.0
+PAC-81200,43,Viña del Mar,Neumonía,9.0,0,2025-06-07,33000.0
+PAC-54020,31,Antofagasta,Artrosis,5.0,5,2026-06-27,107000.0
+PAC-95215,20,Providencia,Artrosis,5.0,0,2025-11-17,601000.0
+PAC-28301,26,Antofagasta,HTA,14.0,10,2026-03-10,551000.0
+,50,Valparaíso,DM2,14.0,3,,729000.0
+PAC-45382,57,Concepción,Hipertensión Arterial,-3.0,3,2026-04-16,
+PAC-23473,57,La Florida,Gastritis Crónica,9.0,3,2025-01-20,286000.0
+PAC-35112,19,Concepción,Diabetes Mellitus Tipo 2,4.0,1,2024-12-06,57000.0
+PAC-83060,49,Maipu,Neumonía,3.0,3,2025-11-29,796000.0
+PAC-14165,53,Santiago,Neumonía,8.0,2,2026-09-26,196000.0
+PAC-61876,72,Santiago,Diabetes Mellitus Tipo 2,6.0,10,2024-11-21,676000.0
+PAC-38893,5,Concepción,Hipertensión Arterial,6.0,1,Sin registro,0
+PAC-33416,78,Concepción,Apendicitis Aguda,12.0,0,2025-03-20,0
+PAC-58393,16,La Florida,Infección Respiratoria Aguda,5.0,10,2024-10-17,361000.0
+PAC-24621,52,Santiago,Apendicitis Aguda,13.0,0,2026-08-06,459000.0
+PAC-25157,4,Maipú,Infección Respiratoria Aguda,12.0,0,2024-10-21,735000.0
+PAC-89516,16,La Florida,Hipertensión Arterial,8.0,0,2026-07-25,820000.0
+PAC-53719,56,Providencia,Gastritis Crónica,8.0,1,2026-01-11,$203.000
+PAC-63264,19,Las Condes,DM2,12.0,14,2024-12-13,739000.0
+PAC-80292,79,Antofagasta,Neumonía,15.0,0,2025-06-24,426000.0
+PAC-91183,65,La Florida,Hipertensión Arterial,5.0,0,,478000.0
+PAC-71694,60,Concepción,Hipertensión Arterial,7.0,5,2026-01-24,-150000
+PAC-66333,67,Concepción,Gastritis Crónica,6.0,10,2025-04-06,344000.0
+PAC-13101,43,Puente Alto,Neumonía,10.0,14,2024-12-12,-150000
+PAC-42087,65,Las Condes,Gastritis Crónica,13.0,0,2025-05-29,259000.0
+PAC-60205,75,,Neumonía,4.0,10,2025-06-27,413000.0
+PAC-97410,58,Providencia ,Gastritis Crónica,3.0,,2026-05-05,525000.0
+PAC-42092,15,Viña del Mar,Apendicitis Aguda,247.0,3,2030-01-01,173000.0
+PAC-22363,34,Las Condes,HTA,7.0,5,2026-08-15,178000.0
+PAC-19508,51,santiago,,4.0,0,2030-01-01,502000.0
+PAC-42662,80,Maipú,Neumonía,5.0,3,04/03/2026,499000.0
+PAC-30257,28,Puente Alto,Apendicitis Aguda,,0,2025-04-20,444000.0
+PAC-44099,2,Pte Alto,Artrosis,3.0,14,2025-05-05,386000.0
+PAC-66959,48,Antofagasta,HTA,8.0,0,2026-01-05,433000.0
+PAC-49139,67,Santiago,Infección Respiratoria Aguda,,0,2027-15-40,66000.0
+PAC-79822,244,La Florida,Neumonía,6.0,0,2025-06-05,543000.0
+PAC-63883,26,Concepción,Artrosis,15.0,5,2025-01-05,-150000
+PAC-18418,73,Providencia,Hipertensión Arterial,2.0,0,2026-04-23,57000.0
+PAC-65057,1,Providencia ,Diabetes Mellitus Tipo 2,10.0,1,2026-05-11,343000.0
+PAC-59857,53,Santiago,Artrosis,10.0,3,2026-07-31,505000.0
+PAC-17989,66,Las Condes,Diabetes Mellitus Tipo 2,10.0,5,2025-09-14,490000.0
+PAC-13248,45,Antofagasta,HTA,3.0,0,2024-10-04,106000.0
+PAC-41285,12,Puente Alto,Diabetes Mellitus Tipo 2,11.0,14,2025-04-28,599000.0
+PAC-79616,27,Maipú,Gastritis Crónica,15.0,0,2025-03-13,0
+PAC-65519,-6,Viña del Mar,IRA,3.0,0,2030-01-01,417000.0
+PAC-56025,26,Las Condes,Neumonía,14.0,5,2026-04-09,580000.0
+PAC-36685,75,Providencia ,Gastritis Crónica,14.0,2,2026-05-16,703000.0
+PAC-34050,8,Las Condes,Gastritis Crónica,11.0,3,2025-03-06,495000.0
+PAC-39871,65,Viña del Mar,Apendicitis Aguda,13.0,1,28/12/2025,828000.0
+PAC-41850,87,La Florida,Artrosis,12.0,0,2025-09-17,60000.0
+PAC-31992,71,Viña del Mar,Artrosis,11.0,848,2026-04-18,178000.0
+PAC-44718,37,Puente Alto,Diabetes Mellitus Tipo 2,9.0,1,2026-05-09,644000.0
+PAC-97841,25,Maipu,Apendicitis Aguda,1.0,0,2025-05-30,357000.0
+PAC-61990,25,Maipú,Infección Respiratoria Aguda,5.0,0,2025-08-26,$295.000
+PAC-38080,91,Providencia,Diabetes Mellitus Tipo 2,8.0,10,2024-12-18,576000.0
+PAC-83000,15,Concepción,Gastritis Crónica,9.0,3,2026-01-01,665000.0
+PAC-28136,49,Santiago,HTA,-3.0,0,2025-03-27,100000.0
+PAC-21003,77,Providencia ,Infección Respiratoria Aguda,15.0,0,2026-08-05,159000.0
+PAC-69087,7,Antofagasta,Neumonía,9.0,2,2026-01-10,$197.000
+PAC-95256,87,Providencia,IRA,14.0,3,2025-07-20,489000.0
+PAC-42914,18,Valparaíso,Diabetes Mellitus Tipo 2,13.0,14,2026-08-10,-150000
+PAC-88172,3,Providencia,Infección Respiratoria Aguda,14.0,2,2025-10-06,294000.0
+PAC-23577,51,Las Condes,Infección Respiratoria Aguda,2.0,823,Sin registro,622000.0
+PAC-25118,4,,Neumonía,10.0,3,2025-04-09,$117.000
+PAC-66531,68,Providencia,Artrosis,2.0,0,2026-07-08,208000.0
+PAC-97782,83,,Neumonía,13.0,1,2027-15-40,559000.0
+PAC-98039,29,Viña del Mar,Infección Respiratoria Aguda,6.0,1,2025-01-03,622000.0
+PAC-66959,32,Viña del Mar,Neumonía,10.0,2,,591000.0
+PAC-33405,,Antofagasta,HTA,11.0,3,2027-15-40,289000.0
+PAC-77033,184,La Florida,Artrosis,6.0,3,2025-11-20,57000.0
+PAC-20155,65,Providencia ,diabetes mellitus 2,10.0,0,2025-07-14,382000.0
+PAC-57819,-6,Las Condes,Gastritis Crónica,11.0,0,2024-11-10,-150000
+PAC-96706,39,Viña del Mar,Hipertensión Arterial,7.0,,2026-07-06,158000.0
+PAC-18834,41,Maipú,Artrosis,15.0,0,04/06/2025,$182.000
+PAC-11267,6,Maipú,Infección Respiratoria Aguda,8.0,14,04/07/2026,350000.0
+PAC-55082,79,Puente Alto,Gastritis Crónica,9.0,14,2025-04-27,319000.0
+PAC-84177,78,La Florida,Infección Respiratoria Aguda,8.0,0,2024-11-21,633000.0
+PAC-18981,47,Maipú,Neumonía,395.0,2,2030-01-01,284000.0
+PAC-19016,82,Antofagasta,Neumonía,9.0,,,356000.0
+PAC-25014,-1,Las Condes,Artrosis,11.0,0,2024-11-09,-150000
+PAC-84668,23,La Florida,Gastritis Crónica,7.0,3,2030-01-01,266000.0
+PAC-15695,37,Santiago,HTA,2.0,1,2025-08-19,778000.0
+PAC-54236,28,Concepción,DM2,6.0,10,2025-03-15,587000.0
+PAC-93130,66,Providencia,HTA,14.0,10,2025-07-23,548000.0
+PAC-90301,6,Providencia ,HTA,9.0,1,2026-03-07,608000.0
+PAC-97500,15,,Infección Respiratoria Aguda,3.0,1,2025-12-16,0
+PAC-65302,40,Providencia ,Artrosis,9.0,10,2026-04-07,32000.0
+PAC-44099,11,Maipú,IRA,10.0,10,2026-03-13,419000.0
+PAC-51441,93,santiago,Diabetes Mellitus Tipo 2,,859,2025-09-10,750000.0
+PAC-24621,18,Viña del Mar,Neumonía,8.0,0,2025-08-25,300000.0
+PAC-24592,55,Puente Alto,Apendicitis Aguda,8.0,10,2026-04-29,106000.0
+PAC-19038,-7,La Florida,Apendicitis Aguda,1.0,0,2030-01-01,66000.0
+PAC-89131,74,Las Condes,Diabetes Mellitus Tipo 2,13.0,2,2025-07-25,477000.0
+PAC-30033,29,Providencia ,Hipertensión Arterial,5.0,2,2026-08-11,782000.0
+PAC-75612,68,Valparaíso,Gastritis Crónica,1.0,2,2026-03-30,583000.0
+PAC-44970,3,Pte Alto,diabetes mellitus 2,9.0,0,2025-05-05,634000.0
+PAC-11025,9,Puente Alto,Gastritis Crónica,10.0,3,2026-02-09,93000.0
+PAC-85470,57,Valparaíso,Infección Respiratoria Aguda,6.0,1,Sin registro,0
+,166,La Florida,Infección Respiratoria Aguda,5.0,5,2025-07-13,751000.0
+PAC-69087,,Viña del Mar,Gastritis Crónica,12.0,14,2025-09-12,820000.0
+PAC-40495,45,Providencia,Neumonía,14.0,14,2024-10-06,316000.0
+PAC-21003,89,Viña del Mar,Infección Respiratoria Aguda,10.0,5,2025-07-13,50000.0
+,71,Viña del Mar,Neumonía,7.0,0,2026-01-03,320000.0
+PAC-39219,84,,Infección Respiratoria Aguda,7.0,0,2025-11-23,50000.0
+PAC-15695,,Puente Alto,diabetes mellitus 2,4.0,2,2026-04-26,781000.0
+PAC-97747,47,Providencia,Gastritis Crónica,7.0,5,2026-04-29,380000.0
+PAC-92213,72,Providencia ,Neumonía,6.0,0,2025-03-15,109000.0
+PAC-16057,89,Concepción,Apendicitis Aguda,1.0,1,27/07/2026,-150000
+PAC-86503,6,Puente Alto,Hipertensión Arterial,13.0,2,2026-07-27,716000.0
+PAC-85880,9,,Diabetes Mellitus Tipo 2,5.0,1,2025-10-28,711000.0
+PAC-95649,13,Providencia ,Gastritis Crónica,2.0,,2027-15-40,$288.000
+PAC-59692,43,Valparaíso,Diabetes Mellitus Tipo 2,15.0,5,,149000.0
+PAC-78522,81,Maipú,Infección Respiratoria Aguda,5.0,14,2024-10-02,
+PAC-62383,16,Viña del Mar,,-3.0,14,2026-03-09,661000.0
+PAC-91167,24,Concepción,Apendicitis Aguda,15.0,2,2024-11-01,837000.0
+PAC-97538,26,Maipú,Neumonía,12.0,0,06/12/2024,$172.000
+PAC-27601,24,Antofagasta,IRA,13.0,0,2027-15-40,22000.0
+PAC-37460,40,Santiago,Apendicitis Aguda,6.0,14,2024-10-18,51000.0
+PAC-98555,63,Valparaíso,Hipertensión Arterial,,,2025-06-29,
+PAC-42087,93,Maipú,Diabetes Mellitus Tipo 2,10.0,5,2025-11-21,-150000
+PAC-65518,,La Florida,diabetes mellitus 2,9.0,1,2025-01-22,110000.0
+PAC-96951,26,Providencia ,Apendicitis Aguda,12.0,5,2025-03-21,
+PAC-63964,12,Valparaíso,Gastritis Crónica,-3.0,1,2026-03-01,
+PAC-22899,52,Concepción,Apendicitis Aguda,15.0,0,,256000.0
+PAC-59695,53,Puente Alto,Diabetes Mellitus Tipo 2,6.0,1,2026-08-10,695000.0
+PAC-97416,79,santiago,Hipertensión Arterial,4.0,2,2025-04-05,0
+PAC-96163,13,Santiago,Diabetes Mellitus Tipo 2,15.0,0,2027-15-40,18000.0
+PAC-84593,-13,La Florida,HTA,5.0,0,2026-05-15,126000.0
+PAC-68878,72,Santiago,DM2,13.0,2,2026-02-11,697000.0
+PAC-14207,69,Valparaíso,Apendicitis Aguda,1.0,0,2026-03-04,500000.0
+PAC-74799,5,Maipú,Infección Respiratoria Aguda,13.0,0,2026-04-28,412000.0
+PAC-94874,21,Puente Alto,Gastritis Crónica,3.0,2,2026-07-21,576000.0
+PAC-15209,46,Viña del Mar,Infección Respiratoria Aguda,5.0,0,2025-06-08,168000.0
+,8,La Florida,,4.0,0,2025-08-06,665000.0
+PAC-96752,,Providencia,HTA,7.0,0,2025-08-03,110000.0
+PAC-39256,0,Providencia,Gastritis Crónica,12.0,5,2025-06-05,0
+PAC-97900,25,Concepción,Infección Respiratoria Aguda,5.0,14,2026-04-09,507000.0
+PAC-46421,93,Providencia,IRA,4.0,10,2025-10-13,571000.0
+PAC-46463,32,La Florida,Diabetes Mellitus Tipo 2,13.0,,2026-03-03,284000.0
+PAC-65108,41,Valparaíso,Infección Respiratoria Aguda,8.0,3,2026-02-22,753000.0
+PAC-98777,62,La Florida,Gastritis Crónica,2.0,1,2026-08-11,578000.0
+PAC-26683,17,La Florida,Artrosis,15.0,2,24/05/2025,747000.0
+PAC-59615,58,,diabetes mellitus 2,13.0,14,2025-03-18,219000.0
+PAC-93130,87,Providencia,Apendicitis Aguda,10.0,3,2026-03-30,160000.0
+PAC-79615,28,Las Condes,HTA,9.0,3,2025-08-21,675000.0
+PAC-40982,37,santiago,Neumonía,4.0,3,2026-06-22,0
+PAC-83060,19,Concepción,Apendicitis Aguda,4.0,0,2026-02-15,113000.0
+PAC-52906,40,Providencia,HTA,12.0,5,2024-12-07,237000.0
+PAC-98039,44,Santiago,Infección Respiratoria Aguda,,3,2025-11-28,218000.0
+PAC-13534,83,Maipú,IRA,7.0,2,2025-10-01,233000.0
+PAC-76768,14,Valparaíso,Apendicitis Aguda,12.0,2,2026-08-01,194000.0
+PAC-28289,61,La Florida,DM2,,,2025-12-19,0
+PAC-31798,58,Maipu,DM2,11.0,0,2027-15-40,15000.0
+PAC-47606,21,Providencia ,DM2,9.0,14,2026-04-02,0
+,70,La Florida,IRA,2.0,0,29/04/2025,599000.0
+PAC-64040,8,,Infección Respiratoria Aguda,11.0,0,,0
+PAC-34050,22,Providencia,Apendicitis Aguda,9.0,2,2025-08-31,289000.0
+PAC-17455,44,Puente Alto,diabetes mellitus 2,5.0,10,2025-11-30,360000.0
+PAC-92149,4,Providencia,Artrosis,15.0,0,2026-09-10,292000.0
+PAC-86622,230,Maipú,HTA,10.0,0,2025-03-17,102000.0
+PAC-10464,50,,Hipertensión Arterial,10.0,1,2024-11-19,485000.0
+,79,Valparaíso,Diabetes Mellitus Tipo 2,1.0,10,Sin registro,530000.0
+PAC-28373,37,Pte Alto,Neumonía,14.0,10,2025-09-03,419000.0
+PAC-88047,67,santiago,Diabetes Mellitus Tipo 2,410.0,0,2026-07-24,113000.0
+PAC-22097,40,Las Condes,DM2,6.0,0,2025-10-12,
+PAC-62565,91,Santiago,IRA,9.0,14,2025-01-15,653000.0
+PAC-52840,60,Las Condes,Gastritis Crónica,10.0,3,2025-08-08,77000.0
+PAC-98781,78,Maipú,Diabetes Mellitus Tipo 2,1.0,3,2024-10-31,
+PAC-52237,86,Concepción,Apendicitis Aguda,1.0,10,2030-01-01,457000.0
+PAC-81200,47,Viña del Mar,Gastritis Crónica,13.0,0,2025-02-22,171000.0
+PAC-71953,,Providencia ,Diabetes Mellitus Tipo 2,10.0,3,2025-01-25,447000.0
+PAC-87397,37,Maipú,diabetes mellitus 2,3.0,2,2024-12-25,130000.0
+PAC-15695,65,Antofagasta,Artrosis,11.0,5,2030-01-01,317000.0
+PAC-82692,65,Providencia,Artrosis,13.0,0,23/01/2025,220000.0
+PAC-53540,23,Viña del Mar,Gastritis Crónica,8.0,3,2026-04-22,$107.000
+PAC-15817,20,Providencia ,Gastritis Crónica,7.0,5,2027-15-40,$245.000
+PAC-41979,53,Santiago,Apendicitis Aguda,1.0,5,2025-08-05,115000.0
+PAC-33509,-2,Puente Alto,Hipertensión Arterial,433.0,0,,283000.0
+PAC-70889,34,Puente Alto,DM2,,0,2024-10-19,725000.0
+PAC-90301,89,Viña del Mar,Diabetes Mellitus Tipo 2,2.0,14,2024-12-22,132000.0
+PAC-41830,88,santiago,Hipertensión Arterial,11.0,5,11/02/2025,$131.000
+PAC-46471,75,Maipú,Artrosis,5.0,10,2027-15-40,733000.0
+PAC-54725,26,Las Condes,Apendicitis Aguda,8.0,2,2026-02-06,568000.0
+PAC-46500,-6,Viña del Mar,DM2,5.0,0,2025-05-23,423000.0
+PAC-42411,62,Valparaíso,Diabetes Mellitus Tipo 2,14.0,0,2025-05-28,$246.000
+PAC-39219,45,Concepción,Gastritis Crónica,12.0,1,2026-04-07,327000.0
+PAC-30289,48,Santiago,IRA,8.0,3,2030-01-01,820000.0
+PAC-46265,13,Valparaíso,Gastritis Crónica,3.0,0,,0
+PAC-38683,4,Maipú,Neumonía,12.0,0,,334000.0
+PAC-69470,69,Viña del Mar,HTA,,10,2025-09-08,294000.0
+PAC-71213,79,Viña del Mar,DM2,7.0,0,2025-12-31,$93.000
+PAC-35825,12,Maipu,Neumonía,14.0,5,2025-11-13,
+PAC-98259,79,Providencia,Diabetes Mellitus Tipo 2,3.0,14,18/08/2025,790000.0
+PAC-56105,165,Providencia,DM2,9.0,1,2026-05-03,778000.0
+PAC-40828,,La Florida,diabetes mellitus 2,15.0,0,2025-09-01,271000.0
+PAC-44438,30,Pte Alto,diabetes mellitus 2,1.0,0,2024-12-06,198000.0
+PAC-37742,14,Maipú,Hipertensión Arterial,4.0,,2025-02-03,289000.0
+PAC-22676,59,,Hipertensión Arterial,15.0,3,2026-02-23,-150000
+PAC-77889,2,santiago,Diabetes Mellitus Tipo 2,3.0,3,2027-15-40,754000.0
+PAC-14165,60,Las Condes,Infección Respiratoria Aguda,10.0,0,,-150000
+PAC-67125,51,Viña del Mar,Hipertensión Arterial,2.0,3,2025-04-09,251000.0
+PAC-33405,85,Puente Alto,Neumonía,9.0,0,2025-07-22,757000.0
+PAC-42271,75,Santiago,Apendicitis Aguda,9.0,,2030-01-01,
+PAC-35825,0,Valparaíso,IRA,8.0,10,2027-15-40,265000.0
+PAC-99399,52,Concepción,,2.0,2,2025-04-07,397000.0
+PAC-42177,23,Puente Alto,Apendicitis Aguda,14.0,5,2024-11-20,783000.0
+PAC-69829,25,Santiago,Infección Respiratoria Aguda,14.0,3,23/01/2025,814000.0
+PAC-62743,-2,Maipu,Artrosis,11.0,,2025-10-26,716000.0
+PAC-24993,8,Viña del Mar,HTA,14.0,1,2027-15-40,313000.0
+PAC-31798,14,Providencia,Diabetes Mellitus Tipo 2,6.0,3,2026-09-26,540000.0
+PAC-81066,53,Maipú,IRA,9.0,5,,542000.0
+PAC-24663,,Maipú,Gastritis Crónica,14.0,5,2026-08-15,203000.0
+PAC-83259,7,Concepción,,4.0,14,2025-09-16,141000.0
+PAC-90120,35,La Florida,,10.0,3,2026-04-03,50000.0
+PAC-40784,53,Antofagasta,Hipertensión Arterial,8.0,3,2030-01-01,848000.0
+PAC-79329,62,Antofagasta,Artrosis,9.0,0,23/11/2024,-150000
+PAC-30374,76,La Florida,DM2,5.0,10,2025-09-05,345000.0
+PAC-46517,43,Maipú,Diabetes Mellitus Tipo 2,14.0,1,2025-09-19,537000.0
+PAC-30926,73,Maipú,HTA,8.0,,2026-08-03,427000.0
+PAC-88104,46,Concepción,Hipertensión Arterial,2.0,10,2024-10-08,469000.0
+PAC-91678,43,Concepción,Neumonía,,0,2025-03-29,400000.0
+PAC-75909,16,Maipu,Diabetes Mellitus Tipo 2,12.0,2,2025-10-14,200000.0
+PAC-69429,79,Providencia,Diabetes Mellitus Tipo 2,2.0,1,2026-02-11,629000.0
+PAC-42527,51,santiago,DM2,13.0,3,2025-10-31,107000.0
+PAC-69087,62,Antofagasta,HTA,13.0,14,,572000.0
+PAC-39219,51,Santiago,Neumonía,6.0,5,2025-09-23,-150000
+PAC-30028,-12,Maipú,Apendicitis Aguda,12.0,14,2025-07-10,682000.0
+PAC-34356,14,Valparaíso,Gastritis Crónica,6.0,0,2026-05-20,634000.0
+PAC-18418,68,Santiago,Gastritis Crónica,8.0,14,2027-15-40,252000.0
+PAC-65518,62,Maipú,,4.0,2,2026-02-24,346000.0
+PAC-21114,33,Viña del Mar,,5.0,10,,119000.0
+PAC-64377,33,La Florida,IRA,12.0,0,2026-01-01,0
+PAC-94874,84,Providencia,Artrosis,7.0,14,2025-02-24,23000.0
+PAC-72296,16,Las Condes,Apendicitis Aguda,,0,2027-15-40,107000.0
+PAC-24592,5,Viña del Mar,Apendicitis Aguda,4.0,0,2026-08-24,-150000
+PAC-42092,64,Viña del Mar,Gastritis Crónica,5.0,1,2026-06-13,532000.0
+PAC-11267,60,Puente Alto,Gastritis Crónica,3.0,5,2024-10-09,806000.0
+PAC-48890,45,Providencia,Hipertensión Arterial,2.0,0,2026-07-17,585000.0
+PAC-98777,34,santiago,diabetes mellitus 2,15.0,10,2030-01-01,132000.0
+PAC-98039,215,Pte Alto,Neumonía,14.0,,2025-11-19,72000.0
+PAC-99166,21,Concepción,Artrosis,1.0,2,2025-12-20,0
+,64,Santiago,Hipertensión Arterial,11.0,5,2025-08-24,45000.0
+PAC-68800,15,Viña del Mar,diabetes mellitus 2,12.0,2,2026-09-04,491000.0
+PAC-64321,53,santiago,Artrosis,-3.0,0,,757000.0
+PAC-17100,,La Florida,Artrosis,6.0,0,2026-01-05,$181.000
+PAC-42406,-3,Antofagasta,Infección Respiratoria Aguda,4.0,2,2024-11-17,91000.0
+PAC-58351,70,Santiago,Apendicitis Aguda,1.0,3,2024-12-08,840000.0
+PAC-75435,33,Puente Alto,Artrosis,11.0,0,2025-03-18,321000.0
+PAC-28289,86,Valparaíso,Artrosis,9.0,0,2027-15-40,622000.0
+PAC-88504,75,Antofagasta,,,0,2026-09-16,427000.0
+PAC-45774,,Antofagasta,,2.0,3,,417000.0
+PAC-38864,59,Valparaíso,Artrosis,8.0,,2025-05-02,441000.0
+PAC-54587,55,Las Condes,Infección Respiratoria Aguda,4.0,1,2026-04-23,29000.0
+PAC-80292,9,La Florida,Gastritis Crónica,165.0,0,2030-01-01,596000.0
+PAC-30052,79,Concepción,Artrosis,7.0,1,2025-08-07,589000.0
+PAC-40311,55,Las Condes,Diabetes Mellitus Tipo 2,10.0,0,2025-03-31,712000.0
+PAC-60140,20,Providencia,Gastritis Crónica,13.0,834,2025-08-20,0
+PAC-48890,85,Providencia ,diabetes mellitus 2,2.0,14,2025-08-30,440000.0
+PAC-99192,62,Providencia ,Hipertensión Arterial,435.0,14,2026-05-03,593000.0
+PAC-37110,,Valparaíso,Artrosis,11.0,5,2025-10-08,807000.0
+PAC-42325,200,Maipú,Diabetes Mellitus Tipo 2,14.0,0,2025-09-14,515000.0
+PAC-13804,31,Valparaíso,Neumonía,3.0,0,03/07/2026,281000.0
+PAC-87110,16,Concepción,Hipertensión Arterial,,0,2025-03-09,150000.0
+PAC-21395,84,Concepción,Hipertensión Arterial,9.0,1,2024-12-22,383000.0
+PAC-76562,6,,Artrosis,14.0,1,2026-04-10,678000.0
+PAC-85456,73,Santiago,Infección Respiratoria Aguda,15.0,,2025-02-09,739000.0
+PAC-40735,36,Providencia ,Gastritis Crónica,13.0,10,2024-12-09,362000.0
+PAC-64921,140,Puente Alto,DM2,11.0,10,22/05/2026,561000.0
+PAC-13804,5,La Florida,Gastritis Crónica,8.0,0,2025-07-21,530000.0
+PAC-31299,62,Puente Alto,Artrosis,11.0,0,2025-04-12,804000.0
+PAC-23104,79,santiago,,6.0,5,2027-15-40,313000.0
+PAC-68446,26,Concepción,Diabetes Mellitus Tipo 2,12.0,3,2024-12-06,398000.0
+PAC-49321,73,Viña del Mar,,9.0,14,2030-01-01,290000.0
+PAC-74686,171,La Florida,DM2,7.0,5,2026-01-15,349000.0
+PAC-20328,87,Viña del Mar,Infección Respiratoria Aguda,1.0,0,2026-02-24,472000.0
+PAC-14722,64,Santiago,Gastritis Crónica,12.0,10,,68000.0
+PAC-48752,52,,Neumonía,5.0,1,2030-01-01,743000.0
+PAC-65255,22,Santiago,Artrosis,6.0,0,2026-09-15,134000.0
+PAC-87110,86,santiago,Gastritis Crónica,9.0,0,2026-07-17,22000.0
+PAC-17592,86,Puente Alto,Hipertensión Arterial,11.0,10,2026-07-18,692000.0
+PAC-44438,42,Las Condes,IRA,11.0,,2026-04-12,521000.0
+PAC-55508,57,Providencia,Infección Respiratoria Aguda,6.0,5,02/04/2025,154000.0
+PAC-60019,52,Puente Alto,Diabetes Mellitus Tipo 2,3.0,3,2026-06-14,707000.0
+PAC-82512,85,Valparaíso,Gastritis Crónica,13.0,0,2025-11-15,118000.0
+PAC-57052,59,Maipu,Apendicitis Aguda,2.0,0,2025-08-28,360000.0
+PAC-73092,78,La Florida,Hipertensión Arterial,10.0,5,2025-11-29,710000.0
+PAC-73372,88,La Florida,Neumonía,1.0,5,2025-06-22,
+PAC-46517,12,La Florida,Diabetes Mellitus Tipo 2,6.0,5,2025-08-27,370000.0
+PAC-87580,66,Antofagasta,HTA,4.0,5,2030-01-01,642000.0
+PAC-53540,-8,Concepción,Infección Respiratoria Aguda,5.0,10,2025-03-27,250000.0
+PAC-42662,11,,Gastritis Crónica,-3.0,2,2026-02-17,33000.0
+PAC-46500,39,,Apendicitis Aguda,15.0,14,2024-11-27,734000.0
+PAC-40735,30,Concepción,IRA,2.0,10,2030-01-01,20000.0
+PAC-70952,56,Santiago,diabetes mellitus 2,2.0,1,2025-01-04,334000.0
+PAC-40021,32,Santiago,Hipertensión Arterial,11.0,0,2026-03-31,295000.0
+PAC-52237,37,Maipú,Gastritis Crónica,448.0,14,17/01/2026,
+PAC-27361,71,Santiago,Hipertensión Arterial,10.0,0,2025-02-24,820000.0
+PAC-46471,90,Puente Alto,Artrosis,2.0,,2025-05-07,463000.0
+PAC-41385,71,santiago,Infección Respiratoria Aguda,8.0,5,2024-12-18,136000.0
+PAC-30032,61,Concepción,IRA,8.0,0,2026-06-09,619000.0
+PAC-90301,,santiago,Diabetes Mellitus Tipo 2,4.0,,2026-02-15,477000.0
+PAC-92213,16,Maipu,,10.0,0,25/12/2025,843000.0
+PAC-80468,78,Viña del Mar,Infección Respiratoria Aguda,2.0,10,2026-06-09,377000.0
+PAC-98039,32,La Florida,Gastritis Crónica,5.0,10,2025-08-24,539000.0
+PAC-81121,77,,Apendicitis Aguda,-3.0,14,2027-15-40,677000.0
+PAC-96673,18,Providencia,HTA,14.0,3,2026-02-08,609000.0
+PAC-55870,64,santiago,IRA,-3.0,2,2025-12-26,0
+PAC-10053,35,Antofagasta,diabetes mellitus 2,4.0,,2024-11-25,586000.0
+PAC-89415,38,La Florida,Gastritis Crónica,6.0,0,2025-02-11,297000.0
+PAC-54725,61,Las Condes,Apendicitis Aguda,,14,,0
+PAC-42177,-14,Concepción,DM2,13.0,0,29/03/2026,266000.0
+PAC-72296,-14,Maipú,Diabetes Mellitus Tipo 2,7.0,14,2025-08-20,-150000
+PAC-76307,31,Viña del Mar,Apendicitis Aguda,-3.0,5,2025-08-12,656000.0
+PAC-33206,55,Santiago,Artrosis,10.0,0,2024-11-14,691000.0
+PAC-55508,5,Maipú,diabetes mellitus 2,2.0,,2025-08-22,757000.0
+PAC-58434,87,Providencia ,Neumonía,1.0,5,2025-09-15,323000.0
+PAC-63964,34,Maipú,Infección Respiratoria Aguda,11.0,0,2025-04-14,772000.0
+PAC-20735,59,Pte Alto,Hipertensión Arterial,7.0,3,2026-03-26,441000.0
+PAC-13101,20,Santiago,IRA,14.0,,2025-06-29,335000.0
+PAC-13905,26,Puente Alto,Apendicitis Aguda,9.0,5,2025-10-24,497000.0
+PAC-15817,90,Santiago,diabetes mellitus 2,7.0,0,2025-08-18,189000.0
+PAC-13478,37,Concepción,Hipertensión Arterial,2.0,0,2026-01-23,732000.0
+PAC-19358,17,Concepción,IRA,4.0,510,,465000.0
+PAC-88697,89,Valparaíso,Artrosis,5.0,2,2024-12-25,711000.0
+PAC-84341,79,Viña del Mar,Hipertensión Arterial,14.0,2,2025-02-13,0
+PAC-11220,62,Concepción,Hipertensión Arterial,10.0,2,2026-03-07,463000.0
+PAC-25866,40,Santiago,Artrosis,11.0,5,2025-07-05,236000.0
+PAC-24168,37,Viña del Mar,Gastritis Crónica,-3.0,,2030-01-01,639000.0
+PAC-93579,145,Concepción,Hipertensión Arterial,230.0,10,2025-06-14,298000.0
+PAC-57472,5,Providencia,Infección Respiratoria Aguda,-3.0,2,2026-03-04,788000.0
+PAC-98259,79,Providencia,Diabetes Mellitus Tipo 2,3.0,14,18/08/2025,790000.0
+PAC-89457,224,La Florida,Hipertensión Arterial,8.0,,2025-08-15,594000.0
+PAC-80381,57,Pte Alto,Artrosis,9.0,1,2025-10-01,553000.0
+PAC-18326,58,Concepción,Apendicitis Aguda,6.0,14,2025-08-30,654000.0
+PAC-74799,28,santiago,diabetes mellitus 2,5.0,5,2025-12-21,202000.0
+PAC-18418,85,Las Condes,Diabetes Mellitus Tipo 2,12.0,1,11/07/2026,77000.0
+PAC-41979,29,Pte Alto,Neumonía,13.0,5,2025-05-25,0
+PAC-74032,84,Las Condes,Artrosis,7.0,3,2025-01-09,555000.0
+PAC-18907,18,La Florida,Gastritis Crónica,5.0,2,02/09/2025,149000.0
+PAC-59009,23,Viña del Mar,Artrosis,15.0,2,2026-09-13,636000.0
+PAC-24993,,Viña del Mar,Artrosis,3.0,2,2026-07-30,801000.0
+PAC-93227,10,Valparaíso,Hipertensión Arterial,6.0,0,2025-04-29,453000.0
+PAC-70142,16,Maipu,Neumonía,1.0,3,2026-09-02,23000.0
+PAC-48752,90,Maipu,Diabetes Mellitus Tipo 2,2.0,0,2026-05-24,123000.0
+PAC-76307,8,Maipu,Neumonía,3.0,0,11/09/2025,199000.0
+PAC-13248,50,La Florida,Neumonía,8.0,0,2025-09-06,237000.0
+PAC-16572,26,Providencia,Artrosis,3.0,0,2026-04-29,357000.0
+PAC-94874,8,Antofagasta,Hipertensión Arterial,12.0,3,,513000.0
+PAC-43386,195,Concepción,DM2,4.0,14,2026-01-25,-150000
+PAC-86484,30,Antofagasta,Gastritis Crónica,1.0,10,2026-05-03,550000.0
+PAC-23356,47,Maipú,Gastritis Crónica,3.0,14,2027-15-40,243000.0
+PAC-33405,15,Antofagasta,,10.0,,2025-09-06,153000.0
+PAC-33405,89,Viña del Mar,Diabetes Mellitus Tipo 2,14.0,14,,104000.0
+PAC-15817,84,Puente Alto,Artrosis,1.0,14,2025-04-11,307000.0
+,46,Viña del Mar,Diabetes Mellitus Tipo 2,10.0,1,,-150000
+PAC-33509,-13,Valparaíso,Diabetes Mellitus Tipo 2,14.0,725,2026-02-17,110000.0
+PAC-96900,15,santiago,Hipertensión Arterial,2.0,0,2025-01-27,
+PAC-89593,91,Viña del Mar,Gastritis Crónica,4.0,3,2026-03-27,110000.0
+PAC-35485,43,santiago,diabetes mellitus 2,15.0,10,2025-08-27,339000.0
+PAC-96900,15,Viña del Mar,Infección Respiratoria Aguda,14.0,0,2030-01-01,212000.0
+PAC-63528,24,Santiago,Artrosis,4.0,10,2025-01-17,263000.0
+PAC-26728,85,Providencia,diabetes mellitus 2,3.0,0,04/11/2025,
+PAC-95181,61,Viña del Mar,Neumonía,,14,2025-12-21,47000.0
+PAC-90728,48,Santiago,Artrosis,12.0,14,2026-01-25,320000.0
+PAC-36130,32,Maipú,DM2,,1,2025-05-19,0
+PAC-19961,85,Concepción,Neumonía,12.0,10,2025-07-02,314000.0
+PAC-42493,55,,Apendicitis Aguda,-3.0,1,2026-04-14,563000.0
+PAC-46265,36,Viña del Mar,Hipertensión Arterial,15.0,827,2027-15-40,199000.0
+PAC-52906,87,Las Condes,Gastritis Crónica,6.0,3,2026-02-27,730000.0
+PAC-40311,53,Providencia ,DM2,10.0,0,2026-05-07,118000.0
+PAC-57052,-9,Viña del Mar,Neumonía,8.0,3,2025-11-11,713000.0
+PAC-21226,31,Valparaíso,Hipertensión Arterial,-3.0,0,2026-08-28,-150000
+PAC-95990,17,La Florida,Artrosis,4.0,2,2026-08-12,58000.0
+PAC-95990,66,Concepción,Apendicitis Aguda,,0,2025-06-10,580000.0
+PAC-42406,,Providencia ,Gastritis Crónica,13.0,2,2025-12-30,102000.0
+PAC-15817,44,Puente Alto,Artrosis,12.0,2,2025-08-27,468000.0
+PAC-59672,12,Puente Alto,Apendicitis Aguda,12.0,2,2024-12-27,513000.0
+PAC-17989,50,Puente Alto,Diabetes Mellitus Tipo 2,11.0,2,Sin registro,177000.0
+PAC-31417,22,,Gastritis Crónica,10.0,3,2026-05-13,808000.0
+PAC-51467,21,Concepción,Hipertensión Arterial,11.0,,2025-11-07,-150000
+PAC-18418,,Providencia ,Diabetes Mellitus Tipo 2,5.0,10,2024-12-25,304000.0
+PAC-15229,139,Valparaíso,diabetes mellitus 2,5.0,14,2027-15-40,251000.0
+PAC-33819,35,Concepción,Gastritis Crónica,4.0,1,2025-03-31,698000.0
+PAC-69177,64,Santiago,Gastritis Crónica,14.0,,2025-12-17,501000.0
+PAC-62994,-14,,Gastritis Crónica,2.0,10,2024-10-05,717000.0
+PAC-13278,175,Las Condes,Apendicitis Aguda,11.0,2,2024-11-05,439000.0
+PAC-19602,48,Valparaíso,Artrosis,1.0,10,2026-03-23,601000.0
+PAC-19016,47,Puente Alto,HTA,1.0,0,2025-03-14,584000.0
+PAC-90728,-15,Maipú,HTA,9.0,10,2026-02-21,
+PAC-54118,49,Concepción,Infección Respiratoria Aguda,14.0,,Sin registro,332000.0
+PAC-74686,43,Viña del Mar,Apendicitis Aguda,11.0,2,,100000.0
+PAC-69929,49,,Diabetes Mellitus Tipo 2,7.0,5,2026-09-14,376000.0
+PAC-53309,16,Concepción,Apendicitis Aguda,11.0,14,2025-04-28,458000.0
+PAC-34890,67,Puente Alto,DM2,8.0,0,2026-09-27,599000.0
+PAC-73624,60,Antofagasta,IRA,8.0,0,2025-03-25,405000.0
+PAC-59009,27,Maipú,Artrosis,6.0,0,2026-06-07,142000.0
+PAC-60328,3,Valparaíso,Neumonía,3.0,3,2026-04-15,16000.0
+PAC-34957,23,Providencia,Infección Respiratoria Aguda,369.0,14,2024-10-30,496000.0
+PAC-54118,7,Concepción,,4.0,1,2026-07-04,243000.0
+PAC-14207,82,Maipú,Hipertensión Arterial,3.0,0,2025-06-13,693000.0
+PAC-57795,12,Santiago,Gastritis Crónica,6.0,626,2026-07-30,619000.0
+PAC-39444,24,La Florida,DM2,6.0,2,2025-07-08,0
+PAC-97684,7,Maipú,diabetes mellitus 2,6.0,0,2027-15-40,679000.0
+PAC-31319,1,Antofagasta,Artrosis,5.0,3,2025-08-04,0
+PAC-37653,60,Valparaíso,DM2,9.0,0,2026-09-12,636000.0
+PAC-87236,5,Antofagasta,Diabetes Mellitus Tipo 2,15.0,,2025-07-07,110000.0
+PAC-89516,62,santiago,Neumonía,10.0,0,2026-09-20,749000.0
+PAC-27342,-2,Valparaíso,Gastritis Crónica,-3.0,0,2030-01-01,736000.0
+PAC-32810,83,Providencia,Diabetes Mellitus Tipo 2,1.0,10,,747000.0
+PAC-92397,56,Viña del Mar,HTA,1.0,14,2026-01-14,503000.0
+PAC-99016,34,Antofagasta,Diabetes Mellitus Tipo 2,4.0,0,2030-01-01,317000.0
+PAC-56025,21,Santiago,Apendicitis Aguda,9.0,0,2026-03-25,452000.0
+PAC-80702,67,Maipu,diabetes mellitus 2,11.0,1,2025-11-01,170000.0
+PAC-25157,58,La Florida,Infección Respiratoria Aguda,287.0,0,2026-02-20,$141.000
+PAC-89593,51,Valparaíso,Hipertensión Arterial,3.0,,2025-06-08,671000.0
+PAC-56438,19,Pte Alto,Apendicitis Aguda,3.0,10,2025-09-20,223000.0
+PAC-66959,52,Antofagasta,Diabetes Mellitus Tipo 2,9.0,3,2025-11-12,85000.0
+PAC-22280,76,Puente Alto,Artrosis,8.0,0,2026-06-04,472000.0
+PAC-94259,82,,Neumonía,1.0,0,2025-02-13,99000.0
+PAC-16582,40,Providencia,DM2,8.0,0,2026-08-04,522000.0
+PAC-94874,,Las Condes,Neumonía,4.0,0,2030-01-01,46000.0
+PAC-79615,62,Las Condes,DM2,231.0,14,2025-02-14,0
+PAC-40982,68,Santiago,Infección Respiratoria Aguda,-3.0,0,2025-11-07,721000.0
+PAC-59857,9,Providencia,Infección Respiratoria Aguda,10.0,0,2026-08-26,799000.0
+PAC-17100,84,Valparaíso,HTA,,10,2026-06-13,0
+PAC-12671,29,,Hipertensión Arterial,12.0,1,2024-11-19,-150000
+PAC-36062,69,,Hipertensión Arterial,14.0,0,21/04/2025,395000.0
+PAC-22363,15,La Florida,Artrosis,12.0,,2025-10-27,474000.0
+PAC-99687,40,Santiago,Infección Respiratoria Aguda,4.0,999,2025-02-01,$56.000
+PAC-63528,24,Santiago,Artrosis,4.0,10,2025-01-17,263000.0
+PAC-18418,82,Providencia ,Diabetes Mellitus Tipo 2,11.0,0,2026-03-16,742000.0
+PAC-45382,56,Viña del Mar,Infección Respiratoria Aguda,12.0,5,2026-08-07,616000.0
+PAC-81582,35,Concepción,diabetes mellitus 2,8.0,797,,0
+PAC-46434,82,Viña del Mar,Hipertensión Arterial,11.0,3,2026-09-13,602000.0
+PAC-82357,35,Maipu,Artrosis,10.0,,2024-11-28,771000.0
+PAC-51180,31,Providencia,Gastritis Crónica,4.0,,2026-07-21,327000.0
+PAC-38569,66,Viña del Mar,Apendicitis Aguda,14.0,3,2025-10-26,
+PAC-18981,47,Antofagasta,IRA,6.0,0,2025-01-22,531000.0
+PAC-95426,21,Viña del Mar,HTA,6.0,508,2025-10-02,299000.0
+PAC-84691,75,Viña del Mar,Apendicitis Aguda,15.0,5,,375000.0
+PAC-15014,34,Providencia ,Gastritis Crónica,12.0,774,2026-08-31,413000.0
+PAC-51467,87,Providencia,Diabetes Mellitus Tipo 2,5.0,,2024-12-20,345000.0
+PAC-70068,53,santiago,Artrosis,6.0,0,2024-11-29,202000.0
+PAC-38760,55,Providencia ,diabetes mellitus 2,5.0,0,Sin registro,
+PAC-54942,,Viña del Mar,Diabetes Mellitus Tipo 2,1.0,1,2026-01-01,638000.0
+PAC-24621,51,Providencia,IRA,12.0,0,2026-08-19,723000.0
+PAC-98777,48,santiago,Diabetes Mellitus Tipo 2,7.0,0,2030-01-01,606000.0
+PAC-19071,33,Maipú,diabetes mellitus 2,-3.0,0,,553000.0
+PAC-64321,34,Santiago,Hipertensión Arterial,,10,2026-08-21,304000.0
+PAC-43386,52,La Florida,Neumonía,3.0,14,2027-15-40,761000.0
+,84,La Florida,Diabetes Mellitus Tipo 2,,1,2026-01-30,-150000
+PAC-60488,55,,,1.0,0,2024-10-19,223000.0
+PAC-16006,22,Puente Alto,Diabetes Mellitus Tipo 2,-3.0,0,2025-04-22,$169.000
+PAC-14067,73,Concepción,Neumonía,15.0,479,2027-15-40,37000.0
+PAC-59857,67,Puente Alto,diabetes mellitus 2,-3.0,0,2025-09-21,517000.0
+PAC-18907,5,Valparaíso,,4.0,,2026-09-17,289000.0
+PAC-72296,74,Concepción,Neumonía,5.0,0,2026-03-07,307000.0
+PAC-83519,56,Puente Alto,Infección Respiratoria Aguda,14.0,0,01/04/2025,-150000
+PAC-10425,47,,diabetes mellitus 2,-3.0,5,2025-07-06,699000.0
+PAC-74032,40,Concepción,Artrosis,10.0,10,2025-10-18,806000.0
+PAC-46930,54,Las Condes,IRA,4.0,2,2025-12-11,689000.0
+PAC-79615,89,Las Condes,Hipertensión Arterial,7.0,3,2024-12-15,771000.0
+PAC-12757,7,Maipú,Neumonía,11.0,0,2026-02-16,0
+PAC-30033,58,Providencia ,Neumonía,12.0,10,,0
+PAC-40735,,Valparaíso,Artrosis,14.0,3,2025-09-11,253000.0
+PAC-54313,32,Providencia,,3.0,910,2026-06-14,699000.0
+PAC-69638,21,Viña del Mar,Artrosis,5.0,10,2025-10-13,589000.0
+PAC-24029,85,Santiago,Gastritis Crónica,4.0,3,2026-07-21,97000.0
+PAC-84177,3,Antofagasta,diabetes mellitus 2,6.0,0,2024-11-20,94000.0
+PAC-40784,41,Valparaíso,Apendicitis Aguda,7.0,0,2024-09-27,805000.0
+PAC-63528,47,Providencia ,Artrosis,11.0,1,2026-05-09,22000.0
+PAC-42018,26,Valparaíso,Gastritis Crónica,420.0,,2026-05-25,336000.0
+PAC-42325,62,Santiago,Neumonía,6.0,10,2025-06-09,$247.000
+,73,Las Condes,Artrosis,1.0,5,2024-12-17,295000.0
+PAC-42098,47,La Florida,Hipertensión Arterial,7.0,3,2026-04-14,513000.0
+PAC-94696,61,Antofagasta,Artrosis,6.0,0,2030-01-01,$167.000
+PAC-25906,73,Providencia,Diabetes Mellitus Tipo 2,11.0,2,2024-12-19,-150000
+PAC-53933,-11,La Florida,IRA,3.0,14,2025-04-24,566000.0
+PAC-54236,65,,Hipertensión Arterial,10.0,10,2025-06-12,417000.0
+PAC-65333,0,Las Condes,IRA,9.0,3,2025-02-04,353000.0
+PAC-60019,52,Las Condes,Gastritis Crónica,473.0,0,30/03/2026,272000.0
+PAC-10282,20,santiago,Artrosis,7.0,10,2025-03-15,408000.0
+PAC-38657,74,Maipu,Artrosis,8.0,5,2026-03-24,$94.000
+,37,Viña del Mar,Apendicitis Aguda,,1,2024-11-15,717000.0
+PAC-73624,65,Las Condes,Gastritis Crónica,14.0,0,2026-08-04,$63.000
+PAC-62743,27,Maipu,diabetes mellitus 2,14.0,0,2026-05-24,752000.0
+PAC-55082,79,Puente Alto,Gastritis Crónica,9.0,14,2025-04-27,319000.0
+PAC-69429,45,Las Condes,Neumonía,10.0,2,2025-06-25,496000.0
+PAC-89997,19,Santiago,Hipertensión Arterial,6.0,5,,562000.0
+PAC-86350,39,La Florida,Apendicitis Aguda,10.0,497,2025-12-05,397000.0
+PAC-94259,3,Santiago,Hipertensión Arterial,7.0,0,2027-15-40,676000.0
+PAC-91416,22,Concepción,Gastritis Crónica,5.0,1,2025-04-30,-150000
+PAC-38221,-5,Viña del Mar,Neumonía,9.0,,2025-12-01,$165.000
+PAC-50768,61,Maipu,Gastritis Crónica,10.0,1,2025-12-09,557000.0
+PAC-86569,222,Viña del Mar,Hipertensión Arterial,6.0,5,2025-02-09,784000.0
+PAC-38080,40,Viña del Mar,Gastritis Crónica,7.0,,2025-09-02,539000.0
+PAC-89840,22,Puente Alto,Apendicitis Aguda,2.0,,2026-01-02,$182.000
+PAC-30379,65,Concepción,Diabetes Mellitus Tipo 2,12.0,2,2025-06-05,715000.0
+PAC-96511,93,,Infección Respiratoria Aguda,9.0,3,2025-02-28,433000.0
+PAC-65108,28,Maipú,Apendicitis Aguda,13.0,1,2025-08-09,839000.0
+PAC-48427,26,Antofagasta,Hipertensión Arterial,9.0,0,2025-06-01,675000.0
+PAC-77000,47,,HTA,9.0,0,2027-15-40,16000.0
+PAC-51245,34,Puente Alto,Infección Respiratoria Aguda,7.0,3,2027-15-40,0
+PAC-82512,94,Viña del Mar,Artrosis,10.0,2,Sin registro,154000.0
+PAC-39219,89,La Florida,Hipertensión Arterial,7.0,3,2025-03-31,206000.0
+PAC-98501,43,Valparaíso,Hipertensión Arterial,12.0,5,2026-05-05,136000.0
+PAC-81810,30,Valparaíso,Gastritis Crónica,11.0,0,2024-12-08,765000.0
+PAC-84847,186,Valparaíso,HTA,6.0,0,2025-04-22,120000.0
+PAC-93579,94,Concepción,Apendicitis Aguda,-3.0,14,2024-10-12,784000.0
+PAC-91416,81,santiago,Hipertensión Arterial,1.0,0,2026-08-16,-150000
+PAC-79615,90,Las Condes,Infección Respiratoria Aguda,9.0,10,2025-12-08,
+PAC-69638,37,Concepción,Infección Respiratoria Aguda,11.0,,2025-05-12,787000.0
+PAC-16658,41,Providencia,Infección Respiratoria Aguda,4.0,3,2025-04-14,444000.0
+PAC-51104,1,Antofagasta,DM2,3.0,1,2026-07-19,730000.0
+PAC-89131,-6,Providencia ,Diabetes Mellitus Tipo 2,9.0,,2025-11-19,158000.0
+PAC-40512,,Maipú,Infección Respiratoria Aguda,5.0,0,2025-11-06,75000.0
+PAC-29536,85,Maipú,HTA,8.0,10,2025-11-03,267000.0
+PAC-95649,36,Maipu,Artrosis,3.0,1,2026-05-25,651000.0
+PAC-22240,30,La Florida,Apendicitis Aguda,13.0,14,Sin registro,330000.0
+PAC-42406,83,Viña del Mar,Diabetes Mellitus Tipo 2,4.0,,2026-08-26,
+PAC-45614,58,santiago,Neumonía,12.0,0,Sin registro,405000.0
+PAC-23104,41,Santiago,Infección Respiratoria Aguda,10.0,5,28/11/2025,230000.0
+PAC-30033,87,Las Condes,Diabetes Mellitus Tipo 2,12.0,3,2025-03-09,638000.0
+PAC-54725,69,Maipú,Gastritis Crónica,15.0,3,,412000.0
+PAC-41195,39,Providencia ,Apendicitis Aguda,10.0,0,2025-03-20,739000.0
+PAC-15695,51,La Florida,Diabetes Mellitus Tipo 2,8.0,5,2025-10-06,17000.0
+PAC-97416,90,Providencia,Artrosis,4.0,0,Sin registro,$44.000
+PAC-85470,3,Las Condes,Gastritis Crónica,10.0,,2026-06-01,760000.0
+PAC-94607,84,Providencia ,DM2,10.0,0,2024-11-29,165000.0
+PAC-80678,71,Viña del Mar,DM2,13.0,3,2026-01-05,0
+PAC-98696,72,Valparaíso,Neumonía,1.0,10,2026-01-22,509000.0
+,68,Maipú,Apendicitis Aguda,14.0,14,2026-03-14,
+PAC-17665,64,La Florida,HTA,2.0,2,2025-11-05,
+PAC-44600,60,Providencia ,Gastritis Crónica,8.0,0,2025-09-15,242000.0
+PAC-30379,40,Maipu,Infección Respiratoria Aguda,5.0,0,2025-08-13,825000.0
+PAC-19287,55,La Florida,Infección Respiratoria Aguda,12.0,0,2025-08-19,278000.0
+PAC-99733,26,Puente Alto,DM2,2.0,5,2025-12-13,-150000
+PAC-22240,28,Maipu,Gastritis Crónica,10.0,,20/11/2025,643000.0
+PAC-10282,,Antofagasta,Neumonía,7.0,1,2026-02-12,44000.0
+PAC-93136,94,Viña del Mar,Neumonía,,1,2025-07-05,497000.0
+PAC-80575,41,Valparaíso,IRA,11.0,5,2025-03-07,242000.0
+PAC-10053,33,Providencia,Neumonía,7.0,0,2026-01-28,550000.0
+PAC-26544,67,Concepción,IRA,11.0,2,2025-03-16,207000.0
+PAC-24371,55,,diabetes mellitus 2,363.0,5,2026-02-07,426000.0
+PAC-23833,33,Antofagasta,IRA,,5,2025-03-19,768000.0
+PAC-22363,53,Maipú,diabetes mellitus 2,7.0,5,2026-09-12,804000.0
+PAC-96356,70,,Apendicitis Aguda,13.0,0,2025-04-24,433000.0
+PAC-41850,20,Puente Alto,HTA,9.0,5,,290000.0
+PAC-26828,29,Maipú,,5.0,3,2025-03-20,443000.0
+PAC-93130,42,Maipu,Hipertensión Arterial,2.0,1,2025-07-26,
+PAC-31992,42,Concepción,Neumonía,12.0,14,2025-08-22,59000.0
+PAC-76244,82,Santiago,Artrosis,11.0,0,2025-04-08,177000.0
+PAC-53369,55,Valparaíso,Apendicitis Aguda,13.0,14,2027-15-40,622000.0
+PAC-16630,79,Puente Alto,IRA,14.0,10,27/04/2025,747000.0
+PAC-14722,83,Puente Alto,Neumonía,13.0,0,2026-05-12,690000.0
+PAC-83060,53,Maipú,Gastritis Crónica,4.0,3,2026-03-26,755000.0
+PAC-98696,81,,Neumonía,10.0,5,05/12/2025,-150000
+PAC-13804,70,Antofagasta,Diabetes Mellitus Tipo 2,14.0,0,2026-05-12,157000.0
+PAC-66985,14,santiago,Neumonía,1.0,3,2025-05-04,610000.0
+PAC-54587,28,Maipú,Diabetes Mellitus Tipo 2,12.0,3,2025-07-26,595000.0
+PAC-21003,59,Maipu,Hipertensión Arterial,9.0,1,01/12/2025,731000.0
+PAC-94259,45,Valparaíso,Diabetes Mellitus Tipo 2,,,2025-08-27,413000.0
+PAC-44741,7,Maipú,Gastritis Crónica,2.0,0,2025-06-16,89000.0
+PAC-69087,18,Antofagasta,Infección Respiratoria Aguda,1.0,0,2025-05-24,401000.0
+PAC-19961,34,Providencia ,Diabetes Mellitus Tipo 2,-3.0,5,Sin registro,
+PAC-67422,76,Valparaíso,HTA,14.0,1,2025-11-13,819000.0
+,28,Providencia,Apendicitis Aguda,3.0,0,2025-06-08,665000.0
+PAC-10425,,Valparaíso,Infección Respiratoria Aguda,1.0,0,2025-05-15,347000.0
+PAC-81582,48,Providencia,Gastritis Crónica,9.0,0,02/03/2026,589000.0
+PAC-29536,9,La Florida,Artrosis,2.0,0,2025-07-21,849000.0
+PAC-44099,,Santiago,Apendicitis Aguda,-3.0,5,2025-07-22,162000.0
+PAC-81200,37,Maipú,Infección Respiratoria Aguda,9.0,0,2026-08-04,651000.0
+PAC-12560,26,Maipú,DM2,3.0,10,2025-01-14,276000.0
+PAC-59672,18,La Florida,Artrosis,14.0,0,27/11/2024,339000.0
+PAC-42018,88,Concepción,Hipertensión Arterial,15.0,0,2025-01-05,0
+PAC-86484,8,Concepción,Artrosis,3.0,0,2025-04-29,77000.0
+PAC-19171,18,Maipú,Gastritis Crónica,12.0,5,2026-04-30,239000.0
+PAC-60488,40,Valparaíso,IRA,7.0,0,2026-01-30,364000.0
+PAC-29536,34,Viña del Mar,diabetes mellitus 2,12.0,0,2026-07-15,175000.0
+PAC-65392,17,Santiago,Infección Respiratoria Aguda,15.0,,2026-05-04,0
+PAC-90120,,Providencia,HTA,10.0,1,2026-01-28,669000.0
+PAC-92240,22,Santiago,,8.0,611,2025-08-10,0
+PAC-15778,80,Viña del Mar,Hipertensión Arterial,3.0,,2025-03-28,-150000
+PAC-42527,,,Neumonía,13.0,2,2030-01-01,619000.0
+PAC-74799,91,Antofagasta,Gastritis Crónica,12.0,14,2025-08-31,
+PAC-97670,229,Viña del Mar,Artrosis,11.0,10,2025-12-22,336000.0
+PAC-43972,43,Puente Alto,,6.0,2,2024-12-20,693000.0
+PAC-51145,35,La Florida,Hipertensión Arterial,-3.0,2,2030-01-01,780000.0
+PAC-97012,54,Santiago,Diabetes Mellitus Tipo 2,10.0,,2026-06-11,694000.0
+PAC-70889,35,Maipú,Gastritis Crónica,5.0,14,2030-01-01,-150000
+PAC-31319,63,Santiago,HTA,9.0,0,2026-06-02,607000.0
+PAC-17716,14,Providencia,DM2,10.0,3,2025-08-01,104000.0
+PAC-42098,,La Florida,Gastritis Crónica,12.0,10,2025-09-02,87000.0
+PAC-36071,0,Providencia,Diabetes Mellitus Tipo 2,4.0,,2025-10-07,452000.0
+PAC-38657,,Viña del Mar,Hipertensión Arterial,5.0,5,2025-09-05,249000.0
+PAC-80798,222,Providencia,Neumonía,7.0,0,2026-07-04,124000.0
+PAC-45614,68,Santiago,Artrosis,5.0,14,2026-03-03,820000.0
+PAC-86019,75,Valparaíso,Diabetes Mellitus Tipo 2,9.0,0,2026-01-27,
+PAC-46930,90,Las Condes,Infección Respiratoria Aguda,10.0,2,2024-12-24,513000.0
+PAC-65333,34,Providencia,HTA,13.0,0,,634000.0
+PAC-62227,76,Concepción,Apendicitis Aguda,12.0,1,2025-05-27,471000.0
+PAC-54236,6,Viña del Mar,Artrosis,14.0,10,2024-12-30,309000.0
+PAC-76162,8,Viña del Mar,Infección Respiratoria Aguda,8.0,0,2026-03-19,576000.0
+PAC-69829,84,Las Condes,Gastritis Crónica,9.0,5,2025-11-24,208000.0
+PAC-13617,47,Viña del Mar,Apendicitis Aguda,5.0,2,2026-09-13,751000.0
+PAC-84177,35,La Florida,Gastritis Crónica,13.0,2,11/01/2026,$85.000
+PAC-77000,27,Maipú,Artrosis,11.0,0,2025-01-16,809000.0
+PAC-13248,55,Viña del Mar,Hipertensión Arterial,2.0,0,2026-07-19,47000.0
+PAC-30033,80,La Florida,HTA,,14,2025-03-09,
+PAC-51245,18,Viña del Mar,Diabetes Mellitus Tipo 2,8.0,0,2026-04-12,162000.0
+PAC-44970,39,Puente Alto,Artrosis,13.0,3,2026-09-27,353000.0
+PAC-91351,68,Antofagasta,Gastritis Crónica,13.0,0,2025-03-04,451000.0
+PAC-44814,73,,Neumonía,12.0,0,2025-08-04,434000.0
+PAC-35995,8,,IRA,12.0,5,2026-01-07,489000.0
+PAC-45382,,Las Condes,diabetes mellitus 2,11.0,14,27/12/2025,607000.0
+PAC-45774,14,Santiago,Gastritis Crónica,7.0,2,,470000.0
+PAC-82692,43,Providencia ,Hipertensión Arterial,,10,2025-02-15,674000.0
+PAC-46509,54,Providencia ,Apendicitis Aguda,13.0,,2030-01-01,512000.0
+PAC-83259,72,Providencia,Infección Respiratoria Aguda,14.0,0,2024-11-21,487000.0
+PAC-47930,49,Santiago,Infección Respiratoria Aguda,6.0,0,2027-15-40,709000.0
+PAC-27146,25,Maipu,Diabetes Mellitus Tipo 2,3.0,10,2026-05-24,642000.0
+PAC-12757,17,Las Condes,Gastritis Crónica,5.0,14,2026-06-07,592000.0
+PAC-37938,93,Concepción,Infección Respiratoria Aguda,11.0,5,2025-03-04,382000.0
+PAC-68878,86,La Florida,Infección Respiratoria Aguda,6.0,5,,22000.0
+PAC-57052,,Maipú,,5.0,5,2026-05-27,280000.0
+PAC-44522,94,Concepción,IRA,9.0,5,2025-08-31,522000.0
+PAC-93507,16,Maipú,diabetes mellitus 2,3.0,0,2026-06-13,$63.000
+PAC-18418,82,Valparaíso,IRA,7.0,0,2026-01-20,0
+PAC-95181,24,Puente Alto,HTA,3.0,3,2026-02-02,516000.0
+PAC-71213,26,Santiago,Apendicitis Aguda,6.0,14,2026-05-18,$175.000
+PAC-11934,46,Santiago,Diabetes Mellitus Tipo 2,6.0,10,2026-05-06,342000.0
+PAC-65518,181,Maipú,Diabetes Mellitus Tipo 2,14.0,0,2027-15-40,580000.0
+PAC-94246,66,santiago,Neumonía,5.0,2,2025-09-16,370000.0
+PAC-11220,-4,Viña del Mar,Gastritis Crónica,13.0,474,2026-02-10,581000.0
+PAC-85674,66,Puente Alto,Diabetes Mellitus Tipo 2,11.0,1,2026-03-07,56000.0
+PAC-41571,1,Las Condes,IRA,5.0,2,2025-06-22,295000.0
+PAC-63225,3,,Infección Respiratoria Aguda,8.0,14,2026-06-22,153000.0
+PAC-16590,55,La Florida,Artrosis,,5,2025-05-01,78000.0
+PAC-96673,31,santiago,DM2,9.0,10,,504000.0
+PAC-58393,-4,Las Condes,Artrosis,15.0,3,2026-09-11,0
+PAC-23356,65,La Florida,Hipertensión Arterial,8.0,3,2026-06-10,736000.0
+PAC-99065,90,Providencia,Gastritis Crónica,,14,2025-10-10,752000.0
+PAC-94607,84,Providencia ,DM2,10.0,0,2024-11-29,165000.0
+PAC-89131,,Maipu,Artrosis,8.0,2,2025-06-27,385000.0
+PAC-45400,60,Maipú,Diabetes Mellitus Tipo 2,11.0,0,2025-12-07,295000.0
+PAC-70901,76,Viña del Mar,Artrosis,11.0,0,06/01/2026,716000.0
+,77,La Florida,Neumonía,5.0,0,,260000.0
+PAC-23577,28,La Florida,Infección Respiratoria Aguda,8.0,0,2025-11-19,$109.000
+PAC-69598,10,,DM2,12.0,1,2025-12-02,768000.0
+PAC-83792,23,Puente Alto,diabetes mellitus 2,7.0,10,2026-02-08,564000.0
+PAC-87397,39,Pte Alto,IRA,4.0,0,2025-11-24,61000.0
+PAC-25157,77,Pte Alto,HTA,13.0,14,2030-01-01,-150000
+PAC-65333,58,Viña del Mar,Artrosis,10.0,3,2026-09-03,
+PAC-59797,68,Puente Alto,IRA,9.0,14,2025-02-28,144000.0
+PAC-17592,62,Maipú,IRA,11.0,5,2030-01-01,48000.0
+PAC-87110,57,Pte Alto,Apendicitis Aguda,1.0,14,2030-01-01,470000.0
+PAC-82420,140,Las Condes,Hipertensión Arterial,7.0,3,2025-09-03,349000.0
+PAC-17665,68,Maipú,Apendicitis Aguda,8.0,14,2025-06-29,557000.0
+PAC-37549,4,Puente Alto,Diabetes Mellitus Tipo 2,10.0,2,2024-10-04,362000.0
+PAC-44664,67,Antofagasta,Diabetes Mellitus Tipo 2,10.0,0,2025-09-13,491000.0
+PAC-66959,77,Santiago,Neumonía,7.0,3,2024-09-27,454000.0
+PAC-65518,21,Maipú,Diabetes Mellitus Tipo 2,10.0,0,2025-07-05,361000.0
+PAC-30926,48,santiago,Diabetes Mellitus Tipo 2,12.0,,2024-09-29,660000.0
+PAC-72493,44,Pte Alto,HTA,8.0,1,2027-15-40,822000.0
+PAC-83792,89,Puente Alto,Hipertensión Arterial,14.0,3,2025-09-05,31000.0
+PAC-44973,18,Concepción,Neumonía,15.0,10,2024-12-13,55000.0
+PAC-17989,11,Valparaíso,IRA,1.0,0,2026-07-27,369000.0
+PAC-40495,79,santiago,Apendicitis Aguda,4.0,,13/04/2025,523000.0
+PAC-97747,82,Valparaíso,Infección Respiratoria Aguda,9.0,5,02/12/2024,143000.0
+PAC-95990,47,La Florida,Diabetes Mellitus Tipo 2,4.0,10,2025-08-12,721000.0
+PAC-42742,65,Antofagasta,IRA,10.0,3,2025-10-21,773000.0
+PAC-45382,194,Viña del Mar,diabetes mellitus 2,5.0,2,2026-02-10,818000.0
+PAC-94696,95,La Florida,Apendicitis Aguda,2.0,3,2025-03-29,312000.0
+PAC-44335,74,Santiago,Artrosis,3.0,1,Sin registro,500000.0
+,71,Viña del Mar,Gastritis Crónica,5.0,5,2027-15-40,559000.0
+PAC-18161,84,Concepción,Apendicitis Aguda,7.0,10,2025-06-17,732000.0
+PAC-19016,45,Antofagasta,Hipertensión Arterial,1.0,1,2030-01-01,273000.0
+PAC-87110,24,Providencia,Apendicitis Aguda,5.0,3,2026-06-19,654000.0
+PAC-89415,,Maipú,Hipertensión Arterial,4.0,14,2025-06-13,399000.0
+PAC-32241,24,Santiago,Apendicitis Aguda,6.0,0,2024-09-28,390000.0
+PAC-43972,70,Santiago,Diabetes Mellitus Tipo 2,-3.0,0,2026-04-27,417000.0
+PAC-53025,39,Providencia,diabetes mellitus 2,14.0,0,2026-01-13,766000.0
+PAC-54587,54,Las Condes,Hipertensión Arterial,8.0,0,2030-01-01,361000.0
+PAC-14165,5,Puente Alto,Apendicitis Aguda,13.0,2,2025-09-08,721000.0
+PAC-92960,87,Las Condes,Apendicitis Aguda,,0,2030-01-01,460000.0
+PAC-21003,217,Valparaíso,Gastritis Crónica,4.0,3,2027-15-40,763000.0
+PAC-60432,80,La Florida,Infección Respiratoria Aguda,14.0,5,2027-15-40,0
+PAC-38534,30,Puente Alto,Artrosis,10.0,0,2026-07-01,226000.0
+PAC-83920,31,Antofagasta,Neumonía,13.0,0,2026-02-21,495000.0
+PAC-31299,-15,Valparaíso,Hipertensión Arterial,7.0,1,2025-06-21,-150000
+PAC-53933,41,Concepción,diabetes mellitus 2,8.0,1,2024-10-25,73000.0
+PAC-41195,46,Viña del Mar,Infección Respiratoria Aguda,5.0,14,2025-07-18,96000.0
+PAC-19880,,,Neumonía,-3.0,0,2025-01-18,439000.0
+PAC-76469,47,Antofagasta,diabetes mellitus 2,12.0,0,2025-03-17,807000.0
+PAC-44522,72,Maipú,Diabetes Mellitus Tipo 2,12.0,3,2025-12-20,670000.0
+PAC-85914,12,Puente Alto,Apendicitis Aguda,14.0,14,2026-03-09,$83.000
+PAC-73788,70,santiago,HTA,7.0,10,2025-11-22,274000.0
+PAC-12540,42,,Hipertensión Arterial,1.0,2,2026-04-30,677000.0
+PAC-11934,39,Providencia,Diabetes Mellitus Tipo 2,13.0,0,2027-15-40,644000.0
+,,Las Condes,Diabetes Mellitus Tipo 2,4.0,0,2024-10-07,
+PAC-35485,227,Santiago,Artrosis,7.0,0,,223000.0
+PAC-66822,10,Valparaíso,,2.0,3,2026-06-11,82000.0
+PAC-44237,41,santiago,Diabetes Mellitus Tipo 2,8.0,10,2025-12-18,135000.0
+PAC-46048,53,Viña del Mar,Apendicitis Aguda,3.0,2,2025-01-26,651000.0
+PAC-13201,26,Concepción,Diabetes Mellitus Tipo 2,13.0,1,31/08/2026,361000.0
+PAC-81121,73,,IRA,2.0,0,,528000.0
+PAC-46463,19,,Gastritis Crónica,4.0,10,2025-03-10,22000.0
+PAC-26728,215,Providencia ,Apendicitis Aguda,12.0,10,2027-15-40,703000.0
+PAC-85849,-3,Las Condes,Infección Respiratoria Aguda,1.0,0,2025-05-16,99000.0
+PAC-92240,54,Providencia,Diabetes Mellitus Tipo 2,14.0,0,29/08/2026,
+PAC-48469,37,Las Condes,Infección Respiratoria Aguda,250.0,,,622000.0
+PAC-55082,91,santiago,Apendicitis Aguda,8.0,14,2025-05-09,293000.0
+PAC-17100,94,Las Condes,DM2,1.0,,2025-04-04,616000.0
+PAC-80855,58,Maipú,Neumonía,14.0,10,,54000.0
+PAC-41285,88,Viña del Mar,Gastritis Crónica,1.0,5,,452000.0
+PAC-45774,-9,Puente Alto,Infección Respiratoria Aguda,4.0,0,2025-05-01,438000.0
+PAC-70515,75,Viña del Mar,Artrosis,7.0,10,2024-11-18,181000.0
+PAC-82845,56,Providencia ,Infección Respiratoria Aguda,6.0,14,Sin registro,-150000
+PAC-49139,-10,Providencia,,430.0,0,2027-15-40,843000.0
+PAC-68878,44,Santiago,Gastritis Crónica,6.0,1,23/03/2025,427000.0
+PAC-68991,77,Puente Alto,Gastritis Crónica,10.0,5,2025-04-25,707000.0
+PAC-92149,25,Viña del Mar,Artrosis,15.0,3,2030-01-01,15000.0
+PAC-86019,83,Maipu,Apendicitis Aguda,10.0,0,2026-04-04,751000.0
+PAC-91560,28,La Florida,Neumonía,11.0,10,2026-02-07,192000.0
+PAC-95180,25,Viña del Mar,Diabetes Mellitus Tipo 2,,3,21/06/2025,$48.000
+PAC-61856,247,Las Condes,Neumonía,3.0,1,2025-08-04,621000.0
+PAC-89516,44,Antofagasta,Neumonía,11.0,0,2026-08-27,366000.0
+PAC-63883,84,Santiago,DM2,-3.0,5,2026-03-27,97000.0
+PAC-80575,58,,Gastritis Crónica,13.0,0,,401000.0
+PAC-49139,22,Valparaíso,Diabetes Mellitus Tipo 2,8.0,3,2024-11-09,214000.0
+PAC-40982,21,Puente Alto,Hipertensión Arterial,13.0,5,2025-04-18,253000.0
+PAC-80545,86,La Florida,Hipertensión Arterial,417.0,3,2026-06-15,$144.000
+PAC-46559,78,,Gastritis Crónica,11.0,0,2025-03-29,120000.0
+,70,santiago,Apendicitis Aguda,5.0,,2025-10-10,505000.0
+PAC-77000,54,Providencia,Apendicitis Aguda,10.0,0,Sin registro,391000.0
+PAC-45697,9,Antofagasta,,,5,2025-08-31,-150000
+PAC-97806,38,Santiago,Hipertensión Arterial,6.0,1,2024-10-20,826000.0
+PAC-59735,84,Maipu,HTA,14.0,0,2026-03-01,213000.0
+PAC-99166,34,Viña del Mar,Apendicitis Aguda,13.0,0,2025-05-30,392000.0
+PAC-92240,49,Santiago,Apendicitis Aguda,13.0,,2025-06-10,133000.0
+PAC-54020,35,Providencia ,IRA,8.0,10,2025-05-21,814000.0
+PAC-15075,38,Santiago,IRA,11.0,10,2027-15-40,679000.0
+PAC-10221,75,Providencia ,Diabetes Mellitus Tipo 2,239.0,1,2026-03-05,397000.0
+PAC-43386,82,Providencia,Gastritis Crónica,2.0,3,2024-11-24,279000.0
+PAC-95426,12,Santiago,Hipertensión Arterial,,3,2026-01-08,202000.0
+PAC-45093,38,Las Condes,Apendicitis Aguda,13.0,1,2026-04-20,219000.0
+PAC-19305,18,Providencia,Apendicitis Aguda,15.0,1,Sin registro,690000.0
+PAC-26334,58,Viña del Mar,Hipertensión Arterial,15.0,14,2026-06-20,495000.0
+,92,Antofagasta,diabetes mellitus 2,11.0,5,2027-15-40,434000.0
+PAC-92719,54,Concepción,Artrosis,11.0,14,2025-11-14,85000.0
+PAC-17716,35,La Florida,diabetes mellitus 2,11.0,1,2024-11-29,386000.0
+PAC-60140,,Providencia,Hipertensión Arterial,12.0,0,2030-01-01,735000.0
+PAC-39219,87,Concepción,Artrosis,5.0,0,2025-01-03,637000.0
+PAC-90676,10,Providencia ,Hipertensión Arterial,15.0,1,2025-10-09,656000.0
+PAC-28373,10,Viña del Mar,Gastritis Crónica,9.0,0,2024-10-12,670000.0
+PAC-67091,16,La Florida,Gastritis Crónica,,5,2025-12-23,636000.0
+PAC-95215,75,Antofagasta,Apendicitis Aguda,5.0,10,2024-11-19,467000.0
+PAC-38043,6,Providencia,Hipertensión Arterial,,14,2025-03-13,-150000
+PAC-15075,67,Maipu,Infección Respiratoria Aguda,7.0,2,2026-06-12,
+PAC-31299,26,Maipú,Gastritis Crónica,1.0,10,2026-02-23,530000.0
+PAC-80292,20,Santiago,IRA,5.0,,2027-15-40,
+PAC-15209,62,La Florida,Apendicitis Aguda,147.0,0,2026-01-11,104000.0
+PAC-56438,-10,Concepción,Infección Respiratoria Aguda,6.0,0,2024-10-22,
+PAC-24029,28,Las Condes,Gastritis Crónica,8.0,0,23/10/2025,306000.0
+PAC-98781,36,Providencia,HTA,223.0,,2026-09-06,363000.0
+PAC-60968,53,Santiago,Neumonía,13.0,,2025-12-26,108000.0
+PAC-27146,,Providencia ,IRA,15.0,2,Sin registro,769000.0
+PAC-80702,84,Concepción,,-3.0,0,2024-12-15,541000.0
+PAC-19038,47,La Florida,Gastritis Crónica,,0,2025-10-25,440000.0
+PAC-60328,56,Valparaíso,Hipertensión Arterial,15.0,10,2025-06-11,103000.0
+PAC-39831,29,santiago,Infección Respiratoria Aguda,2.0,5,2025-01-16,705000.0
+PAC-74042,77,Viña del Mar,Gastritis Crónica,4.0,0,2025-10-02,708000.0
+PAC-54236,77,Viña del Mar,HTA,7.0,918,2024-11-28,
+PAC-51904,,Las Condes,,15.0,0,2025-08-12,0
+PAC-44814,53,Antofagasta,Gastritis Crónica,4.0,512,Sin registro,476000.0
+PAC-81810,70,Viña del Mar,Hipertensión Arterial,13.0,0,2026-03-17,
+PAC-31632,69,Antofagasta,HTA,14.0,2,2024-12-07,635000.0
+PAC-21226,63,Viña del Mar,Neumonía,14.0,5,2026-03-18,786000.0
+PAC-57819,,Antofagasta,,7.0,0,2026-06-08,
+PAC-51441,40,Santiago,diabetes mellitus 2,4.0,,2026-03-17,0
+PAC-42953,81,Las Condes,Gastritis Crónica,7.0,10,30/03/2025,339000.0
+PAC-47606,81,Providencia ,diabetes mellitus 2,14.0,0,2024-11-25,771000.0
+PAC-38893,64,Maipú,DM2,2.0,0,2025-04-03,452000.0
+PAC-25866,8,Providencia ,Neumonía,12.0,0,2026-05-12,821000.0
+PAC-30052,25,Santiago,Gastritis Crónica,11.0,0,2025-12-02,251000.0
+PAC-21003,6,La Florida,Gastritis Crónica,11.0,10,2025-12-10,753000.0
+PAC-99065,211,Antofagasta,HTA,9.0,0,2026-01-02,438000.0
+PAC-62350,62,Valparaíso,Gastritis Crónica,7.0,1,2026-05-17,183000.0
+PAC-31417,58,Maipú,Artrosis,11.0,,2025-07-11,427000.0
+PAC-97841,52,Antofagasta,Hipertensión Arterial,12.0,10,2027-15-40,285000.0
+PAC-67422,17,Maipu,Hipertensión Arterial,10.0,0,2025-03-31,752000.0
+PAC-23947,5,Concepción,Infección Respiratoria Aguda,5.0,0,2026-02-21,130000.0
+PAC-72070,17,Maipú,Apendicitis Aguda,13.0,1,2026-07-28,343000.0
+PAC-65108,2,Providencia,Gastritis Crónica,6.0,2,2026-06-18,
+PAC-12560,54,Providencia,Hipertensión Arterial,3.0,1,,472000.0
+PAC-18675,,Providencia ,Infección Respiratoria Aguda,14.0,1,2025-08-07,588000.0
+PAC-54118,46,Concepción,Hipertensión Arterial,4.0,3,06/02/2026,591000.0
+PAC-23833,31,Maipú,Diabetes Mellitus Tipo 2,13.0,10,2026-03-01,282000.0
+PAC-98781,18,santiago,Apendicitis Aguda,4.0,0,2024-11-15,
+PAC-66985,31,Providencia ,,9.0,0,2026-09-25,
+PAC-85849,77,Antofagasta,Apendicitis Aguda,9.0,939,2026-07-07,306000.0
+PAC-30289,29,La Florida,Gastritis Crónica,14.0,10,Sin registro,321000.0
+PAC-98777,33,Valparaíso,Infección Respiratoria Aguda,5.0,,2024-11-01,367000.0
+PAC-70589,89,Providencia,Artrosis,15.0,0,2024-12-09,145000.0
+PAC-46434,-1,Santiago,IRA,,14,Sin registro,72000.0
+PAC-65461,8,Viña del Mar,diabetes mellitus 2,10.0,0,2025-11-25,0
+PAC-89516,89,Antofagasta,HTA,5.0,0,2025-10-24,470000.0
+PAC-38221,66,santiago,HTA,12.0,3,2025-05-14,775000.0
+PAC-82692,93,Antofagasta,Neumonía,252.0,0,Sin registro,495000.0
+PAC-78386,,Antofagasta,Gastritis Crónica,7.0,0,2027-15-40,414000.0
+PAC-66346,40,Puente Alto,HTA,2.0,,2026-05-01,378000.0
+PAC-66498,25,La Florida,Neumonía,9.0,0,2025-01-25,501000.0
+PAC-50306,87,Providencia,DM2,8.0,5,2030-01-01,759000.0
+PAC-18161,20,Antofagasta,Gastritis Crónica,3.0,10,2026-01-03,178000.0
+PAC-52237,62,Providencia ,diabetes mellitus 2,15.0,1,2025-12-27,21000.0
+PAC-71993,2,Santiago,Diabetes Mellitus Tipo 2,2.0,0,2026-09-21,186000.0
+PAC-69177,30,La Florida,Artrosis,9.0,3,2026-03-26,303000.0
+PAC-20500,48,Valparaíso,Neumonía,3.0,5,,365000.0
+PAC-37760,70,La Florida,Apendicitis Aguda,9.0,5,2026-04-29,437000.0
+PAC-42406,7,santiago,IRA,13.0,0,,645000.0
+PAC-43586,14,Las Condes,Infección Respiratoria Aguda,2.0,1,2025-09-29,15000.0
+PAC-17100,,santiago,Diabetes Mellitus Tipo 2,14.0,5,2026-01-27,$40.000
+PAC-45093,59,Antofagasta,Diabetes Mellitus Tipo 2,257.0,0,,726000.0
+PAC-55508,52,Santiago,Infección Respiratoria Aguda,8.0,0,2025-10-15,291000.0
+PAC-15482,18,Maipú,Gastritis Crónica,,634,2025-06-26,496000.0
+PAC-21915,4,Santiago,Infección Respiratoria Aguda,5.0,1,2024-11-18,789000.0
+PAC-69470,43,Viña del Mar,Apendicitis Aguda,11.0,10,2026-01-03,679000.0
+PAC-70332,8,Antofagasta,IRA,4.0,0,2030-01-01,555000.0
+PAC-91416,61,santiago,Apendicitis Aguda,12.0,5,2025-04-13,442000.0
+PAC-49139,26,Valparaíso,Neumonía,10.0,0,2027-15-40,176000.0
+PAC-33086,8,Maipú,HTA,15.0,5,2026-05-12,62000.0
+PAC-24662,87,Valparaíso,Neumonía,12.0,10,,825000.0
+PAC-91560,61,Maipú,Infección Respiratoria Aguda,2.0,14,2026-05-20,760000.0
+,66,Valparaíso,Neumonía,6.0,2,2025-08-15,614000.0
+PAC-41850,92,Maipú,Neumonía,11.0,0,2027-15-40,502000.0
+PAC-40512,77,Concepción,Artrosis,8.0,0,2024-12-13,482000.0
+PAC-67091,56,Santiago,Infección Respiratoria Aguda,3.0,1,2026-06-01,226000.0
+PAC-87128,53,Providencia ,Apendicitis Aguda,5.0,2,Sin registro,427000.0
+PAC-79615,77,Providencia ,Neumonía,4.0,5,2024-11-11,448000.0
+PAC-46463,23,Viña del Mar,Neumonía,8.0,5,2026-03-17,364000.0
+PAC-83920,43,Concepción,Hipertensión Arterial,15.0,,2025-08-10,241000.0
+PAC-43065,51,Valparaíso,Infección Respiratoria Aguda,4.0,,2026-09-05,770000.0
+PAC-17455,49,Santiago,Gastritis Crónica,4.0,0,2030-01-01,151000.0
+PAC-84177,16,Providencia,Hipertensión Arterial,13.0,0,2025-06-18,175000.0
+PAC-55508,3,Providencia ,Hipertensión Arterial,6.0,10,2026-03-17,76000.0
+PAC-78146,82,Providencia,Neumonía,,0,2025-02-04,681000.0
+PAC-72493,6,Providencia,Diabetes Mellitus Tipo 2,13.0,0,20/03/2025,469000.0
+PAC-95813,60,Maipú,Hipertensión Arterial,14.0,14,2025-10-15,600000.0
+PAC-70946,88,Puente Alto,Hipertensión Arterial,5.0,,2025-01-31,846000.0
+PAC-30374,,Providencia ,Hipertensión Arterial,15.0,0,05/09/2025,429000.0
+PAC-74686,,Providencia,Artrosis,8.0,1,2025-02-18,594000.0
+PAC-10464,52,Pte Alto,Hipertensión Arterial,1.0,0,2025-09-10,380000.0
+PAC-92149,86,Maipu,diabetes mellitus 2,13.0,0,2025-08-08,0
+PAC-99065,28,Providencia ,Infección Respiratoria Aguda,7.0,3,2025-06-10,479000.0
+PAC-13534,7,La Florida,HTA,10.0,2,2026-08-31,794000.0
+PAC-95180,-15,Valparaíso,Apendicitis Aguda,4.0,1,2026-07-06,$275.000
+PAC-18993,94,Santiago,IRA,7.0,,2025-05-19,0
+,18,Valparaíso,Diabetes Mellitus Tipo 2,-3.0,5,2025-03-12,727000.0
+PAC-15817,44,Providencia,Neumonía,11.0,1,24/12/2025,-150000
+PAC-81200,55,,Apendicitis Aguda,9.0,0,2026-05-24,585000.0
+PAC-32810,91,Providencia,Infección Respiratoria Aguda,10.0,,2025-01-07,270000.0
+PAC-25118,64,Maipu,Apendicitis Aguda,6.0,1,27/01/2025,446000.0
+PAC-70515,69,La Florida,Diabetes Mellitus Tipo 2,12.0,14,2026-08-17,539000.0
+PAC-39154,86,Providencia,diabetes mellitus 2,2.0,0,2025-04-08,93000.0
+PAC-38534,40,Santiago,IRA,13.0,969,2025-08-09,679000.0
+PAC-42591,93,Providencia,HTA,9.0,2,2024-12-06,27000.0
+PAC-22097,16,Concepción,HTA,3.0,3,2026-02-23,$187.000
+PAC-19602,75,Santiago,Apendicitis Aguda,2.0,,2025-10-15,708000.0
+PAC-72296,20,santiago,Infección Respiratoria Aguda,14.0,2,2026-05-21,343000.0
+PAC-57052,29,santiago,Infección Respiratoria Aguda,1.0,3,2025-08-02,
+PAC-44760,79,La Florida,Neumonía,2.0,14,2024-11-12,223000.0
+PAC-61049,31,Providencia ,Infección Respiratoria Aguda,,2,2026-07-05,214000.0
+PAC-13804,70,Antofagasta,Apendicitis Aguda,14.0,14,2026-05-04,389000.0
+PAC-15778,23,Concepción,IRA,,1,2026-03-28,-150000
+PAC-17665,38,Concepción,Neumonía,12.0,0,2024-11-10,389000.0
+PAC-21114,33,Antofagasta,Apendicitis Aguda,12.0,0,2025-11-18,523000.0
+PAC-98259,70,Puente Alto,Hipertensión Arterial,3.0,0,03/07/2026,634000.0
+PAC-62743,35,Providencia,DM2,15.0,0,2024-12-24,118000.0
+PAC-18834,,La Florida,Diabetes Mellitus Tipo 2,5.0,0,2027-15-40,577000.0
+PAC-78146,16,Antofagasta,Hipertensión Arterial,8.0,0,2025-12-29,
+PAC-57739,,Puente Alto,Hipertensión Arterial,12.0,2,2025-12-03,167000.0
+PAC-50404,63,Pte Alto,Artrosis,14.0,10,2026-07-20,739000.0
+PAC-89507,11,Maipu,Neumonía,1.0,0,2025-08-04,716000.0
+PAC-35995,82,Valparaíso,Infección Respiratoria Aguda,9.0,10,19/09/2025,488000.0
+PAC-68878,49,Concepción,Gastritis Crónica,15.0,0,Sin registro,813000.0
+PAC-59689,88,Concepción,Neumonía,2.0,5,2026-02-18,103000.0
+PAC-85880,53,Providencia,Gastritis Crónica,10.0,0,2025-12-08,779000.0
+PAC-13248,15,Providencia ,Neumonía,13.0,0,2025-12-01,160000.0
+PAC-95215,6,,diabetes mellitus 2,14.0,3,2026-03-21,-150000
+PAC-16006,68,Concepción,diabetes mellitus 2,5.0,2,2024-10-21,710000.0
+PAC-10726,64,Santiago,Gastritis Crónica,4.0,14,,174000.0
+PAC-23947,39,Valparaíso,Diabetes Mellitus Tipo 2,12.0,987,2025-08-19,667000.0
+PAC-32810,83,Providencia,Diabetes Mellitus Tipo 2,1.0,10,,747000.0
+PAC-49139,16,Puente Alto,Hipertensión Arterial,10.0,,2024-11-12,417000.0
+PAC-41571,26,Santiago,DM2,11.0,1,2027-15-40,349000.0
+PAC-67912,36,La Florida,IRA,5.0,0,2025-11-08,593000.0
+PAC-80545,18,Las Condes,Artrosis,3.0,0,2024-12-25,688000.0
+PAC-31579,40,Valparaíso,Artrosis,3.0,0,2026-02-26,236000.0
+PAC-10053,6,Antofagasta,HTA,5.0,1,2025-04-11,380000.0
+PAC-41358,27,Santiago,HTA,10.0,0,2025-05-24,707000.0
+PAC-93136,84,Providencia,DM2,10.0,0,2027-15-40,361000.0
+PAC-36130,66,Concepción,Gastritis Crónica,8.0,1,2025-01-24,618000.0
+PAC-45992,62,Las Condes,Gastritis Crónica,12.0,0,2025-07-18,342000.0
+PAC-57447,50,Concepción,Diabetes Mellitus Tipo 2,,3,2026-03-08,528000.0
+PAC-53309,52,santiago,Neumonía,7.0,,2025-03-31,415000.0
+PAC-19016,57,Maipú,diabetes mellitus 2,8.0,1,2026-05-30,276000.0
+PAC-76784,31,La Florida,Neumonía,9.0,10,2025-09-14,115000.0
+PAC-73624,,Puente Alto,Neumonía,4.0,3,2024-12-26,460000.0
+PAC-57739,86,Antofagasta,Artrosis,13.0,0,2026-07-28,802000.0
+PAC-30257,43,Maipú,diabetes mellitus 2,12.0,10,2030-01-01,348000.0
+PAC-23356,37,Providencia,Diabetes Mellitus Tipo 2,1.0,0,2025-01-19,521000.0
+PAC-42527,50,Santiago,Hipertensión Arterial,3.0,5,2024-11-06,
+PAC-73788,12,Maipu,IRA,,0,2027-15-40,548000.0
+PAC-18675,16,Antofagasta,Neumonía,15.0,14,27/02/2026,110000.0
+PAC-51114,70,Antofagasta,DM2,488.0,10,2024-11-13,761000.0
+PAC-16826,,Providencia ,HTA,10.0,14,13/08/2026,448000.0
+PAC-23970,74,Providencia ,Gastritis Crónica,1.0,0,2025-02-14,
+PAC-82667,36,Antofagasta,Apendicitis Aguda,,0,2026-07-18,579000.0
+PAC-62994,95,Providencia,IRA,2.0,,2026-04-18,41000.0
+PAC-95813,52,Valparaíso,Gastritis Crónica,,0,2024-11-02,426000.0
+PAC-20322,81,,Infección Respiratoria Aguda,14.0,0,2026-03-14,518000.0
+PAC-38569,51,Maipu,Neumonía,10.0,0,2027-15-40,809000.0
+PAC-79822,15,Santiago,Artrosis,11.0,10,2026-07-02,164000.0
+PAC-18161,3,Providencia ,HTA,6.0,1,2026-02-21,167000.0
+PAC-42591,76,,DM2,1.0,3,2025-02-23,329000.0
+PAC-15209,81,Santiago,DM2,10.0,5,2026-05-14,628000.0
+PAC-31417,49,Santiago,Infección Respiratoria Aguda,15.0,0,2026-03-05,0
+PAC-43586,-1,Las Condes,HTA,2.0,0,2025-03-13,152000.0
+PAC-80697,55,Antofagasta,Hipertensión Arterial,2.0,0,2025-01-06,421000.0
+PAC-27361,3,La Florida,Artrosis,4.0,10,2025-11-19,0
+PAC-78386,69,Las Condes,,2.0,0,2025-05-19,$265.000
+PAC-12560,202,Maipú,DM2,8.0,,2025-07-22,792000.0
+PAC-26683,-12,Valparaíso,DM2,14.0,3,2024-12-15,215000.0
+PAC-99687,88,,HTA,11.0,0,,327000.0
+PAC-39451,51,La Florida,Infección Respiratoria Aguda,4.0,14,2025-09-05,129000.0
+PAC-99353,41,Viña del Mar,Infección Respiratoria Aguda,8.0,0,2025-12-23,195000.0
+PAC-66179,26,Viña del Mar,,,0,2030-01-01,601000.0
+PAC-76307,19,Puente Alto,Infección Respiratoria Aguda,6.0,10,2025-03-15,311000.0
+PAC-83385,86,Valparaíso,Diabetes Mellitus Tipo 2,12.0,0,2025-01-21,357000.0
+PAC-95181,82,Las Condes,Diabetes Mellitus Tipo 2,4.0,1,2025-09-26,31000.0
+PAC-39154,10,santiago,Diabetes Mellitus Tipo 2,15.0,1,2025-09-22,378000.0
+PAC-49240,10,Providencia ,HTA,6.0,0,2025-05-30,451000.0
+PAC-68991,63,,Gastritis Crónica,6.0,1,2025-09-22,39000.0
+PAC-30257,42,Puente Alto,Infección Respiratoria Aguda,13.0,,2025-09-14,420000.0
+PAC-88697,34,Antofagasta,diabetes mellitus 2,2.0,0,2025-06-10,155000.0
+PAC-18993,30,Las Condes,Apendicitis Aguda,11.0,1,2025-11-18,795000.0
+PAC-44237,52,Santiago,Artrosis,9.0,1,03/06/2026,813000.0
+PAC-45774,58,Concepción,DM2,15.0,,2025-08-22,34000.0
+PAC-92397,56,Santiago,Gastritis Crónica,6.0,0,2025-12-13,0
+PAC-87992,80,Providencia ,Gastritis Crónica,11.0,0,2026-02-27,112000.0
+PAC-18418,1,Providencia,Neumonía,12.0,0,2030-01-01,469000.0
+PAC-59797,71,La Florida,IRA,7.0,10,2026-08-03,683000.0
+PAC-69929,21,Las Condes,IRA,5.0,0,2025-02-27,107000.0
+PAC-65057,41,Puente Alto,Apendicitis Aguda,2.0,3,2026-07-28,
+PAC-28301,47,Valparaíso,Apendicitis Aguda,12.0,977,,356000.0
+PAC-87397,1,La Florida,Hipertensión Arterial,1.0,1,2026-03-19,574000.0
+PAC-78386,14,Viña del Mar,Diabetes Mellitus Tipo 2,9.0,0,2025-07-10,768000.0
+PAC-76768,6,Providencia,DM2,9.0,0,2024-10-22,0
+PAC-39219,61,Antofagasta,Hipertensión Arterial,-3.0,0,2025-11-14,521000.0
+PAC-29342,32,Maipú,Diabetes Mellitus Tipo 2,13.0,0,2026-04-14,743000.0
+PAC-45992,37,,Neumonía,9.0,14,2025-01-06,
+PAC-36158,69,Pte Alto,Apendicitis Aguda,11.0,3,2025-02-10,647000.0
+PAC-34050,62,Valparaíso,Artrosis,8.0,1,2025-12-18,396000.0
+PAC-58571,24,Maipú,IRA,5.0,1,2026-06-15,379000.0
+PAC-77561,91,Las Condes,Infección Respiratoria Aguda,3.0,0,24/10/2025,$225.000
+,53,Valparaíso,Neumonía,14.0,0,2025-06-23,797000.0
+PAC-21226,6,Concepción,IRA,8.0,10,2025-02-22,80000.0
+PAC-72296,80,La Florida,,2.0,1,2024-10-21,560000.0
+PAC-38221,28,La Florida,DM2,10.0,3,29/04/2025,797000.0
+PAC-47930,91,Providencia ,diabetes mellitus 2,6.0,10,2026-04-28,293000.0
+PAC-69692,60,Las Condes,Gastritis Crónica,13.0,0,2030-01-01,706000.0
+PAC-31319,88,Santiago,Neumonía,10.0,1,2025-06-17,-150000
+PAC-24621,41,santiago,Artrosis,4.0,3,2025-08-06,468000.0
+PAC-71348,31,Maipú,diabetes mellitus 2,8.0,0,2025-10-08,569000.0
+PAC-40828,40,Concepción,Apendicitis Aguda,11.0,10,2025-04-13,179000.0
+PAC-44335,18,Pte Alto,Diabetes Mellitus Tipo 2,13.0,0,2026-05-02,839000.0
+PAC-64987,57,Santiago,Neumonía,7.0,10,2025-08-23,
+PAC-65255,64,La Florida,HTA,14.0,,2025-02-06,624000.0
+PAC-44760,79,La Florida,Neumonía,2.0,14,2024-11-12,223000.0
+PAC-82063,39,Santiago,Neumonía,14.0,0,2025-12-10,755000.0
+PAC-60488,27,Valparaíso,Apendicitis Aguda,14.0,3,2024-11-13,620000.0
+PAC-89840,61,Puente Alto,Apendicitis Aguda,6.0,5,2025-03-10,312000.0
+PAC-19071,46,Viña del Mar,Neumonía,12.0,,2024-12-02,264000.0
+PAC-15075,32,La Florida,diabetes mellitus 2,6.0,0,2025-12-29,489000.0
+PAC-94939,59,Antofagasta,DM2,2.0,0,2025-05-02,0
+PAC-39871,48,Providencia,Hipertensión Arterial,8.0,,2025-04-17,119000.0
+PAC-67199,29,La Florida,IRA,9.0,14,2026-02-08,780000.0
+PAC-89840,43,Santiago,Artrosis,14.0,0,2024-11-07,605000.0
+PAC-23970,38,La Florida,DM2,8.0,,2027-15-40,360000.0
+PAC-77889,74,Maipú,IRA,14.0,1,2025-09-17,600000.0
+PAC-28726,5,Maipú,Gastritis Crónica,1.0,14,2024-12-29,209000.0
+PAC-62350,26,La Florida,Infección Respiratoria Aguda,4.0,5,2025-02-23,
+PAC-23104,34,Antofagasta,Hipertensión Arterial,10.0,1,2025-03-01,532000.0
+PAC-51467,47,Valparaíso,Gastritis Crónica,1.0,5,09/07/2025,
+PAC-49446,40,Providencia,Diabetes Mellitus Tipo 2,13.0,0,2027-15-40,553000.0
+PAC-42406,19,Santiago,Gastritis Crónica,6.0,3,2025-11-22,144000.0
+PAC-84691,74,Viña del Mar,diabetes mellitus 2,15.0,5,2025-07-11,639000.0
+PAC-13278,55,Santiago,Diabetes Mellitus Tipo 2,4.0,3,2025-02-19,428000.0
+,57,Viña del Mar,Neumonía,6.0,14,2026-03-27,759000.0
+PAC-25713,57,La Florida,Neumonía,9.0,1,2024-10-27,83000.0
+PAC-99016,41,Valparaíso,Neumonía,2.0,0,2026-06-27,207000.0
+PAC-82512,72,La Florida,Gastritis Crónica,10.0,0,2025-08-26,654000.0
+PAC-26728,80,Las Condes,Artrosis,3.0,1,2026-08-02,738000.0
+PAC-78386,78,Antofagasta,Artrosis,11.0,,2027-15-40,152000.0
+PAC-81426,,Viña del Mar,Neumonía,107.0,1,,$61.000
+PAC-19961,62,Santiago,HTA,8.0,0,2030-01-01,305000.0
+PAC-71694,55,Valparaíso,,,,Sin registro,246000.0
+PAC-29410,44,Valparaíso,Diabetes Mellitus Tipo 2,,2,2025-07-02,0
+PAC-80381,-12,Puente Alto,Infección Respiratoria Aguda,9.0,5,,124000.0
+PAC-50538,48,Viña del Mar,diabetes mellitus 2,383.0,0,,323000.0
+PAC-88047,68,Concepción,Infección Respiratoria Aguda,3.0,0,2025-11-30,169000.0
+PAC-42271,22,La Florida,Gastritis Crónica,420.0,3,2025-05-07,226000.0
+PAC-57400,4,Concepción,Infección Respiratoria Aguda,8.0,1,2025-04-28,304000.0
+PAC-63269,,santiago,Neumonía,3.0,10,2026-09-22,$239.000
+PAC-61856,16,Pte Alto,Neumonía,14.0,0,2026-06-19,366000.0
+PAC-58571,74,Las Condes,Neumonía,4.0,0,2027-15-40,29000.0
+PAC-80678,27,Santiago,DM2,8.0,749,,772000.0
+PAC-49117,77,santiago,Hipertensión Arterial,9.0,2,2027-15-40,222000.0
+PAC-14722,71,Providencia,Gastritis Crónica,3.0,2,2026-06-14,599000.0
+PAC-93748,51,Maipu,diabetes mellitus 2,7.0,14,,214000.0
+PAC-12552,-14,,,4.0,0,24/11/2025,-150000
+PAC-97900,66,Valparaíso,Hipertensión Arterial,14.0,0,2026-03-15,262000.0
+PAC-63225,67,Valparaíso,DM2,7.0,1,2025-02-08,57000.0
+PAC-24168,31,Maipú,Neumonía,13.0,10,2026-08-15,433000.0
+PAC-37869,0,Viña del Mar,Artrosis,239.0,0,2026-07-09,22000.0
+PAC-17331,79,santiago,Diabetes Mellitus Tipo 2,2.0,0,,407000.0
+PAC-35313,89,Concepción,Gastritis Crónica,7.0,1,2025-11-13,730000.0
+PAC-83579,5,Concepción,Diabetes Mellitus Tipo 2,11.0,14,2026-02-22,401000.0
+PAC-13101,3,santiago,Gastritis Crónica,2.0,10,2027-15-40,-150000
+PAC-80284,,,Gastritis Crónica,7.0,0,2026-08-05,379000.0
+PAC-82063,58,Providencia ,Neumonía,11.0,0,Sin registro,283000.0
+PAC-13905,5,Viña del Mar,Apendicitis Aguda,13.0,5,2027-15-40,645000.0
+PAC-13248,79,Valparaíso,Neumonía,13.0,1,2024-10-19,578000.0
+PAC-33086,40,Puente Alto,Apendicitis Aguda,9.0,0,2030-01-01,409000.0
+PAC-80468,78,Santiago,Infección Respiratoria Aguda,-3.0,10,2026-03-16,388000.0
+PAC-15695,36,Providencia ,Diabetes Mellitus Tipo 2,416.0,0,2025-08-26,513000.0
+PAC-71261,47,Valparaíso,Apendicitis Aguda,15.0,1,2025-06-16,396000.0
+PAC-74251,84,Las Condes,Apendicitis Aguda,9.0,3,2030-01-01,$130.000
+PAC-11658,-7,Viña del Mar,Diabetes Mellitus Tipo 2,5.0,14,2026-02-27,607000.0
+PAC-31417,87,Las Condes,Artrosis,2.0,0,2025-10-11,714000.0
+PAC-89818,26,Providencia,IRA,7.0,3,19/06/2025,275000.0
+PAC-15383,35,santiago,Diabetes Mellitus Tipo 2,2.0,1,2025-11-02,29000.0
+PAC-37607,13,Valparaíso,Infección Respiratoria Aguda,-3.0,0,2025-09-17,
+PAC-68446,45,Concepción,Infección Respiratoria Aguda,7.0,5,2025-11-19,261000.0
+PAC-84364,40,Providencia,DM2,-3.0,14,2025-06-27,727000.0
+PAC-46509,11,Providencia,Diabetes Mellitus Tipo 2,1.0,1,2026-05-01,490000.0
+PAC-25012,37,Puente Alto,DM2,13.0,14,Sin registro,232000.0
+PAC-92544,,Maipú,Hipertensión Arterial,324.0,0,2026-06-26,265000.0
+PAC-25157,0,Providencia,Gastritis Crónica,12.0,0,2025-08-04,454000.0
+PAC-97062,92,santiago,Artrosis,9.0,,2025-01-26,807000.0
+PAC-34914,74,Maipú,IRA,3.0,3,2025-09-14,
+PAC-81482,37,Maipu,Diabetes Mellitus Tipo 2,10.0,2,Sin registro,118000.0
+PAC-84341,69,Concepción,,13.0,5,19/07/2025,724000.0
+PAC-42662,68,Viña del Mar,Neumonía,5.0,14,2026-03-14,290000.0
+PAC-59695,42,Las Condes,Diabetes Mellitus Tipo 2,14.0,3,2025-05-04,
+PAC-89593,50,Providencia ,Neumonía,1.0,721,2026-03-30,420000.0
+PAC-46421,88,La Florida,HTA,11.0,14,2025-01-29,-150000
+PAC-51104,75,Antofagasta,Apendicitis Aguda,1.0,3,,831000.0
+PAC-65724,29,Concepción,Hipertensión Arterial,10.0,1,2025-12-07,445000.0
+PAC-93320,50,Las Condes,Diabetes Mellitus Tipo 2,1.0,0,2027-15-40,812000.0
+PAC-59192,75,Providencia,DM2,13.0,5,2025-03-24,$89.000
+PAC-72493,76,Valparaíso,IRA,2.0,10,2025-01-12,408000.0
+PAC-85525,-5,Pte Alto,Neumonía,2.0,10,2025-06-18,608000.0
+PAC-80644,69,Santiago,Neumonía,9.0,10,2025-02-12,682000.0
+PAC-85849,85,Puente Alto,Neumonía,4.0,2,2024-11-13,$298.000
+PAC-60488,55,Santiago,HTA,15.0,14,2026-03-01,173000.0
+PAC-96900,41,Maipú,,1.0,0,2025-07-21,630000.0
+PAC-40311,13,,Neumonía,9.0,2,2025-08-20,$57.000
+PAC-19358,-6,Las Condes,HTA,1.0,,2026-03-01,766000.0
+PAC-42411,77,Viña del Mar,Artrosis,15.0,14,2025-05-15,$262.000
+PAC-39219,45,Concepción,Gastritis Crónica,12.0,1,2026-04-07,327000.0
+PAC-54313,43,Las Condes,Hipertensión Arterial,8.0,3,,586000.0
+PAC-70332,91,Puente Alto,Apendicitis Aguda,4.0,1,2026-05-08,292000.0
+PAC-53540,83,Providencia,Artrosis,14.0,2,2026-02-25,0
+PAC-83519,31,santiago,Infección Respiratoria Aguda,124.0,2,2026-03-22,297000.0
+PAC-36062,33,La Florida,Apendicitis Aguda,12.0,14,2025-08-16,38000.0
+PAC-82132,86,Viña del Mar,Artrosis,13.0,1,2026-05-10,18000.0
+PAC-51347,17,La Florida,Artrosis,2.0,14,2025-03-18,599000.0
+PAC-51104,64,santiago,IRA,14.0,14,2026-02-02,
+PAC-95477,78,Maipu,IRA,2.0,5,2026-09-21,329000.0
+PAC-42953,44,santiago,Diabetes Mellitus Tipo 2,14.0,1,2025-06-29,498000.0
+PAC-44973,12,Santiago,Gastritis Crónica,14.0,2,2025-11-22,503000.0
+PAC-41963,95,santiago,Artrosis,,0,2025-09-02,511000.0
+PAC-55830,,Las Condes,Neumonía,3.0,3,2030-01-01,$239.000
+PAC-15482,70,Maipú,Gastritis Crónica,10.0,0,,806000.0
+PAC-41850,27,Santiago,Neumonía,-3.0,10,2026-04-30,0
+PAC-97012,45,Concepción,,5.0,2,25/03/2025,233000.0
+PAC-83792,-3,Viña del Mar,Hipertensión Arterial,368.0,14,2025-04-22,558000.0
+PAC-56025,58,Providencia,Infección Respiratoria Aguda,5.0,10,2025-01-07,177000.0
+PAC-56105,29,Puente Alto,HTA,10.0,0,2025-11-09,283000.0
+PAC-70068,22,Puente Alto,Apendicitis Aguda,15.0,1,2026-05-05,787000.0
+PAC-10942,-6,Santiago,Neumonía,11.0,3,2030-01-01,-150000
+PAC-47388,45,santiago,Infección Respiratoria Aguda,3.0,2,2025-11-27,803000.0
+PAC-50687,94,,Infección Respiratoria Aguda,11.0,10,2025-08-25,543000.0
+PAC-51180,18,Valparaíso,diabetes mellitus 2,6.0,,2026-04-07,690000.0
+PAC-26483,44,santiago,HTA,10.0,10,2026-09-09,614000.0
+PAC-41358,0,Concepción,Diabetes Mellitus Tipo 2,15.0,10,2026-01-21,501000.0
+,-2,La Florida,IRA,4.0,,2025-09-29,-150000
+PAC-24993,50,Las Condes,Diabetes Mellitus Tipo 2,12.0,5,2024-11-22,597000.0
+PAC-16826,31,Valparaíso,Diabetes Mellitus Tipo 2,5.0,0,2024-10-15,464000.0
+PAC-95813,20,Viña del Mar,Apendicitis Aguda,14.0,,2026-08-26,94000.0
+PAC-49139,,Pte Alto,,14.0,3,2025-02-21,676000.0
+PAC-25906,61,Providencia ,HTA,4.0,1,2026-08-10,376000.0
+PAC-61990,39,Maipú,Infección Respiratoria Aguda,8.0,10,2025-03-16,844000.0
+PAC-46434,,Las Condes,Diabetes Mellitus Tipo 2,4.0,0,2026-01-11,688000.0
+PAC-51145,61,Santiago,,5.0,14,2025-09-04,813000.0
+PAC-35995,38,Maipu,IRA,12.0,906,2026-08-01,$153.000
+PAC-57576,41,Puente Alto,Apendicitis Aguda,4.0,0,2025-12-28,222000.0
+PAC-90173,67,Concepción,Apendicitis Aguda,5.0,0,2024-12-22,775000.0
+PAC-69829,59,Valparaíso,Hipertensión Arterial,4.0,5,Sin registro,586000.0
+PAC-98039,1,Puente Alto,Infección Respiratoria Aguda,7.0,1,Sin registro,653000.0
+PAC-54587,36,,Hipertensión Arterial,8.0,,Sin registro,223000.0
+PAC-14117,64,santiago,Neumonía,4.0,0,,
+PAC-38043,2,Santiago,Artrosis,14.0,,2026-09-02,786000.0
+PAC-89276,25,Santiago,DM2,,0,2026-04-21,
+PAC-15383,44,Concepción,DM2,10.0,1,2030-01-01,595000.0
+PAC-83975,10,Valparaíso,Hipertensión Arterial,15.0,0,2026-07-26,742000.0
+PAC-64921,40,santiago,Apendicitis Aguda,3.0,14,2026-02-15,124000.0
+PAC-97900,67,La Florida,Neumonía,7.0,2,2025-05-15,333000.0
+PAC-46559,45,Antofagasta,Infección Respiratoria Aguda,9.0,5,2025-01-23,
+PAC-93748,203,Providencia,HTA,8.0,10,2025-01-20,467000.0
+PAC-17989,37,Valparaíso,DM2,10.0,0,2026-03-26,359000.0
+PAC-42914,24,Providencia,Hipertensión Arterial,14.0,0,2025-06-18,689000.0
+PAC-33206,62,Providencia ,Diabetes Mellitus Tipo 2,12.0,14,2030-01-01,-150000
+PAC-60328,15,Antofagasta,Artrosis,15.0,0,2025-04-20,335000.0
+PAC-19171,43,Providencia,Artrosis,9.0,1,2027-15-40,67000.0
+PAC-17455,10,Maipu,,12.0,0,2027-15-40,384000.0
+PAC-82512,66,Santiago,DM2,15.0,0,,65000.0
+PAC-41285,73,Valparaíso,Gastritis Crónica,7.0,3,2025-09-15,17000.0
+PAC-75612,94,Valparaíso,Infección Respiratoria Aguda,15.0,,2027-15-40,795000.0
+,73,Providencia,IRA,9.0,10,2026-03-23,175000.0
+PAC-61116,66,Valparaíso,Hipertensión Arterial,12.0,3,2026-01-19,0
+PAC-73092,86,La Florida,diabetes mellitus 2,4.0,0,2030-01-01,-150000
+PAC-70637,20,Puente Alto,DM2,251.0,14,,119000.0
+PAC-83000,75,Viña del Mar,Neumonía,12.0,511,2024-11-08,436000.0
+PAC-65057,34,La Florida,Gastritis Crónica,6.0,,2024-10-27,17000.0
+PAC-41963,69,Providencia ,Neumonía,9.0,0,2026-05-01,183000.0
+PAC-20561,51,Pte Alto,Diabetes Mellitus Tipo 2,14.0,0,2030-01-01,777000.0
+PAC-81482,37,Santiago,Diabetes Mellitus Tipo 2,9.0,1,10/05/2026,414000.0
+PAC-41830,212,Antofagasta,Gastritis Crónica,15.0,5,2026-06-29,412000.0
+PAC-82357,81,santiago,Gastritis Crónica,-3.0,14,2026-08-29,322000.0
+PAC-57447,31,Providencia ,HTA,12.0,,2027-15-40,238000.0
+PAC-69929,70,Antofagasta,HTA,15.0,,2025-10-08,511000.0
+PAC-45400,82,Providencia,Gastritis Crónica,8.0,1,,
+PAC-10282,89,Santiago,Artrosis,12.0,14,,245000.0
+PAC-41963,43,Providencia ,Hipertensión Arterial,12.0,3,2026-08-29,659000.0
+PAC-39256,94,Providencia,diabetes mellitus 2,,,2026-08-14,0
+PAC-25906,237,,Neumonía,5.0,10,2025-08-23,22000.0
+PAC-87128,95,Providencia,Infección Respiratoria Aguda,1.0,366,2025-03-13,84000.0
+PAC-61049,49,Las Condes,Hipertensión Arterial,5.0,835,2026-07-27,247000.0
+PAC-44760,11,Providencia,Gastritis Crónica,2.0,5,2025-06-11,532000.0
+PAC-47196,8,Santiago,Infección Respiratoria Aguda,1.0,0,2025-11-06,315000.0
+PAC-28726,77,Santiago,Hipertensión Arterial,12.0,1,,73000.0
+PAC-70332,14,Santiago,Artrosis,10.0,0,2026-01-22,17000.0
+PAC-26683,-2,Santiago,Artrosis,14.0,5,2026-01-24,805000.0
+PAC-10282,40,Antofagasta,Infección Respiratoria Aguda,10.0,14,2025-12-28,842000.0
+,20,La Florida,,8.0,2,2025-07-06,$122.000
+PAC-95813,26,Valparaíso,Hipertensión Arterial,-3.0,2,2025-01-15,56000.0
+PAC-97670,66,Valparaíso,,10.0,2,2024-12-18,802000.0
+PAC-90728,72,Viña del Mar,Hipertensión Arterial,-3.0,0,2026-02-04,781000.0
+PAC-14117,,Concepción,Gastritis Crónica,7.0,,2027-15-40,796000.0
+PAC-13278,13,Maipú,Infección Respiratoria Aguda,180.0,0,,$75.000
+PAC-24208,7,Las Condes,Diabetes Mellitus Tipo 2,484.0,,2024-10-25,-150000
+PAC-22240,92,Providencia,Hipertensión Arterial,11.0,2,2026-04-20,54000.0
+PAC-26483,57,Santiago,Artrosis,5.0,14,2025-01-13,-150000
+PAC-30257,3,Maipu,Gastritis Crónica,4.0,10,2025-05-17,696000.0
+PAC-97416,1,Antofagasta,DM2,10.0,,2030-01-01,0
+PAC-44099,47,La Florida,DM2,259.0,0,2025-03-10,603000.0
+PAC-24168,43,Valparaíso,Artrosis,9.0,412,Sin registro,644000.0
+PAC-78146,-7,La Florida,Artrosis,5.0,10,2024-10-30,443000.0
+PAC-19071,53,Puente Alto,Artrosis,4.0,5,2026-01-13,460000.0
+PAC-34356,46,Viña del Mar,Infección Respiratoria Aguda,13.0,0,2024-10-03,757000.0
+PAC-83563,59,Santiago,Apendicitis Aguda,3.0,0,2025-01-20,$148.000
+PAC-92544,89,Providencia,Artrosis,14.0,2,2025-02-13,682000.0
+PAC-30374,7,Puente Alto,diabetes mellitus 2,202.0,0,2025-02-21,$245.000
+PAC-59009,160,Puente Alto,Gastritis Crónica,5.0,10,2024-11-05,47000.0
+PAC-13552,56,Providencia ,Infección Respiratoria Aguda,,0,2026-01-31,$266.000
+PAC-90676,41,Providencia ,Neumonía,9.0,0,Sin registro,
+PAC-84177,93,santiago,Hipertensión Arterial,6.0,,2024-10-24,0
+PAC-29536,5,Providencia,Diabetes Mellitus Tipo 2,8.0,2,2025-12-03,643000.0
+PAC-22280,40,,IRA,11.0,3,,435000.0
+PAC-65255,4,Viña del Mar,DM2,14.0,0,2026-07-26,271000.0
+PAC-84668,23,Providencia,IRA,3.0,0,,749000.0
+PAC-64321,7,Puente Alto,Apendicitis Aguda,3.0,,2026-04-15,20000.0
+PAC-28289,75,,DM2,11.0,14,2025-12-01,751000.0
+PAC-55830,33,Concepción,Diabetes Mellitus Tipo 2,3.0,0,2026-03-17,143000.0
+PAC-11504,71,,Neumonía,7.0,5,2025-01-13,641000.0
+PAC-84691,-15,Maipú,Diabetes Mellitus Tipo 2,3.0,673,2025-04-05,$110.000
+PAC-73624,23,Antofagasta,Hipertensión Arterial,,1,2026-08-09,244000.0
+PAC-23970,64,Las Condes,IRA,4.0,0,2024-12-25,119000.0
+PAC-57052,72,Providencia ,Diabetes Mellitus Tipo 2,11.0,5,2025-03-02,604000.0
+PAC-92397,68,Valparaíso,Gastritis Crónica,6.0,2,2026-09-23,
+PAC-66531,9,La Florida,HTA,422.0,0,2025-03-05,518000.0
+PAC-89593,37,Valparaíso,HTA,7.0,0,2025-05-16,489000.0
+PAC-90301,,Providencia ,Diabetes Mellitus Tipo 2,13.0,933,2030-01-01,251000.0
+PAC-73699,16,Puente Alto,Gastritis Crónica,11.0,1,2025-12-18,$273.000
+PAC-38657,52,Providencia ,Artrosis,2.0,14,2026-08-26,
+PAC-92960,21,La Florida,Infección Respiratoria Aguda,13.0,5,2025-09-30,239000.0
+PAC-42406,64,Las Condes,HTA,2.0,0,2024-10-08,500000.0
+PAC-39154,48,,Diabetes Mellitus Tipo 2,12.0,5,2026-04-28,102000.0
+PAC-70589,9,Antofagasta,Artrosis,9.0,14,2025-06-18,517000.0
+PAC-37535,6,santiago,Artrosis,2.0,,2026-01-25,194000.0
+PAC-87110,62,Antofagasta,Artrosis,6.0,10,2025-06-26,630000.0
+PAC-24168,142,Puente Alto,Artrosis,,10,2026-09-14,-150000
+PAC-37938,2,Las Condes,Infección Respiratoria Aguda,3.0,0,2025-01-25,429000.0
+PAC-21114,2,Puente Alto,Apendicitis Aguda,397.0,14,2026-05-05,$145.000
+,,La Florida,Artrosis,,3,2025-10-09,380000.0
+PAC-64377,80,La Florida,Infección Respiratoria Aguda,15.0,0,2027-15-40,239000.0
+PAC-92149,62,Puente Alto,Diabetes Mellitus Tipo 2,,0,2025-09-23,605000.0
+PAC-99065,66,La Florida,Artrosis,,2,2025-06-05,566000.0
+PAC-69829,30,Viña del Mar,Artrosis,12.0,0,2025-07-16,-150000
+PAC-61173,90,Maipú,Infección Respiratoria Aguda,13.0,14,Sin registro,188000.0
+PAC-53025,77,Providencia,Infección Respiratoria Aguda,4.0,10,2025-12-19,351000.0
+PAC-53933,38,Maipú,Apendicitis Aguda,,1,2025-12-18,
+PAC-78522,54,La Florida,Diabetes Mellitus Tipo 2,3.0,5,2025-03-26,702000.0
+PAC-53540,56,,Diabetes Mellitus Tipo 2,3.0,0,2030-01-01,-150000
+PAC-89997,28,Maipú,Gastritis Crónica,14.0,0,2026-06-04,$113.000
+PAC-31174,8,,Apendicitis Aguda,6.0,0,2030-01-01,246000.0
+PAC-66346,89,Concepción,IRA,13.0,1,2025-08-19,0
+PAC-80284,16,Concepción,HTA,15.0,14,2025-05-27,-150000
+PAC-62296,32,Las Condes,Gastritis Crónica,6.0,0,2025-06-05,847000.0
+PAC-92213,19,Puente Alto,Apendicitis Aguda,6.0,5,2026-03-14,52000.0
+PAC-36772,31,Concepción,Apendicitis Aguda,4.0,0,Sin registro,367000.0
+PAC-46265,20,Antofagasta,Infección Respiratoria Aguda,8.0,0,2024-12-26,27000.0
+PAC-98501,9,Las Condes,HTA,14.0,1,2025-10-06,388000.0
+PAC-84668,40,Valparaíso,Infección Respiratoria Aguda,5.0,1,2025-12-21,330000.0
+PAC-42325,79,Puente Alto,Diabetes Mellitus Tipo 2,10.0,2,2026-08-21,257000.0
+PAC-95717,95,Santiago,Apendicitis Aguda,3.0,,2025-01-27,212000.0
+PAC-81582,90,Puente Alto,Infección Respiratoria Aguda,10.0,5,2025-01-30,94000.0
+PAC-80539,70,Antofagasta,HTA,8.0,0,2025-12-27,463000.0
+PAC-65069,,Providencia ,Artrosis,4.0,14,2027-15-40,663000.0
+PAC-76542,60,Maipú,Infección Respiratoria Aguda,11.0,,2024-11-27,252000.0
+PAC-12552,60,Pte Alto,Artrosis,6.0,3,24/12/2024,328000.0
+PAC-52753,71,santiago,Hipertensión Arterial,15.0,0,2024-12-25,550000.0
+PAC-59735,14,Antofagasta,HTA,11.0,0,,$30.000
+PAC-36130,88,Providencia ,Infección Respiratoria Aguda,4.0,0,2025-07-19,635000.0
+PAC-25906,29,,Gastritis Crónica,15.0,0,2030-01-01,600000.0
+PAC-75435,89,La Florida,Diabetes Mellitus Tipo 2,14.0,2,2025-04-07,397000.0
+PAC-91560,61,Maipú,Infección Respiratoria Aguda,2.0,14,2026-05-20,760000.0
+PAC-53404,33,Valparaíso,Gastritis Crónica,9.0,924,2026-04-03,738000.0
+PAC-67080,53,Providencia,HTA,10.0,5,2024-11-09,154000.0
+PAC-79163,197,Concepción,HTA,-3.0,10,2025-08-15,-150000
+PAC-48890,54,Viña del Mar,Artrosis,,2,2024-12-18,506000.0
+PAC-70637,73,Las Condes,,4.0,5,2025-08-27,448000.0
+PAC-46434,86,Providencia ,,14.0,2,2026-02-17,628000.0
+PAC-96673,81,Puente Alto,Diabetes Mellitus Tipo 2,2.0,10,2024-11-06,527000.0
+PAC-69929,8,Concepción,Diabetes Mellitus Tipo 2,8.0,5,2024-10-01,741000.0
+PAC-37938,20,Valparaíso,Gastritis Crónica,5.0,2,2025-05-11,
+PAC-94259,25,Valparaíso,Neumonía,1.0,3,2025-05-23,603000.0
+PAC-93136,,Maipú,Infección Respiratoria Aguda,5.0,5,2025-03-09,
+PAC-57052,39,Concepción,Hipertensión Arterial,4.0,0,2026-04-16,142000.0
+PAC-64040,40,Las Condes,Diabetes Mellitus Tipo 2,10.0,14,2030-01-01,609000.0
+PAC-95256,85,Santiago,Gastritis Crónica,6.0,1,2024-12-13,
+PAC-22899,10,La Florida,Diabetes Mellitus Tipo 2,4.0,3,2026-07-03,
+PAC-46347,74,Las Condes,diabetes mellitus 2,11.0,2,10/02/2026,775000.0
+PAC-57472,26,Las Condes,Apendicitis Aguda,13.0,5,2025-05-06,97000.0
+PAC-38534,46,Las Condes,Artrosis,2.0,0,,684000.0
+PAC-60432,,Providencia,,8.0,2,2027-15-40,292000.0
+PAC-77033,75,Antofagasta,diabetes mellitus 2,10.0,0,2030-01-01,87000.0
+PAC-89840,,Concepción,DM2,8.0,3,2026-06-19,451000.0
+PAC-18981,39,La Florida,Apendicitis Aguda,9.0,0,,126000.0
+PAC-53719,47,Maipu,Gastritis Crónica,13.0,696,2025-05-05,461000.0
+PAC-74686,77,Maipú,Apendicitis Aguda,8.0,5,2025-04-17,55000.0
+PAC-52906,25,Maipu,Gastritis Crónica,,0,2025-11-29,113000.0
+PAC-18834,75,Pte Alto,Neumonía,2.0,0,2027-15-40,259000.0
+PAC-53540,64,Las Condes,Hipertensión Arterial,9.0,10,2025-08-31,508000.0
+PAC-36100,86,Maipú,IRA,,2,2027-15-40,
+PAC-45179,77,Concepción,DM2,7.0,0,2025-07-09,523000.0
+PAC-89516,43,santiago,Neumonía,4.0,0,2026-02-20,321000.0
+PAC-72021,37,santiago,Diabetes Mellitus Tipo 2,1.0,14,2025-04-22,-150000
+PAC-40982,37,santiago,Neumonía,4.0,3,2026-06-22,0
+PAC-24592,7,Antofagasta,Gastritis Crónica,6.0,5,2025-07-19,643000.0
+PAC-40828,83,Viña del Mar,Neumonía,4.0,0,2025-09-03,-150000
+PAC-12540,61,Pte Alto,IRA,4.0,2,2025-03-23,721000.0
+PAC-74799,17,Valparaíso,Artrosis,2.0,10,2025-06-04,-150000
+PAC-40007,29,Concepción,Infección Respiratoria Aguda,2.0,0,2026-02-20,255000.0
+PAC-61049,76,Santiago,HTA,12.0,2,2026-04-22,189000.0
+PAC-51441,15,Valparaíso,Diabetes Mellitus Tipo 2,15.0,0,2026-07-14,159000.0
+PAC-82420,146,Las Condes,,281.0,772,2025-02-27,432000.0
+PAC-31178,33,Concepción,Hipertensión Arterial,,3,2026-03-10,481000.0
+PAC-67125,8,Antofagasta,IRA,8.0,5,2025-08-12,269000.0
+PAC-89997,50,Viña del Mar,Hipertensión Arterial,4.0,14,2026-01-20,
+PAC-86484,6,Providencia,Hipertensión Arterial,8.0,0,2026-09-09,528000.0
+PAC-82512,72,Las Condes,,5.0,0,2025-05-17,
+PAC-36130,8,Concepción,diabetes mellitus 2,8.0,0,2026-07-13,669000.0
+PAC-19862,42,Providencia ,Artrosis,13.0,10,2025-11-29,
+PAC-84085,50,Puente Alto,Hipertensión Arterial,12.0,14,2025-05-14,470000.0
+PAC-40007,55,Valparaíso,DM2,13.0,0,2025-12-10,287000.0
+PAC-84177,-2,Viña del Mar,Artrosis,15.0,,2025-11-06,300000.0
+PAC-15383,64,Las Condes,,8.0,0,2026-07-07,0
+PAC-97580,45,Concepción,HTA,,14,26/10/2024,0
+PAC-98781,244,Santiago,Neumonía,13.0,14,08/11/2024,156000.0
+PAC-30635,91,santiago,Apendicitis Aguda,4.0,3,2025-08-08,752000.0
+PAC-53279,79,Concepción,Gastritis Crónica,5.0,2,2025-02-21,85000.0
+PAC-46347,61,Puente Alto,Gastritis Crónica,,0,2026-02-20,99000.0
+PAC-84847,44,Concepción,Artrosis,8.0,5,2026-01-25,350000.0
+PAC-49117,57,Puente Alto,Artrosis,14.0,0,09/02/2025,150000.0
+PAC-11220,80,Maipú,Gastritis Crónica,14.0,0,2025-09-12,$37.000
+PAC-22156,60,Providencia ,IRA,10.0,0,2025-05-24,455000.0
+PAC-19171,84,Valparaíso,,,0,2024-11-13,181000.0
+PAC-35825,48,santiago,Diabetes Mellitus Tipo 2,8.0,,2027-15-40,620000.0
+PAC-37653,,Providencia,Hipertensión Arterial,8.0,5,2026-06-05,152000.0
+PAC-24029,26,,Gastritis Crónica,3.0,0,27/06/2025,0
+PAC-73624,73,Las Condes,Hipertensión Arterial,,5,,489000.0
+PAC-62383,84,Concepción,Apendicitis Aguda,,0,2025-08-26,771000.0
+PAC-43586,36,Maipu,Hipertensión Arterial,2.0,14,2025-11-20,729000.0
+PAC-96374,41,Santiago,Hipertensión Arterial,3.0,5,,
+PAC-14117,54,Santiago,Artrosis,2.0,,2025-04-04,389000.0
+PAC-26728,47,Santiago,HTA,10.0,0,2030-01-01,562000.0
+PAC-77839,65,Pte Alto,Apendicitis Aguda,222.0,0,2026-08-08,87000.0
+PAC-86019,5,Santiago,HTA,-3.0,2,2026-09-19,424000.0
+PAC-49117,13,Concepción,Diabetes Mellitus Tipo 2,,0,2026-04-12,-150000
+PAC-27786,32,La Florida,Gastritis Crónica,3.0,0,2030-01-01,172000.0
+PAC-94259,73,Puente Alto,Infección Respiratoria Aguda,,5,2025-03-26,717000.0
+PAC-99166,44,Providencia,Gastritis Crónica,2.0,10,2025-03-22,719000.0
+PAC-44237,82,Providencia,Neumonía,9.0,5,2025-03-23,352000.0
+PAC-37869,18,Antofagasta,Gastritis Crónica,4.0,,2026-01-02,0
+PAC-82512,51,Viña del Mar,,12.0,3,2025-03-11,487000.0
+PAC-18418,55,Maipú,Gastritis Crónica,15.0,5,2025-04-09,643000.0
+PAC-98501,14,,DM2,4.0,,2026-09-09,0
+PAC-67954,29,Valparaíso,Hipertensión Arterial,13.0,1,15/09/2025,235000.0
+PAC-11934,71,,diabetes mellitus 2,3.0,0,2026-05-10,317000.0
+PAC-94874,13,Valparaíso,diabetes mellitus 2,13.0,0,2025-09-11,834000.0
+PAC-86622,-15,Viña del Mar,Apendicitis Aguda,12.0,5,2026-04-06,439000.0
+PAC-98501,56,Las Condes,Artrosis,15.0,5,2025-12-21,695000.0
+PAC-25860,4,Valparaíso,,4.0,1,2025-11-09,565000.0
+PAC-54236,9,Viña del Mar,Hipertensión Arterial,3.0,14,Sin registro,44000.0
+PAC-67125,70,Maipú,Diabetes Mellitus Tipo 2,14.0,5,2025-09-10,335000.0
+PAC-70637,,,Diabetes Mellitus Tipo 2,11.0,10,2025-05-27,215000.0
+PAC-73788,7,Santiago,Apendicitis Aguda,11.0,2,2024-11-19,
+PAC-83519,66,Puente Alto,DM2,13.0,10,2027-15-40,576000.0
+PAC-70258,67,Valparaíso,DM2,14.0,5,2025-02-06,
+PAC-41850,89,Valparaíso,IRA,3.0,0,2025-09-03,408000.0
+PAC-62350,69,Providencia,Artrosis,,0,2025-08-15,279000.0
+PAC-28726,44,Puente Alto,Apendicitis Aguda,5.0,,15/01/2026,114000.0
+PAC-83579,83,Providencia,Hipertensión Arterial,6.0,0,2030-01-01,141000.0
+PAC-59689,80,santiago,Hipertensión Arterial,8.0,,2026-01-07,$176.000
+PAC-99353,60,Concepción,Hipertensión Arterial,10.0,0,,294000.0
+PAC-97670,14,Providencia,,5.0,1,2025-01-15,454000.0
+PAC-13101,65,Puente Alto,Gastritis Crónica,4.0,2,2025-08-01,702000.0
+PAC-26683,21,Valparaíso,Diabetes Mellitus Tipo 2,15.0,10,2027-15-40,$142.000
+PAC-62350,32,La Florida,Artrosis,5.0,0,Sin registro,
+PAC-44814,3,Puente Alto,Diabetes Mellitus Tipo 2,9.0,0,2025-07-05,816000.0
+PAC-95180,76,Antofagasta,Artrosis,3.0,,2026-06-15,138000.0
+PAC-47930,45,Maipú,Neumonía,15.0,0,2026-04-26,279000.0
+PAC-63528,46,Puente Alto,Neumonía,5.0,0,2024-12-02,216000.0
+PAC-44795,60,Las Condes,Artrosis,114.0,0,02/07/2026,117000.0
+PAC-91959,-15,Antofagasta,Diabetes Mellitus Tipo 2,13.0,0,2025-11-18,759000.0
+PAC-59192,24,Santiago,Apendicitis Aguda,10.0,14,2025-12-24,
+PAC-79352,52,Valparaíso,Artrosis,6.0,10,2030-01-01,
+PAC-76244,59,,Infección Respiratoria Aguda,12.0,0,2027-15-40,112000.0
+PAC-56566,16,Providencia,Neumonía,4.0,,2026-04-07,
+PAC-38016,31,Concepción,Artrosis,9.0,10,2026-02-28,
+PAC-71694,23,Las Condes,Apendicitis Aguda,1.0,0,2025-12-05,643000.0
+PAC-23970,62,La Florida,Gastritis Crónica,5.0,0,2026-06-18,263000.0
+PAC-69087,2,,Apendicitis Aguda,15.0,10,2024-11-08,684000.0
+PAC-44671,11,Concepción,Neumonía,9.0,0,2024-12-30,172000.0
+PAC-65933,210,Providencia,Artrosis,5.0,0,2025-06-15,159000.0
+PAC-83975,59,Viña del Mar,Apendicitis Aguda,1.0,449,2030-01-01,536000.0
+PAC-16057,18,Concepción,Infección Respiratoria Aguda,1.0,0,2026-08-11,827000.0
+PAC-10726,-3,,Gastritis Crónica,8.0,5,15/11/2024,421000.0
+PAC-44671,13,La Florida,Diabetes Mellitus Tipo 2,15.0,5,2030-01-01,380000.0
+PAC-92397,,Viña del Mar,diabetes mellitus 2,3.0,0,2026-08-20,453000.0
+PAC-73092,23,Santiago,Diabetes Mellitus Tipo 2,5.0,0,2025-10-11,95000.0
+PAC-28726,40,Antofagasta,Artrosis,12.0,452,2026-01-19,352000.0
+PAC-91678,145,La Florida,,14.0,14,2025-09-05,0
+PAC-95426,89,,Gastritis Crónica,8.0,0,2024-10-30,313000.0
+PAC-46509,-13,Valparaíso,Neumonía,10.0,5,,$75.000
+PAC-59692,43,La Florida,Gastritis Crónica,7.0,14,2027-15-40,494000.0
+PAC-49139,-10,Antofagasta,Gastritis Crónica,183.0,0,,$110.000
+PAC-28301,95,santiago,Apendicitis Aguda,3.0,2,2025-03-09,463000.0
+PAC-49321,27,Las Condes,Hipertensión Arterial,4.0,2,Sin registro,350000.0
+PAC-70946,75,Concepción,,2.0,5,2026-05-27,156000.0
+PAC-79329,54,Providencia,diabetes mellitus 2,7.0,,2025-08-24,139000.0
+PAC-63883,8,Providencia ,Neumonía,9.0,5,2026-07-09,163000.0
+PAC-62227,33,Puente Alto,diabetes mellitus 2,14.0,10,2025-11-19,0
+PAC-74251,30,Puente Alto,IRA,1.0,5,2026-09-02,530000.0
+PAC-44718,76,Viña del Mar,Artrosis,15.0,10,Sin registro,256000.0
+PAC-89516,9,Providencia ,Artrosis,3.0,1,Sin registro,-150000
+PAC-96511,,La Florida,Apendicitis Aguda,15.0,2,Sin registro,165000.0
+PAC-50768,,Las Condes,Apendicitis Aguda,2.0,,2026-09-21,728000.0
+PAC-46434,1,Maipu,Infección Respiratoria Aguda,4.0,0,2026-03-07,448000.0
+PAC-95215,5,,Diabetes Mellitus Tipo 2,3.0,3,2026-08-20,420000.0
+PAC-81482,60,Valparaíso,Gastritis Crónica,14.0,,2025-06-12,248000.0
+PAC-34914,72,Providencia ,Hipertensión Arterial,392.0,14,2025-12-28,221000.0
+PAC-49829,26,Santiago,Diabetes Mellitus Tipo 2,12.0,0,2025-03-30,514000.0
+PAC-37938,9,Viña del Mar,Hipertensión Arterial,8.0,5,2025-07-02,843000.0
+PAC-86350,86,La Florida,Neumonía,3.0,2,2025-12-24,-150000
+PAC-49446,52,Providencia,DM2,2.0,14,2025-11-29,813000.0
+PAC-27146,29,Santiago,Infección Respiratoria Aguda,2.0,3,2025-12-30,84000.0
+PAC-30052,43,La Florida,Apendicitis Aguda,13.0,10,2025-01-23,665000.0
+,91,santiago,IRA,6.0,10,2025-12-07,110000.0
+PAC-59615,51,Pte Alto,Artrosis,2.0,14,2025-09-23,139000.0
+,60,Maipú,Diabetes Mellitus Tipo 2,7.0,14,2025-05-13,
+PAC-12757,50,Providencia,Gastritis Crónica,14.0,5,2025-06-04,493000.0
+PAC-45697,1,Viña del Mar,IRA,8.0,5,,98000.0
+PAC-54587,84,Concepción,Gastritis Crónica,10.0,1,2025-06-27,834000.0
+PAC-86484,14,Pte Alto,Artrosis,10.0,757,2026-05-22,565000.0
+PAC-92149,93,,Diabetes Mellitus Tipo 2,11.0,2,2026-07-14,362000.0
+PAC-95990,66,Concepción,Artrosis,457.0,10,2025-03-01,683000.0
+PAC-82603,70,Puente Alto,Gastritis Crónica,7.0,,,31000.0
+PAC-72277,10,Providencia,Gastritis Crónica,13.0,14,2025-04-28,319000.0
+PAC-49117,70,Viña del Mar,Neumonía,14.0,0,2025-05-26,772000.0
+PAC-14207,50,Pte Alto,Infección Respiratoria Aguda,7.0,0,2026-01-03,117000.0
+PAC-18993,17,Providencia,DM2,13.0,5,2026-06-10,549000.0
+PAC-76768,24,Viña del Mar,Gastritis Crónica,15.0,0,2026-02-17,-150000
+PAC-97062,85,Antofagasta,Gastritis Crónica,11.0,0,2026-07-30,309000.0
+PAC-23356,57,Providencia,Diabetes Mellitus Tipo 2,10.0,0,2030-01-01,336000.0
+PAC-46500,93,Providencia,Infección Respiratoria Aguda,13.0,0,2026-09-06,85000.0
+PAC-28373,86,Providencia,Artrosis,6.0,0,2024-12-28,60000.0
+PAC-19358,14,santiago,Neumonía,4.0,0,2024-11-05,75000.0
+PAC-56566,-1,santiago,Gastritis Crónica,10.0,0,,405000.0
+PAC-45382,51,santiago,IRA,11.0,1,2024-11-23,343000.0
+PAC-69829,35,Valparaíso,Hipertensión Arterial,4.0,0,2025-08-07,564000.0
+PAC-24168,68,Valparaíso,Artrosis,2.0,5,2025-02-10,315000.0
+PAC-77033,184,La Florida,Artrosis,6.0,3,2025-11-20,57000.0
+PAC-42098,5,Valparaíso,IRA,,,2027-15-40,563000.0
+PAC-60432,35,santiago,,8.0,2,2026-06-04,241000.0
+PAC-52487,38,Providencia,Neumonía,9.0,1,2026-08-04,587000.0
+PAC-33509,218,Providencia ,Neumonía,15.0,10,2026-05-12,$269.000
+PAC-68991,199,Maipú,Apendicitis Aguda,8.0,0,2027-15-40,532000.0
+PAC-11267,59,Viña del Mar,Gastritis Crónica,3.0,5,2025-09-22,
+PAC-30374,25,Maipú,Artrosis,9.0,0,2025-05-09,73000.0
+PAC-61116,,Las Condes,Diabetes Mellitus Tipo 2,2.0,0,2025-05-21,635000.0
+,57,Providencia,Infección Respiratoria Aguda,6.0,2,2025-07-21,0
+PAC-38534,2,Santiago,Diabetes Mellitus Tipo 2,6.0,5,2024-10-04,415000.0
+PAC-10726,64,Santiago,Artrosis,,5,2026-01-27,441000.0
+PAC-38683,36,La Florida,Diabetes Mellitus Tipo 2,2.0,1,2024-12-21,447000.0
+PAC-50687,,Providencia,Apendicitis Aguda,12.0,10,2025-09-06,$112.000
+PAC-76562,75,Puente Alto,Gastritis Crónica,8.0,14,2026-05-31,102000.0
+PAC-58393,81,Valparaíso,Gastritis Crónica,3.0,14,2026-09-18,176000.0
+PAC-26683,40,Las Condes,Hipertensión Arterial,10.0,1,2025-04-27,450000.0
+PAC-50687,72,Las Condes,diabetes mellitus 2,5.0,0,2026-09-14,614000.0
+PAC-89516,36,Puente Alto,Infección Respiratoria Aguda,8.0,,2026-08-03,790000.0
+PAC-27477,73,Antofagasta,DM2,2.0,10,2025-02-08,432000.0
+PAC-65933,94,Maipú,DM2,177.0,3,2026-03-11,503000.0
+PAC-39256,24,Pte Alto,HTA,2.0,,2024-12-25,0
+PAC-40021,32,Puente Alto,IRA,13.0,14,2027-15-40,688000.0
+PAC-33405,,Valparaíso,Gastritis Crónica,6.0,1,2026-02-11,431000.0
+PAC-69692,86,Viña del Mar,Artrosis,2.0,5,2025-07-10,343000.0
+,21,Providencia,Hipertensión Arterial,4.0,1,2026-02-13,340000.0
+PAC-41571,90,Providencia ,IRA,14.0,1,2026-04-23,54000.0
+PAC-34931,77,La Florida,IRA,1.0,0,2026-07-28,821000.0
+PAC-43065,34,Concepción,Diabetes Mellitus Tipo 2,9.0,10,2025-07-31,209000.0
+PAC-19099,77,Providencia ,Infección Respiratoria Aguda,14.0,5,2030-01-01,590000.0
+PAC-97670,30,Providencia ,diabetes mellitus 2,14.0,1,2024-12-08,193000.0
+,-9,Valparaíso,Neumonía,4.0,2,2030-01-01,620000.0
+PAC-36130,90,Valparaíso,diabetes mellitus 2,293.0,1,2030-01-01,
+PAC-81066,49,Valparaíso,Apendicitis Aguda,7.0,14,2026-02-04,$219.000
+PAC-95909,,La Florida,Infección Respiratoria Aguda,15.0,0,2025-09-19,
+PAC-29410,16,Maipú,Gastritis Crónica,11.0,631,2025-05-01,135000.0
+PAC-41285,23,Valparaíso,Hipertensión Arterial,376.0,,2026-05-07,751000.0
+PAC-38760,49,Pte Alto,Hipertensión Arterial,,0,2027-15-40,748000.0
+PAC-19545,79,La Florida,diabetes mellitus 2,326.0,2,2025-04-30,90000.0
+PAC-39871,22,Maipú,HTA,12.0,2,2025-04-21,395000.0
+PAC-91959,45,Maipú,Gastritis Crónica,9.0,879,2024-11-19,812000.0
+PAC-89276,21,Viña del Mar,Hipertensión Arterial,9.0,382,2025-02-10,$54.000
+PAC-96356,53,santiago,HTA,9.0,1,2024-10-20,705000.0
+PAC-59857,36,Maipú,Hipertensión Arterial,8.0,0,2026-05-05,542000.0
+PAC-69598,20,Providencia ,Artrosis,11.0,,2025-11-28,743000.0
+PAC-57400,85,Valparaíso,Gastritis Crónica,4.0,3,2030-01-01,546000.0
+PAC-19508,54,Las Condes,Diabetes Mellitus Tipo 2,13.0,,2026-07-06,572000.0
+PAC-38010,64,Antofagasta,Diabetes Mellitus Tipo 2,15.0,0,2026-01-27,-150000
+PAC-64377,86,santiago,HTA,,0,2025-08-23,-150000
+PAC-50404,78,Pte Alto,Hipertensión Arterial,,10,2025-12-20,745000.0
+,70,Providencia ,Neumonía,3.0,10,Sin registro,33000.0
+PAC-91959,85,santiago,Hipertensión Arterial,12.0,2,2030-01-01,521000.0
+PAC-95256,85,Providencia ,DM2,,10,2025-06-25,408000.0
+PAC-85674,52,Valparaíso,IRA,11.0,0,2026-02-10,139000.0
+PAC-96900,86,Valparaíso,Diabetes Mellitus Tipo 2,15.0,1,2025-04-20,
+PAC-38080,93,Providencia,Diabetes Mellitus Tipo 2,7.0,5,2026-07-25,-150000
+PAC-82063,65,Las Condes,Infección Respiratoria Aguda,14.0,14,2026-08-20,
+PAC-79822,87,santiago,Hipertensión Arterial,6.0,0,2025-04-16,412000.0
+PAC-87992,74,La Florida,Neumonía,12.0,14,2025-03-14,$151.000
+PAC-16658,95,,IRA,3.0,1,2025-09-14,500000.0
+PAC-86569,90,Las Condes,Apendicitis Aguda,4.0,0,2030-01-01,819000.0
+PAC-53404,3,Valparaíso,HTA,13.0,963,2025-08-26,370000.0
+PAC-70637,54,Providencia,Gastritis Crónica,9.0,10,2024-12-20,560000.0
+PAC-53309,0,Concepción,Gastritis Crónica,15.0,2,2026-06-30,550000.0
+PAC-23833,39,Santiago,IRA,10.0,2,2026-03-20,530000.0
+PAC-35203,1,Maipú,Infección Respiratoria Aguda,1.0,0,2025-01-06,684000.0
+PAC-74686,86,Puente Alto,Neumonía,6.0,0,2025-02-28,
+PAC-46517,13,Providencia,Gastritis Crónica,-3.0,3,Sin registro,827000.0
+PAC-44438,3,Maipú,HTA,3.0,10,07/08/2026,-150000
+PAC-26334,68,Antofagasta,IRA,12.0,14,2025-10-01,290000.0
+PAC-92213,82,,Gastritis Crónica,7.0,0,2026-04-11,143000.0
+PAC-41029,41,Providencia,Hipertensión Arterial,10.0,10,2024-12-29,528000.0
+PAC-60488,22,Valparaíso,Infección Respiratoria Aguda,14.0,0,2025-01-29,181000.0
+PAC-42092,19,Maipu,DM2,7.0,14,2025-02-10,302000.0
+PAC-89415,67,Viña del Mar,Diabetes Mellitus Tipo 2,3.0,2,2025-01-10,675000.0
+PAC-88697,71,Viña del Mar,Artrosis,8.0,14,2026-05-10,772000.0
+PAC-80284,39,Maipu,Artrosis,7.0,1,2025-05-07,759000.0
+PAC-87128,12,Providencia ,IRA,4.0,1,2025-03-10,586000.0
+PAC-41029,83,Puente Alto,Artrosis,3.0,3,2025-05-29,545000.0
+PAC-42406,91,Viña del Mar,Infección Respiratoria Aguda,7.0,1,2030-01-01,0
+PAC-35203,56,Antofagasta,Artrosis,382.0,0,,417000.0
+PAC-15014,172,Pte Alto,Diabetes Mellitus Tipo 2,,0,2025-09-23,76000.0
+PAC-47353,46,La Florida,Hipertensión Arterial,1.0,14,Sin registro,52000.0
+PAC-39389,6,Santiago,HTA,11.0,3,2025-08-02,
+PAC-70217,26,Maipú,Neumonía,9.0,14,2026-03-04,39000.0
+PAC-63424,81,Viña del Mar,,4.0,5,2025-06-05,225000.0
+PAC-20735,-14,Valparaíso,Neumonía,13.0,14,2025-01-17,71000.0
+PAC-31579,67,Viña del Mar,DM2,11.0,14,2026-08-26,152000.0
+PAC-31465,4,La Florida,Neumonía,6.0,,2024-10-01,528000.0
+PAC-50306,33,Puente Alto,HTA,6.0,14,2025-11-19,189000.0
+PAC-97900,36,Santiago,Hipertensión Arterial,2.0,14,22/07/2025,64000.0
+PAC-46347,18,Antofagasta,Apendicitis Aguda,13.0,1,2025-01-22,269000.0
+PAC-44179,6,Antofagasta,Neumonía,145.0,,2025-08-02,509000.0
+PAC-65255,86,Santiago,Apendicitis Aguda,,5,2026-08-07,618000.0
+PAC-45382,15,Maipú,IRA,12.0,5,27/06/2026,$130.000
+PAC-80702,50,Concepción,Hipertensión Arterial,13.0,14,2024-10-31,293000.0
+PAC-37742,16,La Florida,Artrosis,6.0,2,Sin registro,123000.0
+PAC-44993,41,Maipú,diabetes mellitus 2,10.0,5,2025-01-08,451000.0
+PAC-80644,182,Puente Alto,Neumonía,1.0,14,2025-11-20,208000.0
+PAC-83563,16,Las Condes,Artrosis,2.0,1,2024-12-16,213000.0
+PAC-48427,66,Viña del Mar,HTA,5.0,2,2026-08-15,23000.0
+PAC-95215,3,Puente Alto,HTA,4.0,5,2024-10-02,617000.0
+PAC-82512,,Puente Alto,Infección Respiratoria Aguda,15.0,0,,444000.0
+PAC-27146,84,Santiago,Diabetes Mellitus Tipo 2,13.0,14,2025-12-04,342000.0
+PAC-56898,83,Maipú,Hipertensión Arterial,9.0,5,2025-05-20,-150000
+PAC-65724,18,Puente Alto,Neumonía,-3.0,0,2026-05-26,271000.0
+PAC-24662,241,Maipú,Artrosis,8.0,10,2024-12-08,
+PAC-14117,38,Viña del Mar,Apendicitis Aguda,11.0,0,24/02/2026,281000.0
+PAC-14207,26,Providencia,Diabetes Mellitus Tipo 2,,3,23/09/2025,443000.0
+PAC-92544,18,Antofagasta,Gastritis Crónica,13.0,2,2026-06-11,396000.0
+PAC-70515,59,Concepción,Artrosis,10.0,0,2026-05-23,153000.0
+PAC-41385,94,Concepción,Neumonía,15.0,3,2025-05-25,695000.0
+PAC-30289,94,Providencia,Gastritis Crónica,13.0,,2024-11-26,821000.0
+PAC-95649,42,Puente Alto,Hipertensión Arterial,,10,2026-06-24,620000.0
+PAC-46500,57,Las Condes,diabetes mellitus 2,12.0,2,2025-05-28,-150000
+PAC-54020,,,Infección Respiratoria Aguda,14.0,14,2026-01-13,412000.0
+PAC-75909,67,Viña del Mar,Neumonía,15.0,0,2025-07-14,751000.0
+PAC-13365,,Antofagasta,Diabetes Mellitus Tipo 2,15.0,0,2024-12-24,$57.000
+PAC-15817,85,Maipú,DM2,10.0,,2025-01-04,346000.0
+PAC-64496,94,Pte Alto,DM2,14.0,5,2024-12-24,748000.0
+PAC-41979,30,Puente Alto,Apendicitis Aguda,8.0,0,2025-04-20,327000.0
+PAC-96356,22,Maipú,Neumonía,14.0,2,2025-10-09,152000.0
+PAC-20155,67,La Florida,Artrosis,10.0,1,2025-05-04,
+PAC-54020,10,,Artrosis,8.0,10,2026-07-23,724000.0
+PAC-72277,168,Las Condes,Diabetes Mellitus Tipo 2,6.0,1,2026-01-16,85000.0
+PAC-83563,10,Viña del Mar,Hipertensión Arterial,2.0,1,2026-08-14,0
+PAC-98777,13,,diabetes mellitus 2,12.0,5,2030-01-01,207000.0
+PAC-13478,32,Antofagasta,,12.0,0,Sin registro,$83.000
+PAC-28301,48,Providencia ,Infección Respiratoria Aguda,11.0,3,2025-04-22,
+PAC-62772,49,Las Condes,Apendicitis Aguda,8.0,1,2025-06-14,-150000
+PAC-22676,93,Pte Alto,Infección Respiratoria Aguda,8.0,0,2024-12-17,41000.0
+PAC-21359,72,Antofagasta,Neumonía,4.0,10,2026-02-19,439000.0
+PAC-44760,49,Puente Alto,Gastritis Crónica,1.0,14,,303000.0
+PAC-40311,82,La Florida,HTA,2.0,14,2024-12-14,
+PAC-62581,241,santiago,,5.0,10,2025-06-10,0
+PAC-42591,87,Viña del Mar,Apendicitis Aguda,6.0,5,2026-06-01,$181.000
+PAC-14067,45,Concepción,Neumonía,7.0,,2025-04-23,20000.0
+PAC-18993,,Valparaíso,Diabetes Mellitus Tipo 2,2.0,10,Sin registro,30000.0
+PAC-20155,64,Providencia,Neumonía,13.0,10,2025-11-08,201000.0
+PAC-48427,41,Valparaíso,Artrosis,3.0,10,2026-02-01,114000.0
+PAC-99166,75,La Florida,Apendicitis Aguda,,0,2027-15-40,$204.000
+PAC-33206,15,Antofagasta,Hipertensión Arterial,13.0,3,2026-01-20,56000.0
+PAC-81066,47,Maipú,Gastritis Crónica,13.0,14,23/03/2025,510000.0
+PAC-25129,14,Maipú,Diabetes Mellitus Tipo 2,6.0,14,2026-03-02,459000.0
+PAC-11267,53,Providencia,Artrosis,15.0,5,2027-15-40,835000.0
+PAC-15695,45,,diabetes mellitus 2,11.0,0,2025-09-15,231000.0
+PAC-93227,47,Las Condes,Diabetes Mellitus Tipo 2,15.0,2,2025-10-24,412000.0
+PAC-97538,91,Providencia ,IRA,7.0,10,2025-06-22,673000.0
+PAC-16175,45,Viña del Mar,Gastritis Crónica,8.0,5,2026-05-18,696000.0
+PAC-66531,92,Santiago,Infección Respiratoria Aguda,11.0,1,2025-06-06,383000.0
+PAC-94939,78,Santiago,Gastritis Crónica,7.0,2,2025-10-17,457000.0
+PAC-76562,34,Maipu,Infección Respiratoria Aguda,13.0,0,2026-04-20,
+PAC-70889,12,Pte Alto,Diabetes Mellitus Tipo 2,12.0,0,2024-11-20,-150000
+PAC-37869,21,Concepción,Apendicitis Aguda,1.0,2,2026-04-26,376000.0
+PAC-46265,198,La Florida,Artrosis,13.0,0,2025-06-07,520000.0
+PAC-16582,44,Las Condes,Neumonía,5.0,10,2026-08-09,380000.0
+PAC-31417,8,Viña del Mar,Gastritis Crónica,2.0,0,2026-07-07,576000.0
+PAC-33086,,Concepción,Infección Respiratoria Aguda,13.0,3,2025-04-10,811000.0
+PAC-65461,48,Santiago,Hipertensión Arterial,7.0,5,2025-06-25,133000.0
+PAC-88907,74,Concepción,HTA,7.0,,2025-10-08,165000.0
+PAC-88172,71,Antofagasta,Artrosis,10.0,0,2026-09-11,690000.0
+PAC-74686,58,Las Condes,Hipertensión Arterial,15.0,0,2024-10-27,0
+PAC-84177,-4,Concepción,HTA,5.0,14,2027-15-40,514000.0
+PAC-26728,84,La Florida,Gastritis Crónica,436.0,5,2030-01-01,
+PAC-96951,61,La Florida,Hipertensión Arterial,12.0,0,,269000.0
+PAC-88907,12,Las Condes,Hipertensión Arterial,8.0,2,2027-15-40,212000.0
+PAC-96163,35,Viña del Mar,Artrosis,7.0,14,24/01/2026,289000.0
+PAC-38864,67,Providencia,Diabetes Mellitus Tipo 2,4.0,752,2026-06-04,172000.0
+PAC-79616,-15,Santiago,HTA,2.0,0,2026-09-22,$94.000
+PAC-93579,39,Maipú,IRA,7.0,1,2025-01-25,284000.0
+PAC-86556,78,Valparaíso,,7.0,,2026-03-11,308000.0
+PAC-15209,61,Puente Alto,Diabetes Mellitus Tipo 2,12.0,0,2026-05-16,326000.0
+PAC-30730,7,Puente Alto,Gastritis Crónica,,1,2026-05-02,749000.0
+PAC-81582,20,Providencia,HTA,11.0,14,2025-03-20,538000.0
+PAC-39451,62,La Florida,Diabetes Mellitus Tipo 2,12.0,14,2026-05-30,98000.0
+PAC-71348,91,santiago,Neumonía,15.0,10,02/09/2025,412000.0
+PAC-86569,18,Concepción,Infección Respiratoria Aguda,13.0,5,2027-15-40,579000.0
+PAC-81511,89,Santiago,DM2,11.0,0,2025-03-24,822000.0
+PAC-30028,53,Las Condes,Infección Respiratoria Aguda,6.0,0,Sin registro,$128.000
+PAC-58571,92,Valparaíso,diabetes mellitus 2,9.0,480,2025-08-26,536000.0
+PAC-26704,58,Providencia,diabetes mellitus 2,2.0,10,2025-07-01,735000.0
+PAC-53025,29,Antofagasta,Diabetes Mellitus Tipo 2,14.0,2,2026-03-13,192000.0
+PAC-85454,56,Providencia ,Apendicitis Aguda,5.0,10,2025-03-19,457000.0
+PAC-95477,25,La Florida,Gastritis Crónica,1.0,14,2026-01-12,414000.0
+PAC-80697,92,Providencia ,Neumonía,3.0,14,2030-01-01,0
+PAC-28726,186,Providencia ,HTA,10.0,5,2027-15-40,304000.0
+PAC-83259,6,santiago,Infección Respiratoria Aguda,14.0,10,2024-12-15,194000.0
+PAC-46471,76,Antofagasta,Apendicitis Aguda,345.0,5,2030-01-01,47000.0
+PAC-61049,,Maipu,Gastritis Crónica,6.0,0,2024-11-21,250000.0
+PAC-66179,28,Concepción,Artrosis,13.0,0,2024-09-29,822000.0
+PAC-25906,41,,Hipertensión Arterial,462.0,0,2025-12-29,
+PAC-96752,59,santiago,Infección Respiratoria Aguda,7.0,0,2026-02-08,804000.0
+,39,Santiago,Apendicitis Aguda,,2,2026-02-13,0
+PAC-98259,92,Maipú,Hipertensión Arterial,9.0,2,2026-07-30,785000.0
+PAC-38043,48,Maipú,DM2,9.0,0,2025-12-15,835000.0
+PAC-72493,21,Puente Alto,diabetes mellitus 2,12.0,1,2024-10-13,-150000
+PAC-39444,19,Concepción,Hipertensión Arterial,15.0,10,2026-09-11,123000.0
+PAC-25014,36,La Florida,Diabetes Mellitus Tipo 2,4.0,0,2025-06-03,491000.0
+PAC-23947,84,,Apendicitis Aguda,14.0,14,2025-12-10,255000.0
+PAC-56357,30,La Florida,HTA,6.0,1,2025-04-05,113000.0
+PAC-26728,83,Santiago,Neumonía,3.0,14,2026-04-30,$94.000
+PAC-82692,66,Pte Alto,Infección Respiratoria Aguda,3.0,,2026-02-10,128000.0
+PAC-61049,,Puente Alto,DM2,6.0,0,2026-08-27,599000.0
+PAC-55830,22,Antofagasta,IRA,10.0,3,2026-09-07,0
+PAC-83060,95,Viña del Mar,IRA,4.0,10,2026-09-16,72000.0
+PAC-72296,169,Valparaíso,Hipertensión Arterial,2.0,5,2025-09-05,694000.0
+PAC-23238,71,,Gastritis Crónica,11.0,0,,430000.0
+PAC-44741,4,Providencia,Infección Respiratoria Aguda,6.0,0,2025-06-10,343000.0
+PAC-99192,21,Santiago,DM2,12.0,0,2025-02-09,292000.0
+PAC-58944,61,Providencia,Apendicitis Aguda,11.0,5,03/01/2025,268000.0
+PAC-78146,44,Maipú,IRA,441.0,2,2024-11-19,
+PAC-98777,62,Providencia,diabetes mellitus 2,5.0,0,2025-11-04,397000.0
+PAC-86350,58,La Florida,Infección Respiratoria Aguda,1.0,14,2030-01-01,727000.0
+PAC-65296,,Las Condes,Hipertensión Arterial,3.0,525,2026-02-01,$123.000
+PAC-67199,,Santiago,IRA,4.0,,2024-12-20,401000.0
+PAC-83563,26,Santiago,Infección Respiratoria Aguda,13.0,14,2025-08-13,638000.0
+PAC-39256,28,Santiago,Neumonía,8.0,0,,$25.000
+PAC-76307,81,Santiago,Neumonía,14.0,1,,256000.0
+PAC-25860,87,Providencia,Diabetes Mellitus Tipo 2,4.0,14,2025-01-11,178000.0
+,-12,Antofagasta,IRA,6.0,0,2027-15-40,286000.0
+PAC-87128,12,,DM2,13.0,,2026-07-11,-150000
+PAC-46434,54,Las Condes,Diabetes Mellitus Tipo 2,4.0,14,24/02/2026,0
+PAC-42953,,Providencia ,Apendicitis Aguda,4.0,10,2026-02-27,18000.0
+PAC-29769,54,Concepción,Diabetes Mellitus Tipo 2,13.0,0,2026-01-18,507000.0
+PAC-92213,56,Santiago,DM2,2.0,,2025-10-23,56000.0
+PAC-26483,15,Antofagasta,Apendicitis Aguda,12.0,0,2025-08-14,71000.0
+PAC-57795,54,Santiago,HTA,3.0,10,Sin registro,692000.0
+PAC-64377,76,Concepción,Gastritis Crónica,1.0,2,2025-05-25,803000.0
+PAC-65057,50,Puente Alto,diabetes mellitus 2,14.0,14,2026-02-02,158000.0
+PAC-81200,83,Providencia,,9.0,14,2030-01-01,735000.0
+PAC-38043,52,La Florida,Apendicitis Aguda,15.0,14,2026-07-21,177000.0
+PAC-77839,62,Valparaíso,Apendicitis Aguda,6.0,5,2026-01-22,397000.0
+PAC-85880,64,Puente Alto,Diabetes Mellitus Tipo 2,4.0,0,,731000.0
+PAC-19287,,,Artrosis,3.0,0,2025-11-23,-150000
+PAC-89069,48,Santiago,HTA,6.0,10,Sin registro,809000.0
+PAC-68878,52,La Florida,Infección Respiratoria Aguda,13.0,1,2024-12-11,538000.0
+PAC-71953,89,Maipú,HTA,10.0,14,2026-03-25,191000.0
+PAC-19287,62,santiago,HTA,111.0,3,2026-09-21,203000.0
+PAC-18326,13,Valparaíso,Infección Respiratoria Aguda,1.0,14,2026-06-16,273000.0
+PAC-49240,205,Viña del Mar,Gastritis Crónica,15.0,14,2025-07-28,0
+PAC-92719,35,santiago,Artrosis,14.0,14,2025-04-20,365000.0
+PAC-20328,50,Santiago,DM2,318.0,10,2024-10-21,217000.0
+PAC-48427,76,Providencia,Artrosis,1.0,2,2024-12-13,60000.0
+PAC-85674,42,Viña del Mar,Neumonía,13.0,0,2026-03-16,70000.0
+PAC-89818,48,Pte Alto,HTA,11.0,1,2024-12-12,89000.0
+PAC-43065,69,La Florida,Apendicitis Aguda,1.0,5,2024-11-05,644000.0
+PAC-53933,70,La Florida,diabetes mellitus 2,7.0,0,Sin registro,198000.0
+PAC-10851,49,Viña del Mar,DM2,13.0,0,19/11/2025,807000.0
+PAC-19862,16,Santiago,Neumonía,,2,2025-02-20,522000.0
+PAC-34957,,Antofagasta,Hipertensión Arterial,8.0,2,2025-05-30,753000.0
+PAC-17492,73,Providencia,DM2,4.0,0,2025-07-11,151000.0
+PAC-13617,18,La Florida,DM2,,5,2026-02-19,
+PAC-35485,22,,HTA,6.0,0,2024-12-03,732000.0
+PAC-77000,24,Concepción,Apendicitis Aguda,14.0,14,20/04/2025,475000.0
+PAC-45992,17,Providencia,DM2,7.0,10,2025-02-02,299000.0
+PAC-32431,13,Concepción,Infección Respiratoria Aguda,12.0,2,2026-07-21,0
+PAC-44522,35,Providencia ,Neumonía,12.0,0,2025-05-14,64000.0
+PAC-10464,34,Concepción,Hipertensión Arterial,12.0,10,2026-09-08,744000.0
+PAC-15229,,Providencia,Neumonía,7.0,0,2025-07-19,632000.0
+PAC-95909,89,Viña del Mar,Hipertensión Arterial,3.0,,2026-09-05,
+PAC-98781,0,santiago,Hipertensión Arterial,6.0,3,2026-06-02,0
+PAC-25866,54,Providencia ,Diabetes Mellitus Tipo 2,2.0,10,2025-12-27,189000.0
+PAC-64921,34,Providencia ,HTA,14.0,1,2025-01-20,81000.0
+PAC-73372,90,Puente Alto,Infección Respiratoria Aguda,,5,2024-09-27,219000.0
+PAC-50001,38,Santiago,diabetes mellitus 2,5.0,0,2026-08-26,703000.0
+PAC-24029,42,Viña del Mar,Neumonía,10.0,693,2025-09-21,505000.0
+PAC-65518,-7,La Florida,diabetes mellitus 2,11.0,14,2025-08-11,
+PAC-84668,83,Puente Alto,Hipertensión Arterial,6.0,0,2024-09-28,570000.0
+,12,Las Condes,HTA,6.0,2,2027-15-40,268000.0
+PAC-87992,82,Valparaíso,Hipertensión Arterial,6.0,2,2025-02-02,463000.0
+PAC-19038,45,Maipú,DM2,3.0,3,2025-04-10,0
+PAC-69929,66,Maipú,Diabetes Mellitus Tipo 2,10.0,10,2026-05-30,676000.0
+PAC-28373,55,,Infección Respiratoria Aguda,8.0,3,2027-15-40,479000.0
+PAC-80798,-11,Santiago,Infección Respiratoria Aguda,2.0,0,2026-03-01,-150000
+PAC-59857,82,La Florida,Gastritis Crónica,15.0,5,2027-15-40,567000.0
+PAC-62350,52,Providencia ,Infección Respiratoria Aguda,,3,2026-03-05,316000.0
+PAC-19116,,Las Condes,Diabetes Mellitus Tipo 2,13.0,0,2025-11-11,428000.0
+PAC-73993,95,Viña del Mar,Gastritis Crónica,5.0,2,2025-08-08,$184.000
+PAC-37869,90,Providencia ,DM2,1.0,2,2025-07-19,278000.0
+PAC-85470,66,Puente Alto,Gastritis Crónica,2.0,0,,$151.000
+PAC-96163,80,Valparaíso,Artrosis,13.0,,2024-12-29,85000.0
+PAC-15817,67,La Florida,Neumonía,11.0,3,2025-01-19,130000.0
+PAC-41029,85,Las Condes,Diabetes Mellitus Tipo 2,12.0,0,,358000.0
+PAC-54597,-11,Puente Alto,Diabetes Mellitus Tipo 2,1.0,5,2025-08-07,844000.0
+PAC-20322,23,Santiago,Neumonía,,10,2027-15-40,267000.0
+PAC-54587,18,Concepción,Hipertensión Arterial,11.0,0,2026-04-30,176000.0
+PAC-62350,92,Providencia ,Diabetes Mellitus Tipo 2,3.0,5,2025-03-22,0
+PAC-55870,141,santiago,Apendicitis Aguda,5.0,713,2025-02-28,409000.0
+PAC-22224,9,Puente Alto,Gastritis Crónica,9.0,5,2025-04-12,302000.0
+PAC-46559,55,Valparaíso,DM2,1.0,2,2025-01-01,$111.000
+PAC-39871,75,Las Condes,Gastritis Crónica,1.0,5,2025-07-11,441000.0
+PAC-76562,81,santiago,Hipertensión Arterial,1.0,0,2025-06-20,842000.0
+PAC-81511,72,Viña del Mar,Infección Respiratoria Aguda,3.0,0,2026-07-23,783000.0
+PAC-78386,24,Valparaíso,Artrosis,9.0,0,2024-10-16,384000.0
+PAC-23473,23,La Florida,DM2,5.0,5,17/11/2025,472000.0
+PAC-72518,11,Concepción,Neumonía,8.0,0,2025-03-31,$220.000
+PAC-50404,53,Valparaíso,Infección Respiratoria Aguda,7.0,0,2025-03-12,$130.000
+PAC-15014,23,Puente Alto,Gastritis Crónica,2.0,0,2026-04-25,170000.0
+PAC-24621,,Providencia,DM2,12.0,0,2025-05-27,0
+PAC-12552,19,Las Condes,Hipertensión Arterial,1.0,2,2025-10-29,286000.0
+PAC-36062,21,Providencia ,Neumonía,,2,2026-07-27,623000.0
+PAC-65933,43,Pte Alto,Gastritis Crónica,7.0,2,2025-04-26,364000.0
+PAC-55830,79,La Florida,Hipertensión Arterial,-3.0,0,2026-02-06,834000.0
+PAC-30866,0,Antofagasta,IRA,2.0,14,2025-08-02,828000.0
+PAC-80855,51,Providencia,IRA,5.0,3,2024-10-18,
+PAC-26828,23,Concepción,Gastritis Crónica,7.0,1,06/01/2026,620000.0
+PAC-22240,15,Viña del Mar,Neumonía,12.0,0,Sin registro,619000.0
+PAC-41571,72,Santiago,HTA,5.0,5,2025-02-27,77000.0
+PAC-59692,5,Providencia ,Gastritis Crónica,1.0,1,2026-01-27,$200.000
+PAC-81482,74,Providencia,Hipertensión Arterial,4.0,1,2025-06-09,833000.0
+,68,Santiago,Hipertensión Arterial,,14,,759000.0
+PAC-95215,56,Providencia,DM2,7.0,3,2025-07-02,642000.0
+PAC-89069,-2,Concepción,IRA,8.0,2,08/10/2024,516000.0
+PAC-74251,53,Antofagasta,Gastritis Crónica,9.0,,2024-12-14,553000.0
+PAC-92960,52,Santiago,Hipertensión Arterial,7.0,,2024-10-07,126000.0
+PAC-53279,32,Concepción,Hipertensión Arterial,,14,,543000.0
+PAC-17492,57,Valparaíso,Gastritis Crónica,4.0,5,2025-09-11,111000.0
+PAC-86622,16,Viña del Mar,Hipertensión Arterial,10.0,5,2026-02-24,388000.0
+PAC-93886,4,Las Condes,Artrosis,10.0,,,504000.0
+PAC-38080,40,,Diabetes Mellitus Tipo 2,12.0,0,04/09/2025,625000.0
+PAC-50538,7,Concepción,Artrosis,336.0,2,2026-02-02,18000.0
+PAC-94080,92,Valparaíso,Hipertensión Arterial,4.0,14,2025-09-07,626000.0
+PAC-39389,218,Puente Alto,Hipertensión Arterial,5.0,1,Sin registro,378000.0
+PAC-80855,-1,Viña del Mar,IRA,12.0,0,2025-06-17,
+PAC-13278,,santiago,DM2,8.0,457,2024-12-24,-150000
+PAC-98501,91,Las Condes,DM2,14.0,0,2026-01-08,645000.0
+PAC-70217,38,Viña del Mar,HTA,,14,2025-05-09,577000.0
+PAC-91070,88,Providencia,Infección Respiratoria Aguda,8.0,417,2026-07-30,$195.000
+PAC-64987,58,Santiago,Gastritis Crónica,13.0,10,2026-05-01,624000.0
+PAC-92397,66,Pte Alto,Hipertensión Arterial,15.0,0,2024-12-29,737000.0
+PAC-97841,85,,,11.0,0,,397000.0
+PAC-73517,61,Santiago,Infección Respiratoria Aguda,166.0,,2025-02-10,0
+PAC-71213,79,Maipú,,7.0,1,2026-04-05,481000.0
+PAC-52753,47,Antofagasta,Infección Respiratoria Aguda,9.0,0,2024-12-08,740000.0
+PAC-97747,74,Santiago,Diabetes Mellitus Tipo 2,2.0,0,2025-09-06,520000.0
+PAC-11504,66,Concepción,Artrosis,4.0,5,2026-07-01,287000.0
+PAC-65518,77,Las Condes,Diabetes Mellitus Tipo 2,8.0,,2025-03-26,340000.0
+PAC-49240,79,Las Condes,IRA,6.0,3,2026-04-28,705000.0
+PAC-80010,35,Las Condes,Apendicitis Aguda,6.0,0,2025-08-21,350000.0
+PAC-34356,81,Santiago,Apendicitis Aguda,3.0,485,2026-07-08,-150000
+PAC-66155,17,La Florida,Gastritis Crónica,12.0,5,2025-10-01,67000.0
+PAC-29410,32,Providencia ,Apendicitis Aguda,,,2024-10-29,0
+PAC-42406,13,Antofagasta,Apendicitis Aguda,13.0,14,,46000.0
+PAC-97747,,Providencia,Infección Respiratoria Aguda,11.0,0,2026-09-06,194000.0
+,17,Santiago,HTA,14.0,2,2025-03-11,176000.0
+PAC-86099,33,Santiago,Neumonía,7.0,2,Sin registro,550000.0
+PAC-67422,5,Providencia,Neumonía,13.0,2,2026-07-04,622000.0
+PAC-57795,47,santiago,Hipertensión Arterial,1.0,2,2030-01-01,834000.0
+PAC-43586,82,Santiago,Neumonía,5.0,0,2025-05-14,538000.0
+PAC-93507,55,Las Condes,DM2,6.0,0,2026-07-20,285000.0
+PAC-85880,87,Las Condes,Apendicitis Aguda,9.0,0,Sin registro,297000.0
+PAC-92149,37,Santiago,DM2,13.0,0,2025-03-17,439000.0
+PAC-65108,89,santiago,Neumonía,6.0,0,2025-01-07,$225.000
+PAC-59615,95,Puente Alto,Diabetes Mellitus Tipo 2,6.0,1,2025-10-24,753000.0
+PAC-29536,36,Puente Alto,Diabetes Mellitus Tipo 2,2.0,393,2025-07-18,490000.0
+,69,Maipú,Infección Respiratoria Aguda,9.0,0,2027-15-40,657000.0
+PAC-40512,4,Puente Alto,Infección Respiratoria Aguda,15.0,14,2026-05-02,
+PAC-39154,,Puente Alto,HTA,14.0,0,2025-01-25,609000.0
+PAC-62772,83,Viña del Mar,Infección Respiratoria Aguda,12.0,573,2027-15-40,663000.0
+PAC-93579,73,Concepción,diabetes mellitus 2,6.0,14,2025-12-11,95000.0
+PAC-82845,3,Las Condes,Gastritis Crónica,13.0,10,2026-08-14,845000.0
+PAC-65296,55,Las Condes,,9.0,14,2026-06-07,$235.000
+PAC-33405,3,Santiago,Artrosis,9.0,0,2025-10-29,385000.0
+PAC-62565,62,Santiago,Infección Respiratoria Aguda,12.0,952,2026-09-26,521000.0
+PAC-92213,41,Valparaíso,Hipertensión Arterial,11.0,10,2025-03-30,821000.0
+PAC-38746,45,Maipú,Gastritis Crónica,6.0,0,2024-10-28,-150000
+PAC-44814,74,Maipú,Neumonía,15.0,0,14/05/2026,$37.000
+PAC-78386,55,Pte Alto,Artrosis,10.0,14,2026-04-03,-150000
+PAC-92544,6,Maipu,Hipertensión Arterial,5.0,5,2024-10-02,294000.0
+PAC-64948,92,Puente Alto,Apendicitis Aguda,11.0,0,2024-12-14,529000.0
+PAC-87924,34,Santiago,Hipertensión Arterial,3.0,,12/03/2025,$213.000
+PAC-33086,60,Concepción,diabetes mellitus 2,12.0,,2026-04-12,236000.0
+PAC-19171,3,Viña del Mar,Hipertensión Arterial,8.0,2,2026-05-28,622000.0
+PAC-40784,77,Maipú,Neumonía,2.0,3,2025-12-26,807000.0
+PAC-22224,-7,Maipu,Diabetes Mellitus Tipo 2,15.0,3,2026-01-12,652000.0
+PAC-14117,4,La Florida,Apendicitis Aguda,8.0,14,2026-08-12,849000.0
+PAC-46048,,Valparaíso,Apendicitis Aguda,12.0,0,2024-12-12,200000.0
+PAC-81819,18,Valparaíso,Artrosis,10.0,3,2024-11-28,429000.0
+PAC-95426,18,Antofagasta,Gastritis Crónica,12.0,1,2025-05-23,560000.0
+PAC-80010,21,Concepción,Neumonía,,3,2024-12-01,
+PAC-22240,32,Puente Alto,Gastritis Crónica,8.0,,2030-01-01,173000.0
+PAC-46471,34,Puente Alto,Infección Respiratoria Aguda,10.0,5,2025-12-16,447000.0
+PAC-67422,46,Maipú,Apendicitis Aguda,12.0,1,2025-06-25,178000.0
+PAC-63225,-11,La Florida,,4.0,10,08/12/2024,173000.0
+PAC-46930,39,Santiago,Apendicitis Aguda,237.0,0,2026-01-31,619000.0
+PAC-54587,11,Valparaíso,diabetes mellitus 2,4.0,0,2025-04-18,
+PAC-78522,66,Antofagasta,Diabetes Mellitus Tipo 2,10.0,5,2026-03-28,321000.0
+PAC-46048,27,Santiago,Neumonía,9.0,14,2024-09-29,318000.0
+PAC-36365,8,Santiago,Neumonía,,14,Sin registro,380000.0
+PAC-89276,21,Concepción,Neumonía,2.0,0,2026-09-10,785000.0
+PAC-83385,27,Pte Alto,Apendicitis Aguda,12.0,0,Sin registro,429000.0
+PAC-40982,71,Maipú,HTA,11.0,0,2024-10-13,632000.0
+PAC-25118,53,Puente Alto,IRA,15.0,2,2025-11-26,759000.0
+PAC-22156,88,Santiago,Infección Respiratoria Aguda,,14,2027-15-40,247000.0
+PAC-38657,29,Puente Alto,DM2,14.0,367,2025-04-04,539000.0
+PAC-97806,76,Antofagasta,Apendicitis Aguda,13.0,0,,251000.0
+PAC-40311,14,santiago,diabetes mellitus 2,9.0,0,Sin registro,532000.0
+PAC-52237,91,La Florida,DM2,1.0,0,2025-06-17,71000.0
+PAC-42092,83,Viña del Mar,,2.0,,2025-04-26,
+PAC-49240,87,Providencia,HTA,-3.0,3,2025-12-28,615000.0
+PAC-10851,37,Las Condes,Artrosis,1.0,2,2030-01-01,594000.0
+PAC-66985,85,santiago,Neumonía,13.0,14,2027-15-40,550000.0
+PAC-98555,93,La Florida,Gastritis Crónica,12.0,14,2024-11-01,797000.0
+PAC-87397,22,Providencia ,Diabetes Mellitus Tipo 2,227.0,5,2026-05-06,364000.0
+PAC-12560,58,santiago,Gastritis Crónica,1.0,1,2026-06-15,16000.0
+PAC-75612,72,Puente Alto,Apendicitis Aguda,8.0,10,,660000.0
+PAC-87236,23,Concepción,Diabetes Mellitus Tipo 2,15.0,0,2030-01-01,757000.0
+PAC-66057,90,Maipú,DM2,12.0,0,2024-11-01,151000.0
+PAC-15482,9,Maipú,Gastritis Crónica,4.0,0,2025-01-31,355000.0
+PAC-82512,83,santiago,HTA,4.0,14,2026-07-30,139000.0
+PAC-37460,14,Santiago,Gastritis Crónica,11.0,0,2026-06-03,633000.0
+PAC-22833,165,Antofagasta,DM2,2.0,,2026-09-03,149000.0
+PAC-89069,-10,santiago,Gastritis Crónica,14.0,,2025-01-28,772000.0
+PAC-88907,75,Maipú,Apendicitis Aguda,5.0,10,2027-15-40,223000.0
+PAC-67080,,Antofagasta,Hipertensión Arterial,1.0,0,2026-06-22,158000.0
+PAC-99016,39,Puente Alto,diabetes mellitus 2,2.0,5,2025-05-19,484000.0
+PAC-98696,21,Maipú,Diabetes Mellitus Tipo 2,10.0,1,2027-15-40,$88.000
+PAC-59692,86,Providencia ,Diabetes Mellitus Tipo 2,12.0,0,2025-01-27,611000.0
+PAC-79616,46,Providencia,Gastritis Crónica,,0,,-150000
+PAC-31992,,Santiago,Infección Respiratoria Aguda,12.0,1,2025-01-16,366000.0
+PAC-92397,53,La Florida,HTA,11.0,14,16/06/2026,798000.0
+PAC-17685,199,Antofagasta,Diabetes Mellitus Tipo 2,6.0,0,2025-06-06,793000.0
+PAC-61049,82,Antofagasta,Gastritis Crónica,8.0,0,2025-04-26,624000.0
+PAC-49651,24,Concepción,IRA,7.0,5,17/04/2026,818000.0
+PAC-59857,84,Antofagasta,Apendicitis Aguda,2.0,0,2027-15-40,597000.0
+PAC-97500,88,Concepción,Apendicitis Aguda,8.0,14,2027-15-40,35000.0
+PAC-10425,14,,Diabetes Mellitus Tipo 2,6.0,14,2025-01-13,367000.0
+PAC-97806,38,La Florida,Hipertensión Arterial,14.0,5,2025-12-21,472000.0
+PAC-42953,16,Santiago,Apendicitis Aguda,6.0,5,2024-11-22,812000.0
+PAC-93507,35,Antofagasta,DM2,2.0,0,19/05/2025,60000.0
+PAC-46265,32,La Florida,diabetes mellitus 2,4.0,14,2025-06-17,237000.0
+PAC-72070,27,La Florida,IRA,10.0,0,2025-06-12,303000.0
+PAC-36062,95,Las Condes,Apendicitis Aguda,8.0,2,2024-12-19,519000.0
+PAC-19880,69,Santiago,Artrosis,6.0,0,2025-01-07,160000.0
+PAC-27154,51,Valparaíso,Gastritis Crónica,8.0,0,2030-01-01,75000.0
+PAC-73788,88,Valparaíso,Hipertensión Arterial,5.0,0,2026-01-03,333000.0
+PAC-63424,93,,Artrosis,3.0,10,2026-06-07,207000.0
+PAC-96900,12,Providencia,Infección Respiratoria Aguda,6.0,2,2026-02-05,0
+PAC-50857,62,Puente Alto,IRA,7.0,1,2027-15-40,
+PAC-18834,91,Concepción,IRA,10.0,14,2025-01-14,598000.0
+PAC-83579,5,Providencia ,Infección Respiratoria Aguda,,1,2025-05-01,-150000
+PAC-65302,48,Providencia,Neumonía,15.0,,2025-01-30,-150000
+PAC-13534,86,Concepción,Neumonía,1.0,0,2025-09-14,-150000
+PAC-42914,26,Concepción,Gastritis Crónica,,3,2024-12-20,
+PAC-62350,6,Concepción,Neumonía,8.0,882,2024-09-29,222000.0
+PAC-17716,76,Antofagasta,Apendicitis Aguda,15.0,0,2025-11-13,166000.0
+PAC-41385,40,Providencia,Apendicitis Aguda,12.0,1,2026-07-05,614000.0
+PAC-13804,4,Pte Alto,diabetes mellitus 2,9.0,1,2024-11-04,725000.0
+PAC-16630,73,Providencia ,Infección Respiratoria Aguda,3.0,14,2026-05-12,115000.0
+PAC-51441,35,Concepción,Gastritis Crónica,7.0,0,2026-04-29,246000.0
+PAC-97538,52,Las Condes,DM2,4.0,14,2026-07-23,553000.0
+PAC-68082,67,Concepción,Infección Respiratoria Aguda,3.0,0,2026-03-30,641000.0
+PAC-31299,,Las Condes,,15.0,5,,479000.0
+PAC-36100,46,,Apendicitis Aguda,7.0,0,2025-10-04,847000.0
+PAC-15229,56,Maipú,Infección Respiratoria Aguda,9.0,0,2026-05-05,141000.0
+PAC-79163,1,Valparaíso,Infección Respiratoria Aguda,8.0,0,2026-07-15,234000.0
+PAC-53719,73,Puente Alto,Infección Respiratoria Aguda,14.0,1,Sin registro,527000.0
+PAC-95181,93,Providencia ,IRA,9.0,2,2024-11-05,491000.0
+PAC-69829,16,Santiago,Artrosis,3.0,1,2025-05-12,305000.0
+PAC-66346,67,Valparaíso,Diabetes Mellitus Tipo 2,5.0,0,2025-12-25,134000.0
+PAC-89516,28,Las Condes,HTA,3.0,0,2026-07-05,0
+PAC-43586,61,Valparaíso,Apendicitis Aguda,2.0,878,2025-10-16,724000.0
+PAC-24662,53,Pte Alto,Infección Respiratoria Aguda,4.0,5,2025-09-27,274000.0
+PAC-80855,94,Viña del Mar,Artrosis,7.0,14,2026-06-04,31000.0
+PAC-13478,244,santiago,Neumonía,308.0,0,2025-07-27,158000.0
+PAC-92149,13,Santiago,Diabetes Mellitus Tipo 2,14.0,3,21/07/2026,467000.0
+PAC-57819,0,Valparaíso,DM2,6.0,2,2024-12-11,677000.0
+PAC-97012,0,La Florida,DM2,1.0,5,2026-02-28,430000.0
+PAC-22363,21,Santiago,Infección Respiratoria Aguda,12.0,5,2026-08-17,653000.0
+,47,Pte Alto,Diabetes Mellitus Tipo 2,217.0,3,2026-06-29,143000.0
+PAC-82420,88,Las Condes,Hipertensión Arterial,14.0,0,2026-03-24,213000.0
+PAC-96900,9,Las Condes,HTA,11.0,0,2026-09-03,575000.0
+PAC-53719,28,Concepción,Hipertensión Arterial,8.0,5,2026-08-30,0
+PAC-20458,27,Pte Alto,Apendicitis Aguda,10.0,0,2024-12-19,348000.0
+PAC-30032,5,Maipú,Artrosis,12.0,1,2024-12-11,843000.0
+PAC-79822,56,Valparaíso,Apendicitis Aguda,7.0,1,2026-04-26,360000.0
+PAC-34914,89,Viña del Mar,Gastritis Crónica,495.0,0,2025-11-13,
+PAC-79827,26,Santiago,Artrosis,11.0,5,14/03/2026,
+PAC-67912,72,Valparaíso,Neumonía,2.0,3,2026-01-27,191000.0
+PAC-66985,32,Antofagasta,Gastritis Crónica,14.0,0,2025-09-25,196000.0
+PAC-98039,4,Providencia,DM2,8.0,0,2026-03-03,68000.0
+PAC-17455,26,Maipú,Artrosis,8.0,2,2030-01-01,30000.0
+PAC-44760,-3,Valparaíso,Infección Respiratoria Aguda,15.0,0,2025-10-26,461000.0
+PAC-46048,8,Antofagasta,,11.0,0,2025-05-01,526000.0
+PAC-26683,64,La Florida,Diabetes Mellitus Tipo 2,11.0,2,,267000.0
+PAC-10772,20,,Diabetes Mellitus Tipo 2,,2,2025-01-27,434000.0
+PAC-62581,49,Providencia,Apendicitis Aguda,4.0,0,2026-06-15,0
+PAC-30028,25,Concepción,IRA,5.0,0,2027-15-40,624000.0
+PAC-97500,16,Viña del Mar,Apendicitis Aguda,3.0,1,2026-01-26,809000.0
+PAC-85574,5,Valparaíso,Hipertensión Arterial,9.0,,2027-15-40,119000.0
+PAC-81582,52,La Florida,Gastritis Crónica,13.0,0,2026-07-27,581000.0
+PAC-84668,80,Puente Alto,Artrosis,2.0,3,2025-04-19,548000.0
+PAC-69087,20,Maipú,Diabetes Mellitus Tipo 2,3.0,,2024-11-21,779000.0
+PAC-63225,35,Providencia,Artrosis,-3.0,0,2026-04-11,608000.0
+PAC-67199,29,,Artrosis,15.0,0,2024-10-22,704000.0
+PAC-97747,85,Concepción,Infección Respiratoria Aguda,3.0,3,2026-06-07,50000.0
+PAC-40828,94,Viña del Mar,IRA,6.0,2,2030-01-01,203000.0
+PAC-65333,90,Maipú,Artrosis,15.0,0,13/03/2026,778000.0
+PAC-83579,76,Santiago,diabetes mellitus 2,6.0,2,2026-03-24,-150000
+PAC-70217,18,Maipú,DM2,8.0,3,2026-08-17,635000.0
+PAC-38657,23,Valparaíso,Gastritis Crónica,2.0,0,2026-08-12,421000.0
+PAC-59823,59,Concepción,Gastritis Crónica,9.0,14,2025-03-17,-150000
+PAC-89840,55,Maipú,Infección Respiratoria Aguda,9.0,1,2025-01-01,
+PAC-84364,,santiago,Infección Respiratoria Aguda,15.0,5,2025-04-06,68000.0
+PAC-30032,47,Puente Alto,Infección Respiratoria Aguda,5.0,0,,104000.0
+PAC-27477,72,Valparaíso,diabetes mellitus 2,7.0,0,2026-01-03,806000.0
+PAC-96163,-9,Antofagasta,Gastritis Crónica,15.0,10,2025-02-02,0
+PAC-38746,95,Santiago,Gastritis Crónica,2.0,0,2025-11-26,608000.0
+PAC-98777,39,Antofagasta,Infección Respiratoria Aguda,1.0,0,2024-11-18,38000.0
+PAC-53933,34,,IRA,,649,2025-06-13,824000.0
+PAC-75909,57,Las Condes,DM2,4.0,,2025-06-16,
+PAC-80284,49,Pte Alto,Hipertensión Arterial,11.0,14,2025-10-15,0
+PAC-52906,0,Las Condes,diabetes mellitus 2,13.0,3,2025-07-18,-150000
+PAC-53404,47,La Florida,Artrosis,12.0,5,28/01/2025,493000.0
+PAC-44237,44,Puente Alto,Infección Respiratoria Aguda,9.0,5,2026-08-28,479000.0
+PAC-60968,22,Concepción,Infección Respiratoria Aguda,11.0,10,,673000.0
+PAC-55309,35,Puente Alto,Diabetes Mellitus Tipo 2,,0,,
+PAC-20745,,Maipú,,,5,2025-12-12,746000.0
+PAC-98696,41,Las Condes,Gastritis Crónica,14.0,1,2024-11-25,373000.0
+PAC-70910,37,Valparaíso,HTA,7.0,10,2026-02-03,257000.0
+PAC-26728,,La Florida,Infección Respiratoria Aguda,1.0,5,2024-12-13,271000.0
+PAC-77889,86,Santiago,IRA,2.0,0,2025-11-13,575000.0
+PAC-61990,95,Santiago,HTA,5.0,14,07/03/2026,216000.0
+PAC-52504,92,Puente Alto,Hipertensión Arterial,-3.0,0,2026-06-20,113000.0
+PAC-25860,87,Valparaíso,Neumonía,1.0,0,2025-07-15,133000.0
+PAC-26334,58,Providencia,diabetes mellitus 2,9.0,14,2024-11-24,-150000
+PAC-72070,199,Puente Alto,Apendicitis Aguda,12.0,3,2024-11-27,$127.000
+PAC-30379,10,Antofagasta,Gastritis Crónica,6.0,0,2025-07-18,431000.0
+PAC-73788,-2,Puente Alto,Gastritis Crónica,11.0,0,2025-04-17,131000.0
+PAC-33416,16,,HTA,15.0,0,2025-07-16,195000.0
+,,Maipú,,12.0,535,2026-09-03,587000.0
+PAC-99353,13,Las Condes,Apendicitis Aguda,1.0,1,2026-01-11,147000.0
+PAC-70258,58,santiago,Hipertensión Arterial,12.0,,,477000.0
+PAC-21359,81,Valparaíso,Infección Respiratoria Aguda,7.0,5,2027-15-40,832000.0
+PAC-27146,77,La Florida,HTA,4.0,3,,497000.0
+PAC-22704,20,Viña del Mar,Diabetes Mellitus Tipo 2,2.0,2,2030-01-01,758000.0
+PAC-28301,65,La Florida,Gastritis Crónica,2.0,14,01/12/2024,538000.0
+PAC-73654,48,Providencia,IRA,5.0,14,2025-08-30,523000.0
+PAC-97580,70,Santiago,Apendicitis Aguda,2.0,0,2030-01-01,491000.0
+PAC-16826,11,Las Condes,IRA,8.0,1,2026-01-22,206000.0
+PAC-42662,-9,,Gastritis Crónica,3.0,0,2027-15-40,319000.0
+PAC-97841,23,Puente Alto,IRA,8.0,3,2027-15-40,133000.0
+PAC-80686,65,La Florida,Infección Respiratoria Aguda,-3.0,0,2026-01-17,38000.0
+PAC-45992,4,La Florida,Diabetes Mellitus Tipo 2,12.0,5,2025-11-13,582000.0
+PAC-54942,92,Viña del Mar,IRA,4.0,0,2026-03-12,266000.0
+PAC-86484,-3,Viña del Mar,Neumonía,11.0,3,2025-04-02,0
+PAC-77889,14,Valparaíso,Diabetes Mellitus Tipo 2,11.0,10,2025-02-09,431000.0
+PAC-56898,48,Providencia ,,2.0,10,2025-05-28,$242.000
+PAC-44814,32,Providencia ,IRA,12.0,3,2026-01-30,496000.0
+PAC-72070,7,Maipú,Diabetes Mellitus Tipo 2,,5,2025-09-27,119000.0
+PAC-79329,2,Antofagasta,Gastritis Crónica,3.0,10,2025-06-26,$166.000
+PAC-65519,29,Viña del Mar,Neumonía,6.0,2,2026-02-19,
+PAC-60968,,La Florida,Diabetes Mellitus Tipo 2,15.0,3,,-150000
+PAC-98259,50,La Florida,Diabetes Mellitus Tipo 2,5.0,0,2025-10-11,180000.0
+PAC-51441,92,La Florida,DM2,5.0,0,2025-03-11,
+PAC-49446,24,La Florida,Hipertensión Arterial,4.0,0,2025-08-18,689000.0
+,20,Viña del Mar,diabetes mellitus 2,14.0,0,2026-06-18,744000.0
+PAC-54597,,Maipu,Neumonía,12.0,3,10/03/2026,455000.0
+PAC-93507,51,santiago,Infección Respiratoria Aguda,2.0,10,2025-12-19,653000.0
+PAC-91351,68,La Florida,Hipertensión Arterial,12.0,0,2026-02-23,0
+PAC-43386,75,Las Condes,DM2,9.0,5,15/02/2026,767000.0
+PAC-11025,,Viña del Mar,Artrosis,11.0,10,2026-08-31,48000.0
+PAC-80010,27,Viña del Mar,Gastritis Crónica,3.0,5,2026-06-26,360000.0
+PAC-11934,43,,Neumonía,,0,2026-09-01,100000.0
+PAC-45697,36,santiago,Artrosis,6.0,0,2025-10-07,820000.0
+PAC-98696,77,Puente Alto,Apendicitis Aguda,7.0,3,2026-03-09,324000.0
+PAC-78146,76,Puente Alto,,9.0,10,2024-11-10,-150000
+PAC-34890,,Valparaíso,Diabetes Mellitus Tipo 2,12.0,0,2026-06-21,682000.0
+PAC-41385,51,santiago,Diabetes Mellitus Tipo 2,7.0,0,2030-01-01,457000.0
+PAC-41979,45,Las Condes,Hipertensión Arterial,9.0,561,2027-15-40,801000.0
+PAC-23577,86,Valparaíso,HTA,6.0,2,,651000.0
+PAC-67433,67,Santiago,Apendicitis Aguda,14.0,5,2025-12-02,290000.0
+PAC-20155,,Providencia ,Diabetes Mellitus Tipo 2,3.0,0,2024-12-02,799000.0
+PAC-95181,12,La Florida,Neumonía,6.0,0,2026-05-24,145000.0
+PAC-31299,44,Las Condes,Apendicitis Aguda,15.0,0,2030-01-01,425000.0
+PAC-94607,76,Valparaíso,Artrosis,-3.0,0,04/11/2024,558000.0
+PAC-65333,18,santiago,Diabetes Mellitus Tipo 2,4.0,2,2025-07-19,$33.000
+PAC-15778,87,Maipú,Apendicitis Aguda,1.0,3,2025-01-03,760000.0
+PAC-80575,-12,Las Condes,Diabetes Mellitus Tipo 2,13.0,5,2025-11-30,479000.0
+PAC-77391,73,Pte Alto,Gastritis Crónica,6.0,0,2026-06-28,164000.0
+PAC-82512,-9,Puente Alto,Diabetes Mellitus Tipo 2,2.0,10,2025-10-26,59000.0
+PAC-80798,44,Providencia,Artrosis,3.0,3,2025-12-25,630000.0
+PAC-18418,66,Puente Alto,Gastritis Crónica,10.0,0,2027-15-40,158000.0
+PAC-99192,10,Antofagasta,Apendicitis Aguda,11.0,718,2026-09-02,568000.0
+PAC-54587,175,santiago,Artrosis,15.0,10,2026-07-19,151000.0
+PAC-98039,15,Valparaíso,Neumonía,5.0,0,,165000.0
+PAC-88697,68,Santiago,Apendicitis Aguda,6.0,10,2026-08-15,765000.0
+,,,DM2,12.0,1,30/07/2026,846000.0
+PAC-10726,64,Santiago,Artrosis,,5,2026-01-27,441000.0
+PAC-93307,81,Providencia,Gastritis Crónica,2.0,14,2025-07-30,-150000
+PAC-57739,17,santiago,Infección Respiratoria Aguda,5.0,0,,730000.0
+PAC-63528,90,Las Condes,DM2,3.0,2,Sin registro,239000.0
+PAC-31417,21,Pte Alto,Infección Respiratoria Aguda,2.0,3,,473000.0
+PAC-26704,6,Valparaíso,Gastritis Crónica,6.0,0,02/06/2025,835000.0
+PAC-65255,32,Providencia,Neumonía,6.0,3,2026-04-29,416000.0
+PAC-46471,87,Concepción,Diabetes Mellitus Tipo 2,10.0,0,2025-03-28,668000.0
+PAC-44814,23,Santiago,Gastritis Crónica,7.0,2,2025-02-15,558000.0
+PAC-10851,39,Viña del Mar,Infección Respiratoria Aguda,6.0,1,2025-10-03,113000.0
+PAC-42706,66,Antofagasta,Infección Respiratoria Aguda,5.0,14,2025-07-14,338000.0
+PAC-55309,12,Providencia,Apendicitis Aguda,4.0,3,2025-01-03,821000.0
+PAC-70515,42,Viña del Mar,DM2,-3.0,14,2026-03-15,241000.0
+PAC-66959,26,Santiago,Apendicitis Aguda,10.0,0,,91000.0
+PAC-42177,27,Santiago,Artrosis,3.0,10,2026-04-08,401000.0
+PAC-70910,30,Maipú,Artrosis,12.0,5,2024-12-15,296000.0
+PAC-14067,65,Santiago,Neumonía,7.0,1,2026-07-23,764000.0
+PAC-59192,1,Concepción,DM2,,5,2025-05-16,327000.0
+PAC-23104,55,Santiago,HTA,6.0,0,2025-01-01,$249.000
+PAC-58571,68,Viña del Mar,Diabetes Mellitus Tipo 2,7.0,,2025-09-29,709000.0
+PAC-44600,185,Antofagasta,Infección Respiratoria Aguda,8.0,2,2025-06-09,96000.0
+PAC-86503,-12,,Hipertensión Arterial,,0,2026-02-13,277000.0
+PAC-81511,-9,Las Condes,,9.0,,2026-08-13,703000.0
+PAC-49829,5,santiago,Infección Respiratoria Aguda,7.0,2,2025-04-03,115000.0
+PAC-98555,52,Maipú,,2.0,0,2025-04-15,154000.0
+PAC-16630,17,Concepción,IRA,2.0,0,2025-06-28,314000.0
+PAC-64496,36,Maipú,Hipertensión Arterial,2.0,10,2026-08-03,432000.0
+PAC-24662,88,Valparaíso,HTA,,10,2026-08-12,253000.0
+PAC-19287,74,Valparaíso,Neumonía,15.0,3,2030-01-01,
+PAC-27477,40,Santiago,DM2,12.0,0,2027-15-40,504000.0
+PAC-55508,38,Las Condes,Diabetes Mellitus Tipo 2,2.0,10,2025-06-17,512000.0
+PAC-35825,89,Maipu,Gastritis Crónica,,0,2025-05-18,368000.0
+PAC-36062,81,santiago,Infección Respiratoria Aguda,8.0,2,2030-01-01,$202.000
+PAC-94696,-13,Maipú,Infección Respiratoria Aguda,1.0,0,2025-12-01,-150000
+PAC-95477,18,Santiago,diabetes mellitus 2,4.0,10,2025-05-22,29000.0
+PAC-77839,227,Antofagasta,IRA,6.0,0,2026-03-25,148000.0
+PAC-32241,40,santiago,Diabetes Mellitus Tipo 2,13.0,1,Sin registro,797000.0
+PAC-28726,14,Las Condes,Gastritis Crónica,2.0,3,2025-10-21,28000.0
+PAC-19862,87,Maipu,diabetes mellitus 2,6.0,2,2026-09-18,0
+PAC-64987,8,Antofagasta,Artrosis,9.0,0,2030-01-01,-150000
+PAC-21114,67,Providencia ,IRA,7.0,1,2024-11-24,309000.0
+PAC-57400,85,Las Condes,Neumonía,3.0,5,2025-11-25,387000.0
+PAC-76307,73,Santiago,Hipertensión Arterial,11.0,0,11/12/2024,221000.0
+PAC-20458,47,Maipú,Gastritis Crónica,11.0,0,2025-12-03,359000.0
+PAC-42098,59,Santiago,Artrosis,3.0,0,2025-01-23,244000.0
+PAC-86569,19,Concepción,Apendicitis Aguda,1.0,0,2026-04-25,$237.000
+PAC-97841,82,Viña del Mar,Infección Respiratoria Aguda,1.0,10,,137000.0
+PAC-77889,,santiago,Artrosis,3.0,,2026-04-16,
+PAC-98039,67,Viña del Mar,Diabetes Mellitus Tipo 2,2.0,3,2025-05-20,596000.0
+PAC-44237,21,Providencia,,6.0,,2025-04-09,590000.0
+PAC-99353,10,santiago,diabetes mellitus 2,8.0,0,2030-01-01,499000.0
+PAC-25713,,Santiago,Apendicitis Aguda,8.0,10,2026-06-23,98000.0
+PAC-25129,31,Las Condes,Apendicitis Aguda,1.0,5,2025-07-07,31000.0
+PAC-46463,14,santiago,IRA,10.0,1,2026-02-16,250000.0
+PAC-82512,77,La Florida,Infección Respiratoria Aguda,3.0,14,2025-12-13,275000.0
+PAC-54057,86,Puente Alto,Apendicitis Aguda,7.0,0,2026-08-06,218000.0
+PAC-23104,,Antofagasta,Apendicitis Aguda,5.0,0,2025-07-04,759000.0
+PAC-27146,45,Viña del Mar,Diabetes Mellitus Tipo 2,11.0,14,2026-08-30,
+PAC-38569,93,Pte Alto,Hipertensión Arterial,1.0,3,2026-07-30,410000.0
+PAC-87128,81,La Florida,HTA,3.0,0,26/09/2025,788000.0
+PAC-43972,11,Antofagasta,Hipertensión Arterial,11.0,0,2025-01-13,0
+PAC-68446,46,Concepción,Neumonía,7.0,14,2025-05-14,-150000
+PAC-22899,68,La Florida,Apendicitis Aguda,4.0,14,2025-10-11,583000.0
+PAC-57052,35,Providencia ,Diabetes Mellitus Tipo 2,15.0,5,Sin registro,595000.0
+PAC-95256,86,Providencia ,Hipertensión Arterial,7.0,3,2025-09-27,-150000
+PAC-27342,,,Artrosis,4.0,0,Sin registro,274000.0
+PAC-97062,59,Antofagasta,,11.0,5,2026-02-08,752000.0
+PAC-16590,88,Concepción,Apendicitis Aguda,13.0,2,2026-01-09,429000.0
+PAC-41195,30,Concepción,IRA,,1,2024-10-13,84000.0
+PAC-22280,,Providencia,Infección Respiratoria Aguda,8.0,0,2030-01-01,293000.0
+PAC-97900,87,Las Condes,HTA,15.0,0,Sin registro,166000.0
+PAC-83975,58,Viña del Mar,Gastritis Crónica,12.0,2,03/08/2026,375000.0
+PAC-99016,51,santiago,HTA,4.0,0,2025-06-03,78000.0
+PAC-46421,13,Santiago,diabetes mellitus 2,6.0,0,27/09/2026,181000.0
+PAC-66498,52,La Florida,Apendicitis Aguda,10.0,438,2026-01-21,154000.0
+PAC-15817,42,Concepción,Apendicitis Aguda,14.0,3,2026-01-18,331000.0
+PAC-41571,9,Valparaíso,Infección Respiratoria Aguda,,0,2025-02-21,123000.0
+PAC-82845,48,Valparaíso,Diabetes Mellitus Tipo 2,9.0,3,23/02/2026,$261.000
+PAC-65392,28,Providencia ,Diabetes Mellitus Tipo 2,10.0,0,2025-10-19,463000.0
+PAC-40007,50,Providencia ,Gastritis Crónica,1.0,2,2027-15-40,807000.0
+PAC-53279,,santiago,Artrosis,9.0,2,2025-10-22,802000.0
+PAC-38534,64,Pte Alto,Diabetes Mellitus Tipo 2,4.0,2,2025-09-22,$49.000
+PAC-20500,68,Maipú,Artrosis,5.0,1,2026-08-20,269000.0
+PAC-59009,90,Viña del Mar,DM2,6.0,0,2025-01-22,591000.0
+PAC-69598,6,Antofagasta,Hipertensión Arterial,8.0,3,2026-01-25,775000.0
+PAC-74686,48,Viña del Mar,Hipertensión Arterial,,5,2025-01-24,845000.0
+PAC-23577,14,Maipú,Diabetes Mellitus Tipo 2,2.0,3,2026-04-06,642000.0
+PAC-13248,44,La Florida,Hipertensión Arterial,6.0,2,2024-10-03,668000.0
+PAC-91959,48,,diabetes mellitus 2,14.0,0,15/11/2024,$51.000
+PAC-95909,65,Viña del Mar,HTA,13.0,0,2025-12-21,202000.0
+PAC-33819,62,Maipu,diabetes mellitus 2,9.0,0,2026-04-19,377000.0
+PAC-60432,59,santiago,Diabetes Mellitus Tipo 2,1.0,5,2025-04-26,162000.0
+PAC-97670,86,Antofagasta,diabetes mellitus 2,12.0,,2026-02-19,248000.0
+PAC-34890,73,Viña del Mar,IRA,6.0,0,2025-10-30,
+PAC-94607,82,Viña del Mar,,1.0,14,2026-04-16,496000.0
+PAC-34050,41,La Florida,Gastritis Crónica,11.0,3,2026-04-10,409000.0
+PAC-55082,71,Providencia ,DM2,8.0,2,12/10/2025,338000.0
+PAC-87656,4,Las Condes,Artrosis,2.0,14,2025-07-10,-150000
+PAC-68008,36,santiago,Diabetes Mellitus Tipo 2,244.0,1,2025-12-04,514000.0
+PAC-66057,60,Providencia ,Hipertensión Arterial,3.0,2,2025-08-14,426000.0
+PAC-62350,63,Las Condes,Apendicitis Aguda,11.0,0,2026-07-12,807000.0
+PAC-30861,219,Maipú,Diabetes Mellitus Tipo 2,3.0,0,2030-01-01,172000.0
+,34,Santiago,Diabetes Mellitus Tipo 2,14.0,1,13/11/2025,526000.0
+PAC-42591,70,La Florida,Infección Respiratoria Aguda,11.0,14,2026-07-05,811000.0
+PAC-99065,21,Viña del Mar,Apendicitis Aguda,5.0,902,2025-07-19,511000.0
+PAC-15229,43,Providencia ,Infección Respiratoria Aguda,8.0,0,2025-04-08,101000.0
+PAC-14207,77,Maipú,Artrosis,-3.0,5,,
+PAC-53309,21,Antofagasta,Neumonía,9.0,0,2030-01-01,390000.0
+PAC-62565,85,Antofagasta,HTA,-3.0,1,2025-10-25,242000.0
+PAC-60488,,Pte Alto,Gastritis Crónica,4.0,14,2027-15-40,-150000
+PAC-71694,89,Valparaíso,Diabetes Mellitus Tipo 2,3.0,1,2025-11-15,409000.0
+PAC-39154,67,Puente Alto,diabetes mellitus 2,319.0,2,07/07/2025,444000.0
+PAC-23396,4,Maipú,Artrosis,12.0,2,2026-07-10,148000.0
+PAC-42325,23,La Florida,Artrosis,3.0,5,2025-12-13,-150000
+PAC-13905,55,Valparaíso,Gastritis Crónica,12.0,2,2026-04-17,148000.0
+PAC-79163,16,Puente Alto,Gastritis Crónica,8.0,0,2026-04-06,-150000
+PAC-66346,29,Concepción,,389.0,1,2026-06-08,
+PAC-95215,225,Valparaíso,Gastritis Crónica,11.0,0,,599000.0
+PAC-31643,56,Maipú,Apendicitis Aguda,10.0,10,2030-01-01,743000.0
+PAC-70946,89,,Artrosis,9.0,14,2026-04-26,824000.0
+PAC-57472,77,,Apendicitis Aguda,,,2026-04-25,160000.0
+PAC-48890,,Maipú,,1.0,0,2024-10-28,556000.0
+PAC-98184,42,Las Condes,Neumonía,15.0,1,2025-05-31,591000.0
+PAC-92149,84,Puente Alto,Neumonía,7.0,3,2025-08-01,
+PAC-66346,27,Viña del Mar,diabetes mellitus 2,8.0,2,2025-01-04,832000.0
+PAC-19961,47,Valparaíso,Gastritis Crónica,3.0,5,2026-07-30,652000.0
+PAC-44760,93,Antofagasta,Apendicitis Aguda,4.0,0,2025-01-31,438000.0
+PAC-49363,56,Providencia,HTA,15.0,2,13/08/2025,0
+PAC-57795,,Viña del Mar,HTA,1.0,0,2025-09-22,409000.0
+PAC-29973,31,santiago,Neumonía,-3.0,3,2026-08-05,197000.0
+PAC-10053,86,Concepción,Gastritis Crónica,8.0,14,2024-11-15,750000.0
+PAC-25118,23,Las Condes,Neumonía,,0,2025-01-11,508000.0
+PAC-84668,47,Las Condes,DM2,4.0,3,2026-01-10,488000.0
+PAC-22704,42,Valparaíso,Hipertensión Arterial,14.0,2,2025-03-08,55000.0
+PAC-44760,10,Maipú,Apendicitis Aguda,4.0,0,2026-07-16,268000.0
+PAC-65519,84,Antofagasta,HTA,13.0,2,2025-11-07,431000.0
+PAC-72216,24,La Florida,IRA,,0,2024-10-11,158000.0
+PAC-91560,60,Puente Alto,Gastritis Crónica,9.0,0,2025-05-05,544000.0
+PAC-45382,4,santiago,DM2,9.0,0,2025-11-30,
+PAC-93130,14,Puente Alto,Infección Respiratoria Aguda,5.0,10,2024-11-11,324000.0
+PAC-18981,21,,IRA,12.0,2,2025-10-26,$194.000
+PAC-53719,224,Santiago,HTA,7.0,3,03/08/2026,347000.0
+,46,Antofagasta,Gastritis Crónica,8.0,3,2026-03-21,393000.0
+PAC-64496,40,Concepción,Neumonía,13.0,10,26/02/2026,424000.0
+PAC-73624,199,Maipú,Infección Respiratoria Aguda,5.0,3,2027-15-40,309000.0
+PAC-42914,50,Pte Alto,Neumonía,3.0,0,2026-02-28,290000.0
+PAC-19880,17,santiago,Artrosis,,0,2025-03-17,569000.0
+PAC-13905,16,Santiago,Apendicitis Aguda,11.0,10,2030-01-01,
+PAC-85880,85,Pte Alto,HTA,6.0,5,2025-04-20,166000.0
+PAC-95909,-8,Concepción,Hipertensión Arterial,10.0,2,2024-10-13,253000.0
+,25,santiago,Diabetes Mellitus Tipo 2,13.0,5,2025-09-30,$53.000
+PAC-52504,73,Las Condes,Gastritis Crónica,15.0,0,2025-01-23,744000.0
+PAC-42914,49,La Florida,Artrosis,2.0,1,2025-02-21,299000.0
+PAC-97012,68,Concepción,Gastritis Crónica,-3.0,14,2025-12-06,781000.0
+PAC-53540,7,Puente Alto,Infección Respiratoria Aguda,11.0,10,2025-10-31,486000.0
+PAC-85880,80,Antofagasta,diabetes mellitus 2,,0,2025-01-05,384000.0
+PAC-61856,4,Valparaíso,Apendicitis Aguda,15.0,2,2025-12-11,142000.0
+PAC-53404,51,Antofagasta,Hipertensión Arterial,1.0,5,2026-07-31,667000.0
+PAC-39831,58,Antofagasta,Neumonía,15.0,14,2026-06-27,215000.0
+PAC-23947,0,Maipu,,14.0,0,2027-15-40,0
+PAC-37742,24,Las Condes,Neumonía,9.0,0,2026-09-23,369000.0
+PAC-58520,94,,,14.0,5,2025-01-29,442000.0
+PAC-53719,29,Concepción,DM2,5.0,5,2026-04-22,0
+PAC-44760,26,Concepción,Diabetes Mellitus Tipo 2,-3.0,0,2024-11-01,
+PAC-45093,39,Santiago,Infección Respiratoria Aguda,11.0,0,2026-05-31,837000.0
+PAC-29313,44,Maipú,Neumonía,7.0,2,2025-07-23,275000.0
+PAC-99593,15,Santiago,Hipertensión Arterial,13.0,2,2026-08-20,$256.000
+PAC-22676,37,Viña del Mar,diabetes mellitus 2,6.0,0,20/09/2025,753000.0
+PAC-80539,49,Concepción,HTA,11.0,0,2025-08-21,824000.0
+,35,Las Condes,Hipertensión Arterial,11.0,0,2026-07-15,217000.0
+PAC-11267,53,Viña del Mar,Diabetes Mellitus Tipo 2,8.0,0,2025-04-04,727000.0
+PAC-38864,81,Providencia ,Hipertensión Arterial,3.0,0,2026-06-16,274000.0
+PAC-43065,17,Puente Alto,Gastritis Crónica,9.0,555,2026-05-16,695000.0
+,46,Maipú,Diabetes Mellitus Tipo 2,11.0,10,2027-15-40,791000.0
+PAC-71993,29,Viña del Mar,HTA,12.0,5,2024-12-03,682000.0
+PAC-55870,47,santiago,DM2,8.0,0,,95000.0
+PAC-46265,15,Valparaíso,HTA,11.0,0,2027-15-40,143000.0
+PAC-60140,57,Antofagasta,DM2,14.0,14,2025-05-26,$42.000
+PAC-85914,-9,Las Condes,Artrosis,2.0,2,2026-07-20,178000.0
+PAC-53933,90,Puente Alto,diabetes mellitus 2,8.0,1,2026-03-26,434000.0
+PAC-46463,42,,Apendicitis Aguda,15.0,14,2025-09-29,552000.0
+PAC-94607,71,Santiago,Diabetes Mellitus Tipo 2,10.0,0,2027-15-40,650000.0
+PAC-42493,,Maipú,,6.0,10,26/06/2026,455000.0
+PAC-38683,68,Viña del Mar,Gastritis Crónica,1.0,0,2026-08-19,339000.0
+PAC-96163,6,Santiago,Diabetes Mellitus Tipo 2,1.0,0,2024-12-04,104000.0
+PAC-90173,64,Maipú,Apendicitis Aguda,178.0,1,2024-11-29,601000.0
+PAC-91678,51,,Artrosis,14.0,14,2024-12-22,723000.0
+PAC-70332,2,Santiago,Artrosis,14.0,0,2025-03-22,522000.0
+PAC-83975,72,Maipu,Apendicitis Aguda,3.0,3,2025-05-22,647000.0
+PAC-85674,74,Las Condes,Apendicitis Aguda,1.0,545,2026-07-17,782000.0
+PAC-57472,,Concepción,IRA,12.0,1,2025-03-23,475000.0
+PAC-87607,37,Santiago,Neumonía,8.0,0,2025-06-12,687000.0
+PAC-23577,233,Maipú,Neumonía,12.0,,2026-08-10,0
+PAC-40021,4,Puente Alto,,15.0,14,2024-12-16,113000.0
+PAC-16057,51,Las Condes,HTA,4.0,3,2025-04-04,262000.0
+PAC-71261,21,Concepción,Artrosis,6.0,14,2025-05-18,521000.0
+PAC-40161,95,Maipú,Infección Respiratoria Aguda,5.0,3,2025-04-10,736000.0
+PAC-16630,91,Valparaíso,HTA,5.0,10,2025-01-28,87000.0
+,91,Antofagasta,Artrosis,,1,Sin registro,293000.0
+PAC-37742,64,Santiago,diabetes mellitus 2,-3.0,3,2024-10-14,818000.0
+,86,Las Condes,DM2,-3.0,561,2026-02-12,377000.0
+PAC-85454,72,Concepción,Infección Respiratoria Aguda,13.0,0,2026-03-13,387000.0
+PAC-31174,57,Providencia ,Neumonía,1.0,1,2026-01-13,517000.0
+PAC-54942,95,Valparaíso,Infección Respiratoria Aguda,11.0,0,2026-05-03,244000.0
+PAC-11025,24,La Florida,Gastritis Crónica,15.0,14,,845000.0
+PAC-37653,30,Santiago,Diabetes Mellitus Tipo 2,13.0,0,07/12/2025,840000.0
+PAC-91183,70,La Florida,,2.0,5,2026-03-08,615000.0
+PAC-60019,86,Las Condes,DM2,11.0,3,2025-11-03,820000.0
+,37,Antofagasta,Hipertensión Arterial,14.0,0,2024-10-29,562000.0
+PAC-19116,54,Maipú,Neumonía,12.0,0,2025-11-22,712000.0
+PAC-18326,50,santiago,Gastritis Crónica,3.0,2,2025-09-18,417000.0
+PAC-17944,80,santiago,Infección Respiratoria Aguda,9.0,2,2026-08-09,374000.0
+PAC-31465,75,santiago,Neumonía,4.0,0,2026-07-15,399000.0
+PAC-44760,92,Providencia ,Diabetes Mellitus Tipo 2,4.0,3,Sin registro,565000.0
+PAC-27154,78,Puente Alto,Infección Respiratoria Aguda,10.0,3,2026-04-04,260000.0
+PAC-82357,11,Viña del Mar,DM2,13.0,0,,-150000
+PAC-93748,87,Concepción,Gastritis Crónica,11.0,0,2026-08-26,200000.0
+PAC-38657,34,Antofagasta,Infección Respiratoria Aguda,2.0,,2025-12-03,
+PAC-68082,15,santiago,Diabetes Mellitus Tipo 2,10.0,0,2024-11-28,18000.0
+PAC-50538,32,Providencia,Diabetes Mellitus Tipo 2,266.0,0,2025-05-08,555000.0
+,71,Maipú,Infección Respiratoria Aguda,7.0,0,2025-09-28,740000.0
+PAC-76784,82,Valparaíso,IRA,5.0,0,2024-10-16,274000.0
+PAC-80644,15,Las Condes,Apendicitis Aguda,12.0,10,2026-04-25,579000.0
+PAC-57739,49,Maipú,Neumonía,12.0,10,09/11/2025,338000.0
+PAC-42098,86,Maipu,Apendicitis Aguda,13.0,0,2026-01-21,94000.0
+PAC-31643,54,,diabetes mellitus 2,7.0,2,2024-11-05,242000.0
+PAC-79827,93,,Artrosis,13.0,0,2026-04-01,401000.0
+PAC-70068,39,Las Condes,Apendicitis Aguda,14.0,0,2027-15-40,666000.0
+PAC-95990,48,Viña del Mar,Infección Respiratoria Aguda,400.0,0,2024-11-16,$297.000
+PAC-80697,,Santiago,,1.0,3,2026-01-29,208000.0
+PAC-97500,,Maipu,Diabetes Mellitus Tipo 2,9.0,1,2027-15-40,254000.0
+PAC-81819,77,Concepción,Infección Respiratoria Aguda,14.0,1,2024-11-19,385000.0
+PAC-86099,4,La Florida,Infección Respiratoria Aguda,9.0,0,2025-04-10,725000.0
+PAC-67433,64,Puente Alto,DM2,11.0,10,2026-05-24,351000.0
+PAC-18834,24,Las Condes,Artrosis,2.0,0,2025-09-16,358000.0
+PAC-19116,24,Providencia ,Neumonía,4.0,5,2025-04-12,772000.0
+PAC-61990,54,Viña del Mar,Infección Respiratoria Aguda,6.0,1,2024-12-01,468000.0
+PAC-95426,37,Santiago,Hipertensión Arterial,-3.0,0,2027-15-40,849000.0
+PAC-53540,8,Puente Alto,Hipertensión Arterial,13.0,0,2026-05-22,704000.0
+PAC-39154,91,Viña del Mar,Diabetes Mellitus Tipo 2,2.0,0,2025-08-12,17000.0
+PAC-52504,-12,Providencia,Apendicitis Aguda,10.0,0,2025-04-07,735000.0
+PAC-34890,51,Antofagasta,Hipertensión Arterial,10.0,0,2025-08-04,-150000
+PAC-40161,39,Puente Alto,Artrosis,9.0,0,2026-05-16,615000.0
+PAC-33405,59,Viña del Mar,IRA,8.0,14,2026-04-23,409000.0
+PAC-44741,72,Concepción,Gastritis Crónica,6.0,5,2025-04-26,268000.0
+PAC-26334,20,Providencia ,Gastritis Crónica,9.0,2,2026-05-09,607000.0
+PAC-54236,4,,DM2,9.0,3,2025-09-29,201000.0
+PAC-54587,73,Puente Alto,Neumonía,189.0,2,2025-12-09,336000.0
+PAC-80575,23,santiago,Neumonía,5.0,0,2025-09-29,-150000
+PAC-89507,50,Maipú,Infección Respiratoria Aguda,10.0,0,07/02/2025,
+PAC-32810,64,Concepción,Apendicitis Aguda,9.0,1,Sin registro,501000.0
+PAC-76317,4,Maipu,Neumonía,3.0,0,2027-15-40,97000.0
+PAC-84177,78,Valparaíso,Infección Respiratoria Aguda,5.0,2,2025-08-29,516000.0
+PAC-62383,72,Providencia ,HTA,5.0,0,,380000.0
+PAC-79329,62,Providencia,Hipertensión Arterial,1.0,0,2026-09-22,131000.0
+PAC-10221,36,Antofagasta,DM2,13.0,0,,485000.0
+PAC-14165,44,santiago,Hipertensión Arterial,8.0,10,,544000.0
+PAC-30861,22,Santiago,Gastritis Crónica,6.0,0,2025-09-15,716000.0
+PAC-74251,83,Providencia ,Hipertensión Arterial,3.0,3,04/01/2026,802000.0
+PAC-66346,59,Providencia,Apendicitis Aguda,7.0,0,2025-08-10,$282.000
+PAC-64987,24,La Florida,Artrosis,,,2027-15-40,312000.0
+PAC-37869,66,Viña del Mar,Hipertensión Arterial,14.0,2,,637000.0
+PAC-40828,16,Providencia ,Gastritis Crónica,1.0,14,2025-07-12,394000.0
+PAC-87992,71,Puente Alto,Artrosis,7.0,5,2026-05-20,838000.0
+PAC-71993,72,Antofagasta,Neumonía,1.0,5,2025-10-26,0
+PAC-23970,44,Providencia,Artrosis,10.0,1,2026-07-15,232000.0
+PAC-27477,77,Pte Alto,Diabetes Mellitus Tipo 2,3.0,0,08/08/2026,0
+PAC-44760,1,Antofagasta,DM2,5.0,14,2025-03-26,152000.0
+PAC-35112,69,Providencia,Gastritis Crónica,12.0,2,2025-02-17,630000.0
+PAC-77889,33,Las Condes,IRA,12.0,0,,484000.0
+PAC-36685,51,Providencia,Infección Respiratoria Aguda,2.0,14,2026-01-08,76000.0
+PAC-90173,143,La Florida,Diabetes Mellitus Tipo 2,9.0,,,706000.0
+PAC-38016,24,Concepción,Diabetes Mellitus Tipo 2,13.0,0,2025-04-20,483000.0
+PAC-69598,80,Santiago,Artrosis,3.0,0,2025-05-08,406000.0
+PAC-27146,17,Maipu,Apendicitis Aguda,1.0,14,2026-04-09,541000.0
+PAC-22363,25,Valparaíso,Gastritis Crónica,1.0,3,2026-09-27,504000.0
+PAC-23396,34,Maipu,Gastritis Crónica,9.0,10,2024-12-09,760000.0
+PAC-77839,70,Providencia,Artrosis,7.0,14,2027-15-40,486000.0
+PAC-24621,,Valparaíso,Diabetes Mellitus Tipo 2,5.0,3,2025-08-18,833000.0
+PAC-54597,69,La Florida,Gastritis Crónica,12.0,0,2024-12-06,
+PAC-68446,64,Valparaíso,Apendicitis Aguda,5.0,0,2025-07-20,313000.0
+PAC-51441,3,Las Condes,Gastritis Crónica,6.0,0,2024-12-06,847000.0
+PAC-22899,,Santiago,Neumonía,10.0,1,15/02/2026,107000.0
+PAC-87924,37,santiago,Diabetes Mellitus Tipo 2,9.0,0,2025-09-15,-150000
+,55,Viña del Mar,Hipertensión Arterial,431.0,3,2025-08-31,-150000
+PAC-25860,92,Concepción,Neumonía,4.0,2,2025-05-19,786000.0
+PAC-62227,87,Maipú,Gastritis Crónica,2.0,3,2025-08-05,265000.0
+PAC-90173,35,Valparaíso,Infección Respiratoria Aguda,15.0,0,,396000.0
+PAC-24371,77,Providencia,Artrosis,6.0,668,2024-12-16,481000.0
+PAC-39154,27,Providencia,Gastritis Crónica,,0,2030-01-01,324000.0
+PAC-10053,31,Viña del Mar,HTA,1.0,1,2027-15-40,581000.0
+PAC-47196,22,La Florida,Apendicitis Aguda,4.0,2,2025-10-27,276000.0
+PAC-59857,8,Antofagasta,HTA,6.0,0,2026-08-04,636000.0
+PAC-86099,82,,Artrosis,477.0,1,2025-08-05,566000.0
+PAC-40512,24,Puente Alto,IRA,3.0,3,2026-04-27,0
+PAC-13201,67,La Florida,Diabetes Mellitus Tipo 2,3.0,5,2026-02-04,282000.0
+PAC-80381,90,Antofagasta,DM2,8.0,5,2026-05-10,80000.0
+PAC-68082,179,Providencia,IRA,15.0,14,2026-09-08,265000.0
+PAC-62383,80,Antofagasta,Diabetes Mellitus Tipo 2,14.0,3,2025-07-21,428000.0
+PAC-21915,87,Providencia,Hipertensión Arterial,6.0,0,2025-05-03,25000.0
+PAC-87110,73,,Artrosis,8.0,14,2025-09-10,97000.0
+PAC-80292,64,Concepción,Gastritis Crónica,1.0,1,2026-01-31,191000.0
+PAC-16006,67,Valparaíso,Gastritis Crónica,6.0,0,2025-09-20,229000.0
+PAC-68446,,Antofagasta,Apendicitis Aguda,8.0,0,,$156.000
+PAC-69177,36,Maipú,Gastritis Crónica,1.0,2,2026-05-28,269000.0
+PAC-95215,69,Las Condes,Apendicitis Aguda,,5,2025-01-20,
+PAC-95909,36,La Florida,IRA,,0,2026-05-07,730000.0
+PAC-95181,82,Providencia ,Apendicitis Aguda,3.0,3,2026-03-12,252000.0
+PAC-46471,6,Las Condes,Gastritis Crónica,3.0,,2026-06-03,47000.0
+PAC-13804,37,Las Condes,Apendicitis Aguda,3.0,2,2027-15-40,825000.0
+PAC-92960,,Pte Alto,Diabetes Mellitus Tipo 2,-3.0,0,2027-15-40,552000.0
+PAC-70946,71,Valparaíso,DM2,13.0,1,27/08/2025,
+PAC-18418,17,,Apendicitis Aguda,13.0,,2026-02-18,0
+PAC-15014,184,Puente Alto,DM2,6.0,1,2024-12-07,
+PAC-42706,84,Pte Alto,Apendicitis Aguda,234.0,1,,
+PAC-38864,55,Antofagasta,HTA,11.0,1,2024-12-30,546000.0
+PAC-55082,6,Maipu,Neumonía,8.0,,2025-04-20,0
+PAC-19287,4,Providencia ,Diabetes Mellitus Tipo 2,13.0,2,2025-09-25,719000.0
+PAC-96474,21,Puente Alto,Artrosis,11.0,2,2025-05-19,760000.0
+PAC-81810,71,Antofagasta,Artrosis,5.0,10,,430000.0
+PAC-34957,84,Valparaíso,Gastritis Crónica,,2,2026-03-19,681000.0
+PAC-30866,,Providencia,Neumonía,1.0,,2026-08-25,185000.0
+PAC-80644,38,Maipú,Artrosis,8.0,,Sin registro,653000.0
+PAC-81482,33,Providencia,Apendicitis Aguda,2.0,0,2026-07-04,602000.0
+PAC-69429,82,Valparaíso,Diabetes Mellitus Tipo 2,15.0,14,2024-10-27,617000.0
+PAC-99016,81,Puente Alto,Apendicitis Aguda,13.0,2,09/08/2025,-150000
+PAC-97900,92,La Florida,Infección Respiratoria Aguda,1.0,1,2025-04-22,
+PAC-62994,61,Pte Alto,,5.0,10,2025-01-12,422000.0
+PAC-95990,75,Antofagasta,Gastritis Crónica,1.0,1,2027-15-40,165000.0
+PAC-42098,59,Las Condes,Artrosis,4.0,0,2024-12-30,460000.0
+PAC-92149,54,Las Condes,Infección Respiratoria Aguda,13.0,0,17/11/2025,$103.000
+PAC-96706,75,Viña del Mar,DM2,12.0,14,2026-01-23,-150000
+PAC-32431,3,Antofagasta,Neumonía,12.0,1,2025-10-16,572000.0
+PAC-94259,66,La Florida,diabetes mellitus 2,-3.0,14,2025-12-04,247000.0
+PAC-71953,18,Santiago,Infección Respiratoria Aguda,4.0,10,2025-05-29,727000.0
+PAC-52487,74,Providencia ,IRA,232.0,3,2025-06-16,522000.0
+PAC-46347,9,Concepción,HTA,2.0,3,2024-10-17,60000.0
+PAC-91070,88,Providencia,Artrosis,8.0,0,2026-06-27,671000.0
+PAC-30926,68,Valparaíso,Infección Respiratoria Aguda,13.0,10,2025-01-03,795000.0
+PAC-42527,40,Antofagasta,Neumonía,9.0,0,2025-05-26,488000.0
+PAC-17665,89,Maipú,Artrosis,3.0,0,2026-03-01,799000.0
+,,Providencia ,Gastritis Crónica,13.0,10,2026-07-26,821000.0
+PAC-38893,21,Antofagasta,Infección Respiratoria Aguda,12.0,14,2025-08-09,$163.000
+PAC-40007,13,Providencia,diabetes mellitus 2,5.0,10,2027-15-40,600000.0
+PAC-25012,71,Valparaíso,Gastritis Crónica,1.0,0,Sin registro,328000.0
+PAC-90728,13,,Neumonía,12.0,0,2027-15-40,167000.0
+PAC-82692,-7,Puente Alto,Apendicitis Aguda,,0,2025-01-03,589000.0
+PAC-54057,,Viña del Mar,DM2,7.0,0,2025-10-20,147000.0
+PAC-97410,-6,Santiago,Infección Respiratoria Aguda,5.0,10,2030-01-01,$74.000
+PAC-69429,1,Las Condes,Infección Respiratoria Aguda,,0,2026-08-23,782000.0
+PAC-30032,45,Viña del Mar,Hipertensión Arterial,1.0,0,2026-09-13,828000.0
+PAC-11267,,Puente Alto,diabetes mellitus 2,-3.0,2,2027-15-40,437000.0
+PAC-30374,60,Santiago,Diabetes Mellitus Tipo 2,13.0,,Sin registro,615000.0
+PAC-46471,61,Puente Alto,diabetes mellitus 2,15.0,605,2025-06-15,579000.0
+PAC-65108,,Maipú,diabetes mellitus 2,13.0,14,2026-01-13,588000.0
+PAC-21226,84,Viña del Mar,diabetes mellitus 2,5.0,14,2026-03-15,272000.0
+PAC-24208,1,Viña del Mar,Artrosis,7.0,1,2025-12-10,-150000
+PAC-33086,92,Maipu,DM2,12.0,14,2026-07-03,474000.0
+PAC-96752,70,Viña del Mar,IRA,1.0,0,2024-12-22,401000.0
+PAC-59823,94,Maipú,Artrosis,3.0,10,2025-12-30,249000.0
+PAC-91351,21,Antofagasta,DM2,1.0,10,2025-10-01,0
+PAC-80697,67,Las Condes,HTA,9.0,0,2026-02-01,397000.0
+PAC-19016,24,La Florida,Diabetes Mellitus Tipo 2,-3.0,14,2026-04-10,
+PAC-44237,59,Antofagasta,Infección Respiratoria Aguda,324.0,5,2026-03-22,581000.0
+PAC-77000,36,Viña del Mar,Apendicitis Aguda,15.0,0,2024-10-27,121000.0
+PAC-31417,65,Antofagasta,Diabetes Mellitus Tipo 2,7.0,14,14/11/2025,416000.0
+PAC-68991,94,Puente Alto,Infección Respiratoria Aguda,5.0,14,2024-12-08,$64.000
+PAC-92240,28,santiago,DM2,13.0,0,2025-01-19,0
+PAC-72277,1,Providencia,IRA,11.0,2,2026-05-13,279000.0
+PAC-99353,38,Las Condes,diabetes mellitus 2,11.0,3,2024-10-03,636000.0
+PAC-88193,71,Providencia ,Diabetes Mellitus Tipo 2,15.0,10,2025-09-19,836000.0
+PAC-41385,8,La Florida,Neumonía,2.0,2,Sin registro,825000.0
+PAC-80381,27,Las Condes,DM2,12.0,0,2025-04-03,172000.0
+PAC-49529,72,La Florida,Artrosis,14.0,0,2024-12-26,621000.0
+PAC-69929,40,Providencia ,DM2,8.0,0,2024-11-05,-150000
+PAC-59857,78,santiago,HTA,14.0,14,2025-06-22,0
+PAC-11220,21,Puente Alto,HTA,14.0,0,2026-01-10,379000.0
+PAC-24168,83,La Florida,,13.0,,2025-12-18,174000.0
+PAC-82420,89,Providencia,Infección Respiratoria Aguda,12.0,3,2025-06-15,717000.0
+PAC-76768,81,,Apendicitis Aguda,12.0,10,2024-11-17,$51.000
+PAC-29536,63,Puente Alto,Neumonía,15.0,10,2030-01-01,311000.0
+PAC-62383,72,Santiago,diabetes mellitus 2,13.0,1,2026-08-18,443000.0
+PAC-46434,163,La Florida,Artrosis,15.0,0,2030-01-01,0
+PAC-38893,-4,Concepción,Apendicitis Aguda,10.0,1,2025-05-01,687000.0
+PAC-96474,49,Providencia ,IRA,5.0,,2027-15-40,335000.0
+PAC-29973,43,Concepción,Gastritis Crónica,12.0,983,2030-01-01,456000.0
+PAC-50404,211,Concepción,Neumonía,3.0,2,2025-07-16,26000.0
+PAC-89457,51,Santiago,,,0,2026-01-20,781000.0
+PAC-56438,58,Las Condes,Gastritis Crónica,8.0,3,Sin registro,$71.000
+PAC-97500,10,Santiago,Apendicitis Aguda,3.0,0,22/07/2026,442000.0
+PAC-95649,0,santiago,Diabetes Mellitus Tipo 2,3.0,2,2030-01-01,521000.0
+PAC-92397,-6,Santiago,Hipertensión Arterial,10.0,0,2025-07-18,201000.0
+PAC-82420,231,Antofagasta,Hipertensión Arterial,395.0,3,2030-01-01,151000.0
+PAC-99065,49,Antofagasta,Apendicitis Aguda,11.0,0,2024-11-26,-150000
+PAC-65057,30,Concepción,Hipertensión Arterial,6.0,5,2027-15-40,
+PAC-26483,55,,DM2,3.0,,2026-02-02,637000.0
+PAC-16658,37,Viña del Mar,Infección Respiratoria Aguda,14.0,0,2026-05-20,188000.0
+PAC-15276,75,Las Condes,Apendicitis Aguda,13.0,10,2025-04-07,214000.0
+PAC-80010,56,Providencia,diabetes mellitus 2,6.0,0,11/03/2025,103000.0
+PAC-38683,,Maipu,diabetes mellitus 2,14.0,0,2026-04-01,453000.0
+PAC-74686,-15,Providencia ,Hipertensión Arterial,7.0,0,2024-11-24,0
+PAC-15276,-1,Viña del Mar,diabetes mellitus 2,7.0,10,2024-11-01,78000.0
+PAC-32810,91,La Florida,Infección Respiratoria Aguda,-3.0,0,2026-04-08,552000.0
+PAC-46048,88,Antofagasta,IRA,13.0,3,2025-07-31,424000.0
+PAC-11658,64,Providencia,IRA,2.0,14,2025-01-23,44000.0
+,90,Maipú,Artrosis,8.0,10,2025-05-28,$275.000
+PAC-94696,13,Santiago,Artrosis,4.0,0,2025-10-13,849000.0
+PAC-86503,14,Concepción,Apendicitis Aguda,9.0,1,2026-03-28,605000.0
+PAC-41979,70,Viña del Mar,HTA,2.0,14,,$27.000
+PAC-20561,68,Las Condes,Neumonía,1.0,5,Sin registro,166000.0
+PAC-40982,78,Puente Alto,,3.0,0,2025-12-14,194000.0
+,39,Concepción,Diabetes Mellitus Tipo 2,14.0,0,2024-11-23,72000.0
+PAC-14722,35,Antofagasta,Apendicitis Aguda,4.0,3,Sin registro,760000.0
+PAC-83060,86,Antofagasta,Artrosis,12.0,3,2026-05-29,84000.0
+PAC-70889,85,Las Condes,Artrosis,15.0,0,2025-12-09,-150000
+PAC-70515,42,Maipú,Diabetes Mellitus Tipo 2,242.0,5,Sin registro,392000.0
+PAC-25012,41,Viña del Mar,Diabetes Mellitus Tipo 2,8.0,2,2026-09-01,269000.0
+PAC-46347,86,Antofagasta,Apendicitis Aguda,14.0,374,27/03/2026,480000.0
+PAC-71953,94,Providencia,Gastritis Crónica,4.0,,2024-12-15,394000.0
+PAC-16590,88,Concepción,Neumonía,15.0,3,2025-11-10,650000.0
+PAC-35825,27,Providencia,Diabetes Mellitus Tipo 2,10.0,10,2025-12-18,196000.0
+PAC-76307,22,,Apendicitis Aguda,5.0,0,2025-11-29,$277.000
+PAC-42098,29,Maipú,Neumonía,1.0,14,2026-06-25,434000.0
+PAC-11504,86,Maipú,Hipertensión Arterial,11.0,10,2024-10-25,-150000
+PAC-88193,24,Valparaíso,Artrosis,8.0,0,2026-07-05,478000.0
+,55,Las Condes,Gastritis Crónica,4.0,0,,634000.0
+PAC-94246,48,Las Condes,Artrosis,13.0,0,2025-08-03,592000.0
+PAC-51347,56,Valparaíso,Gastritis Crónica,10.0,0,2024-10-19,-150000
+,92,Viña del Mar,Artrosis,-3.0,3,2026-06-05,770000.0
+PAC-78146,82,Puente Alto,Hipertensión Arterial,8.0,0,2026-04-21,269000.0
+PAC-40735,47,La Florida,Hipertensión Arterial,2.0,1,2025-05-22,842000.0
+PAC-63528,28,Providencia,HTA,10.0,0,,265000.0
+PAC-20155,90,,Diabetes Mellitus Tipo 2,7.0,0,2025-07-05,434000.0
+PAC-16175,48,Antofagasta,DM2,8.0,14,2024-10-07,79000.0
+PAC-65461,21,santiago,Diabetes Mellitus Tipo 2,3.0,0,2026-01-11,823000.0
+PAC-98184,3,Santiago,Diabetes Mellitus Tipo 2,5.0,0,2025-03-29,250000.0
+PAC-51347,19,,Hipertensión Arterial,2.0,0,,426000.0
+PAC-23238,44,Las Condes,Infección Respiratoria Aguda,3.0,5,2024-11-21,348000.0
+PAC-97900,64,Providencia,Neumonía,13.0,,2026-06-20,465000.0
+PAC-87924,30,Maipú,Diabetes Mellitus Tipo 2,399.0,5,2030-01-01,480000.0
+PAC-92397,55,Concepción,Artrosis,1.0,0,2025-08-04,628000.0
+PAC-94874,72,Valparaíso,Artrosis,249.0,0,2026-08-13,-150000
+PAC-44760,31,Valparaíso,Infección Respiratoria Aguda,12.0,2,2025-08-22,377000.0
+PAC-23396,71,Las Condes,Diabetes Mellitus Tipo 2,,794,Sin registro,$285.000
+PAC-40495,81,Concepción,diabetes mellitus 2,237.0,0,2026-02-08,556000.0
+PAC-82132,69,Antofagasta,Infección Respiratoria Aguda,6.0,0,17/02/2025,189000.0
+PAC-13905,95,Maipú,Artrosis,399.0,10,,19000.0
+PAC-50768,64,Maipú,Hipertensión Arterial,12.0,5,2026-06-13,523000.0
+PAC-83579,50,Antofagasta,Neumonía,9.0,1,2025-11-15,66000.0
+PAC-17455,5,Maipú,Neumonía,13.0,,2025-06-18,377000.0
+PAC-86569,81,santiago,HTA,1.0,2,2026-01-13,673000.0
+PAC-48427,47,Providencia,Artrosis,5.0,0,17/07/2026,540000.0
+PAC-58520,42,Valparaíso,Infección Respiratoria Aguda,9.0,10,2030-01-01,282000.0
+PAC-96706,22,Puente Alto,Infección Respiratoria Aguda,320.0,0,2026-05-11,$273.000
+PAC-63264,27,Las Condes,Neumonía,6.0,2,2026-04-08,794000.0
+PAC-31319,68,Antofagasta,Artrosis,3.0,5,2027-15-40,725000.0
+PAC-88907,2,La Florida,Artrosis,9.0,,2025-05-21,571000.0
+PAC-80855,89,Valparaíso,Gastritis Crónica,5.0,5,,675000.0
+PAC-76542,48,Antofagasta,DM2,,0,2026-07-06,0
+PAC-10221,60,Maipu,Apendicitis Aguda,,0,,465000.0
+PAC-84593,57,Providencia ,DM2,14.0,1,2026-03-20,0
+PAC-81810,52,La Florida,Diabetes Mellitus Tipo 2,8.0,3,,823000.0
+PAC-42271,73,santiago,Gastritis Crónica,4.0,0,2025-05-27,0
+PAC-20561,65,Las Condes,DM2,9.0,0,2025-02-24,576000.0
+PAC-60488,72,Maipú,DM2,1.0,,2026-08-27,464000.0
+PAC-57795,1,Maipú,DM2,,5,2027-15-40,166000.0
+PAC-80678,41,Maipú,Artrosis,10.0,0,2024-12-30,30000.0
+PAC-13248,13,Pte Alto,Gastritis Crónica,9.0,0,2026-07-08,492000.0
+PAC-46265,61,Valparaíso,Apendicitis Aguda,5.0,1,2025-02-12,77000.0
+PAC-69177,25,Valparaíso,,8.0,14,2025-01-02,-150000
+PAC-60205,,Puente Alto,Gastritis Crónica,1.0,2,2025-12-03,837000.0
+PAC-17944,53,Providencia,Diabetes Mellitus Tipo 2,7.0,0,2024-10-19,600000.0
+PAC-50768,69,Puente Alto,Hipertensión Arterial,,10,16/03/2025,452000.0
+,20,Santiago,Gastritis Crónica,12.0,2,22/04/2025,295000.0
+PAC-97806,0,Valparaíso,Hipertensión Arterial,8.0,0,2025-09-26,580000.0
+PAC-66498,58,Antofagasta,Neumonía,15.0,3,2025-01-19,243000.0
+PAC-42953,70,Providencia,Diabetes Mellitus Tipo 2,11.0,0,2026-01-10,530000.0
+PAC-87110,241,,Gastritis Crónica,11.0,0,2027-15-40,320000.0
+PAC-62296,82,Antofagasta,Gastritis Crónica,9.0,14,2025-10-03,585000.0
+PAC-41850,157,Viña del Mar,diabetes mellitus 2,6.0,969,2025-04-26,290000.0
+PAC-76244,4,Puente Alto,Artrosis,4.0,10,2027-15-40,272000.0
+PAC-93136,70,Maipú,Hipertensión Arterial,14.0,1,2027-15-40,39000.0
+PAC-57400,52,Las Condes,Hipertensión Arterial,1.0,3,,847000.0
+PAC-34890,68,Las Condes,IRA,9.0,0,2027-15-40,577000.0
+PAC-23947,40,La Florida,Infección Respiratoria Aguda,3.0,0,21/03/2026,266000.0
+PAC-85574,35,,Gastritis Crónica,4.0,0,2026-02-13,675000.0
+,33,Santiago,DM2,12.0,0,2026-06-23,-150000
+PAC-97500,15,Maipu,DM2,,0,Sin registro,275000.0
+PAC-76540,28,Viña del Mar,Hipertensión Arterial,12.0,0,2025-05-11,470000.0
+PAC-98781,64,Providencia,Infección Respiratoria Aguda,3.0,3,,23000.0
+PAC-23577,14,Viña del Mar,Neumonía,15.0,0,2026-08-08,600000.0
+PAC-76244,13,Puente Alto,diabetes mellitus 2,195.0,0,Sin registro,353000.0
+PAC-66498,22,Maipú,DM2,3.0,3,2025-07-24,-150000
+PAC-98781,31,Providencia,Gastritis Crónica,9.0,1,2025-05-27,$191.000
+PAC-41850,68,La Florida,Hipertensión Arterial,15.0,0,2024-11-19,752000.0
+PAC-42953,81,La Florida,Neumonía,11.0,1,05/02/2026,
+PAC-38221,0,Antofagasta,Apendicitis Aguda,9.0,10,2026-05-16,70000.0
+PAC-97153,55,Santiago,Neumonía,9.0,2,,322000.0
+PAC-40982,222,Valparaíso,Hipertensión Arterial,7.0,0,2025-01-07,275000.0
+PAC-11504,16,santiago,Neumonía,4.0,0,2025-07-11,183000.0
+PAC-30257,86,Concepción,Infección Respiratoria Aguda,14.0,0,2026-01-31,322000.0
+PAC-65519,48,Santiago,Hipertensión Arterial,7.0,0,Sin registro,785000.0
+PAC-87992,76,Santiago,Gastritis Crónica,3.0,14,2026-02-12,190000.0
+PAC-80798,62,Puente Alto,Infección Respiratoria Aguda,8.0,10,2024-11-14,
+PAC-72277,12,Providencia,Infección Respiratoria Aguda,3.0,2,2025-07-31,633000.0
+PAC-15229,93,Providencia ,Apendicitis Aguda,15.0,0,2025-03-04,778000.0
+PAC-95649,-12,,,6.0,5,2025-08-16,145000.0
+PAC-51467,40,Providencia ,DM2,8.0,0,2025-06-03,310000.0
+PAC-50857,22,Providencia ,diabetes mellitus 2,,3,2026-05-20,378000.0
+PAC-42591,79,Valparaíso,,8.0,5,2027-15-40,$277.000
+PAC-71644,76,Antofagasta,Infección Respiratoria Aguda,7.0,0,2025-04-21,58000.0
+PAC-34050,69,La Florida,diabetes mellitus 2,3.0,0,2026-09-11,-150000
+PAC-41571,,Santiago,Neumonía,13.0,14,2026-04-28,253000.0
+PAC-41266,49,Antofagasta,diabetes mellitus 2,8.0,0,2025-10-26,729000.0
+PAC-79329,18,Santiago,Artrosis,4.0,3,,
+PAC-16826,56,Providencia,Infección Respiratoria Aguda,10.0,0,2027-15-40,
+PAC-41850,179,Santiago,Diabetes Mellitus Tipo 2,3.0,0,2025-09-16,833000.0
+PAC-56438,61,Santiago,Gastritis Crónica,9.0,10,2025-12-06,354000.0
+PAC-31178,67,Las Condes,Gastritis Crónica,1.0,3,2025-08-15,$236.000
+PAC-41029,4,Puente Alto,DM2,13.0,14,28/09/2024,754000.0
+PAC-65518,59,Valparaíso,Hipertensión Arterial,3.0,10,2030-01-01,774000.0
+PAC-23104,42,Antofagasta,Infección Respiratoria Aguda,12.0,0,2026-09-19,690000.0
+PAC-67954,6,Viña del Mar,HTA,5.0,14,2026-06-29,252000.0
+PAC-67125,9,Puente Alto,Apendicitis Aguda,2.0,14,2025-08-20,750000.0
+PAC-44335,47,Puente Alto,Neumonía,5.0,5,2026-09-16,429000.0
+PAC-70952,32,Las Condes,Artrosis,10.0,5,2025-05-01,399000.0
+PAC-31579,,Antofagasta,IRA,4.0,0,2026-05-14,-150000
+PAC-28289,6,La Florida,Neumonía,10.0,,2024-11-22,0
+,35,Providencia,Hipertensión Arterial,11.0,10,2025-01-23,569000.0
+PAC-65255,5,Providencia,Gastritis Crónica,3.0,1,2025-04-28,712000.0
+PAC-80381,48,Providencia ,Apendicitis Aguda,3.0,14,2026-02-09,488000.0
+PAC-16006,41,Providencia,Apendicitis Aguda,5.0,0,2025-12-08,226000.0
+PAC-36365,137,Maipú,,14.0,0,2025-09-13,493000.0
+PAC-23396,9,La Florida,Neumonía,,0,2025-09-27,667000.0
+PAC-42098,-11,Santiago,Gastritis Crónica,15.0,3,2025-08-10,0
+PAC-71644,60,Providencia,Infección Respiratoria Aguda,10.0,0,2026-01-13,227000.0
+PAC-71213,18,Providencia ,Infección Respiratoria Aguda,13.0,14,2027-15-40,124000.0
+PAC-37869,80,La Florida,Hipertensión Arterial,4.0,10,2027-15-40,34000.0
+PAC-83060,33,Santiago,Diabetes Mellitus Tipo 2,9.0,0,2026-08-02,0
+PAC-81066,,Maipú,Hipertensión Arterial,12.0,14,2026-05-06,600000.0
+PAC-70068,41,La Florida,Infección Respiratoria Aguda,7.0,0,2025-02-01,538000.0
+PAC-85674,31,Puente Alto,Apendicitis Aguda,256.0,0,05/10/2025,53000.0
+PAC-70258,30,Valparaíso,Diabetes Mellitus Tipo 2,,5,2026-03-06,125000.0
+PAC-18834,26,Maipú,Hipertensión Arterial,,2,2025-10-15,-150000
+PAC-32431,79,Providencia,Hipertensión Arterial,14.0,5,2026-08-30,
+PAC-21915,32,Valparaíso,,10.0,2,2025-08-31,848000.0
+PAC-22833,164,Providencia,Neumonía,3.0,5,2025-08-19,646000.0
+PAC-15482,50,Providencia,Hipertensión Arterial,12.0,0,2026-09-12,27000.0
