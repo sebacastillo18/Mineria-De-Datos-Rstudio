@@ -158,9 +158,9 @@ datos$cantidad_consultas[is.na(datos$cantidad_consultas)] <- mediana_consultas
 str(datos)
 summary(datos)
 
-# ==============================================================================
+
 # INTEGRANTE 3: Transformación, Estadísticas y Normalización
-# ==============================================================================
+
 # Se toma la variable 'datos' limpia y se aplica pipeline dplyr
 datos_transformados <- datos %>%
   mutate(
@@ -187,10 +187,7 @@ resumen_gestion <- datos_transformados %>%
     .groups = "drop"
   )
 
-
-# ==============================================================================
-# INTEGRANTE 4: Validación Final, Privacidad y Exportación (TU PARTE)
-# ==============================================================================
+# INTEGRANTE 4: Validación Final, Privacidad y Exportación 
 cat("\n\n--- VALIDACIÓN FINAL ---\n")
 cat("Dimensiones Finales:", nrow(datos_transformados), "filas y", ncol(datos_transformados), "columnas.\n")
 cat("Duplicados residuales en ID (Atenciones múltiples válidas):", sum(duplicated(datos_transformados$id_paciente)), "\n")
