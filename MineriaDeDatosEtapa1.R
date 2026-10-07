@@ -157,3 +157,47 @@ datos$cantidad_consultas[is.na(datos$cantidad_consultas)] <- mediana_consultas
 
 str(datos)
 summary(datos)
+
+# ==============================================================================
+# INTEGRANTE 3: Transformación, Estadísticas y Normalización
+# ==============================================================================
+# Se toma la variable 'datos' limpia y se aplica pipeline dplyr
+datos_transformados <- datos %>%
+  mutate(
+    # 1. Creación de variable derivada (Grupo Etario)
+    grupo_etario = case_when(
+      edad < 18 ~ "Menor de edad",
+      edad < 65 ~ "Adulto",
+      TRUE ~ "Adulto mayor"
+    ),
+    
+    # 2. Normalización Z-score de la variable costo_atencion
+    costo_std = as.numeric(scale(costo_atencion))
+  ) %>%
+  # 3. Ordenamiento final
+  arrange(desc(dias_hospitalizacion))
+
+# Generación del resumen estadístico poblacional agrupado
+resumen_gestion <- datos_transformados %>%
+  group_by(comuna, grupo_etario) %>%
+  summarise(
+    total_pacientes = n(),
+    promedio_hospitalizacion = mean(dias_hospitalizacion, na.rm = TRUE),
+    desviacion_hospitalizacion = sd(dias_hospitalizacion, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+
+# ==============================================================================
+# INTEGRANTE 4: Validación Final, Privacidad y Exportación (TU PARTE)
+# ==============================================================================
+cat("\n\n--- VALIDACIÓN FINAL ---\n")
+cat("Dimensiones Finales:", nrow(datos_transformados), "filas y", ncol(datos_transformados), "columnas.\n")
+cat("Duplicados residuales en ID (Atenciones múltiples válidas):", sum(duplicated(datos_transformados$id_paciente)), "\n")
+cat("\nNulos finales por columna:\n")
+print(colSums(is.na(datos_transformados)))
+cat("\nRango validado de edad:", min(datos_transformados$edad, na.rm = TRUE), "-", max(datos_transformados$edad, na.rm = TRUE), "años\n")
+
+# Exportación del archivo limpio final
+write.csv(datos_transformados, "dataset_limpio.csv", row.names = FALSE)
+cat("\nArchivo exportado exitosamente como: dataset_limpio.csv\n")
